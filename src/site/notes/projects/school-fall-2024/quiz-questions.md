@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-fall-2024/quiz-questions/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/school-fall-2024/quiz-questions/"}
 ---
 
 

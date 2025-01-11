@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-fall-2024/physics/lessons/measurement-precision-accuracy-lab/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/school-fall-2024/physics/lessons/measurement-precision-accuracy-lab/"}
 ---
 
 Delayed due to snow.

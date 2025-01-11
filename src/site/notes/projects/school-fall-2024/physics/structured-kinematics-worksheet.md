@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-fall-2024/physics/structured-kinematics-worksheet/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/school-fall-2024/physics/structured-kinematics-worksheet/"}
 ---
 
 

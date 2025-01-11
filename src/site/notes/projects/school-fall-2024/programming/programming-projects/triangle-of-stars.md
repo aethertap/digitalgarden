@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-fall-2024/programming/programming-projects/triangle-of-stars/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/school-fall-2024/programming/programming-projects/triangle-of-stars/"}
 ---
 
 

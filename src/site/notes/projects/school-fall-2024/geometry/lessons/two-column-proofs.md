@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-fall-2024/geometry/lessons/two-column-proofs/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/school-fall-2024/geometry/lessons/two-column-proofs/"}
 ---
 
 #  Two-column proofs

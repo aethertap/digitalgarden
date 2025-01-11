@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-fall-2024/engineering/lessons/photo-gate-design/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/school-fall-2024/engineering/lessons/photo-gate-design/"}
 ---
 
 

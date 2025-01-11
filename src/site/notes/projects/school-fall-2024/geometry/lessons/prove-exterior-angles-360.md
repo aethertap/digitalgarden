@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-fall-2024/geometry/lessons/prove-exterior-angles-360/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/school-fall-2024/geometry/lessons/prove-exterior-angles-360/"}
 ---
 
 

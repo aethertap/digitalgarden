@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-fall-2024/geometry/lessons/polygons-introduction/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/school-fall-2024/geometry/lessons/polygons-introduction/"}
 ---
 
 

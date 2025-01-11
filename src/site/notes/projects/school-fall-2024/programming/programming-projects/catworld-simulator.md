@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-fall-2024/programming/programming-projects/catworld-simulator/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/school-fall-2024/programming/programming-projects/catworld-simulator/"}
 ---
 
 

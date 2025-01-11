@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-fall-2024/language/extreme-ownership/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/school-fall-2024/language/extreme-ownership/"}
 ---
 
 # Extreme Ownership outline 

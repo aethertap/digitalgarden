@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-fall-2024/history/lessons/unit-4-lesson-1/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/school-fall-2024/history/lessons/unit-4-lesson-1/"}
 ---
 
 

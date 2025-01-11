@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-fall-2024/language/lessons/sentences/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/school-fall-2024/language/lessons/sentences/"}
 ---
 
 [scheduled:: 2025-01-08]
