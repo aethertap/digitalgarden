@@ -25,7 +25,7 @@ wait to sink my toes into the sand. We carried all the beach gear to our spot, I
 was finally able to relax. I closed my eyes and listened as seagulls squawked
  overhead. Crashing on the shore, I could hear the waves. The sun's rays felt
  warm on my skin. A gentle breeze blew since ruffled my hair. Next to me, my
- brother and dad planned their sandcastle. We arrived at the beach early the
+ brother and teacher planned their sandcastle. We arrived at the beach early the
  sandcastle could be gigantic!
 
 ## Topics

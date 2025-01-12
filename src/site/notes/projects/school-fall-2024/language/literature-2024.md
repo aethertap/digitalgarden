@@ -73,7 +73,7 @@ AI essay grading help: [Co-grader](https://app.cograder.com)
 
 - [x] #hw Read the Wee Free Men [[2024-09-26\|2024-09-26]]
 - [x] #hw Wee Free Men book report rough draft due [[projects/school-fall-2024/language/book-report-rubric\|book-report-rubric]] [[2024-10-03\|2024-10-03]]
-- [x] #dad Grade WFM book reports [[2024-10-04\|2024-10-04]]
+- [x] #teacher Grade WFM book reports [[2024-10-04\|2024-10-04]]
 - [x] #hw Wee Free Men book report final draft due [[projects/school-fall-2024/language/book-report-rubric\|book-report-rubric]] [[2024-11-07\|2024-11-07]]
 - [x] #hw (literature) gr7: Correct the paragraphs in [[projects/school-fall-2024/language/editing-exercises-gr7\|editing-exercises-gr7]] [[2024-11-25\|2024-11-25]]
 

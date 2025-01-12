@@ -82,20 +82,20 @@ Themes:
 - [x] #hw (physics) Do the first four [brilliant.org vector lessons](https://brilliant.org/courses/vectors/) [[2024-09-30\|2024-09-30]]
 - [x] #hw (physics) - gr7 do while logged in [IXL physics 1](https://www.ixl.com/science/grade-7/calculate-velocity-from-time-and-distance) [[2024-09-30\|2024-09-30]]
 - [x] #hw (physics) [IXL physics 2](https://www.ixl.com/science/grade-7/calculate-distance-from-velocity-and-time) [[2024-09-30\|2024-09-30]]
-- [x] #dad Experiment: Spinning pie dish (p.40) [[2024-09-16\|2024-09-16]]
-- [x] #dad Experiment: Build a balance arm scale and study leverage (use maple scrap, drill holes, make hook out of wire, calibrate with known weights). [[2024-09-18\|2024-09-18]]
-- [x] #dad Learn how to use Tracker more effectively. [[2024-09-25\|2024-09-25]]
-- [x] #dad (physics) Experiment: Steelie pool ball collisions, demo conservation of momentum with different masses of balls. Use physics video software. [[2024-09-23\|2024-09-23]]
+- [x] #teacher Experiment: Spinning pie dish (p.40) [[2024-09-16\|2024-09-16]]
+- [x] #teacher Experiment: Build a balance arm scale and study leverage (use maple scrap, drill holes, make hook out of wire, calibrate with known weights). [[2024-09-18\|2024-09-18]]
+- [x] #teacher Learn how to use Tracker more effectively. [[2024-09-25\|2024-09-25]]
+- [x] #teacher (physics) Experiment: Steelie pool ball collisions, demo conservation of momentum with different masses of balls. Use physics video software. [[2024-09-23\|2024-09-23]]
 - [x] #hw (physics) Read p. 65-68, *do exercises*: 14, 16, 18, 25, 27, 30 [[2024-10-07\|2024-10-07]]
 - [x] #hw (physics) flashcards for power, watt, rotational work (formula), friction, thermal energy, traction, static friction, sliding friction, rolling, conservation of energy [[2024-10-07\|2024-10-07]]
-- [x] #dad create kinematic units mind map as physical property study aid [[2024-11-05\|2024-11-05]]
+- [x] #teacher create kinematic units mind map as physical property study aid [[2024-11-05\|2024-11-05]]
 - [x] #hw (physics) Read p. 69-75, Do exercises 22, 28, 35, 39 [[2024-11-04\|2024-11-04]]
 - [x] Rotational inertia, angular velocity, torque, angular acceleration, rotational mass, net torque, Newton's laws of rotation, center of mass and gravity, levers, balance
 - [x] Friction, traction, ordered and thermal energy, wheels, bearings, kinetic energy, power, rotational work
 - [x] Momentum, impulse, conservation of momentum, angular momentum, angular impulse, conservation of angular momentum, gradients, potential energy, acceleration, forces
 - [x] #hw (physics) Read p. 76 through end of chapter 2. [[2024-11-13\|2024-11-13]]
 - [x] #hw (physics) Physics test [[2024-11-13\|2024-11-13]] [score:: 4/6] for both
-- [x] #dad (physics) Get a springs experiment set up [[2024-11-18\|2024-11-18]]
+- [x] #teacher (physics) Get a springs experiment set up [[2024-11-18\|2024-11-18]]
 - [x] #hw (physics) Read section 3.1 (p. 86 - 93) [[2024-11-20\|2024-11-20]]
 - [x] #hw (physics) Do exercises 1-3 (p. 113) and problems 1 and 2 (p. 115) [[2024-11-22\|2024-11-22]]
 - [x] #hw (physics) Read 3.2 do exercises 5-8 and problems 3-4 on p. 115 [[2024-12-06\|2024-12-06]]
