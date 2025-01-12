@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-fall-2024/physics/lessons/vector-arithmetic/"}
+{"dg-publish":true,"permalink":"/projects/school-fall-2024/physics/lessons/motion-diagrams/"}
 ---
 
-[scheduled:: 2025-01-06]
-#  Vector Arithmetic
+
+[scheduled:: 2025-01-15] 
+
+#  Motion diagrams and Free-body diagrams
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/school-fall-2024/physics/physics-2024/#notebook-lm-prompts" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -39,8 +41,18 @@ Please create a quiz with six questions that allows my students to practice thei
 
 ### Lesson-specific resource links
 
-- [graphical vector ops](https://openstax.org/books/physics/pages/5-1-vector-addition-and-subtraction-graphical-methods) 
-- [component vector ops](https://openstax.org/books/physics/pages/5-1-vector-addition-and-subtraction-graphical-methods) 
+- [Knight physics text solutions](https://www.vaia.com/en-us/textbooks/physics/physics-for-scientists-and-engineers-a-strategic-approach-with-modern-physics-4th/) 
+- [Khan academy: free body diagrams](https://www.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-laws-of-motion/in-in-class11-introduction-to-forces-and-free-body-diagrams-ap/a/forces-introduction-and-free-body-diagrams-ap1) 
+- [PhysicsClassroom free body diagram](https://www.physicsclassroom.com/class/newtlaws/Lesson-2/Drawing-Free-Body-Diagrams) 
+
+
+
+### Lightning Round Questions
+
+- What is an *intensive property* (chemistry)? 
+- What is a *control* in an experiment? Why is it important? 
+- If the surface of the moon is covered in fine, sandy material, why are there no dunes on the moon? 
+
 
 
 ## Demonstration
@@ -48,38 +60,35 @@ Please create a quiz with six questions that allows my students to practice thei
 
 ## Concept summary and connections
 
-- scaling vectors 
-- add and subtract vectors 
-- vector components 
-- parallel and perpendicular decomp in X-Y plane
-- vector magnitude 
-- Placing a vector on the coordinate plane
-- Parallel and Perpendicular to *inclined plane* or *other vector*
-- Angles between vectors
+
+- motion diagram 
+- vector addition 
+- summing integration 
+- pictorial representationsin physics 
+- free-body diagram 
 
 ## Worked examples
 
-- Show what it means to scale a vector
-- Show what happens to the components of a vector when it is scaled
-- Do an example of graphical and analytical addition of scaled vectors.
+
 
 ## Media resources
 
-- [Youtube search for "scaling vectors"](https://www.youtube.com/results?search_query=scaling%20vectors) 
-- [Youtube search for "add and subtract vectors"](https://www.youtube.com/results?search_query=add%20and%20subtract%20vectors) 
-- [Youtube search for "vector components"](https://www.youtube.com/results?search_query=vector%20components) 
-- [Youtube search for "parallel and perpendicular decomp"](https://www.youtube.com/results?search_query=parallel%20and%20perpendicular%20decomp) 
-- [Youtube search for "vector magnitude"](https://www.youtube.com/results?search_query=vector%20magnitude) 
+- [Youtube search for "motion diagram"](https://www.youtube.com/results?search_query=motion%20diagram) 
+- [Youtube search for "vector addition"](https://www.youtube.com/results?search_query=vector%20addition) 
+- [Youtube search for "summing integration"](https://www.youtube.com/results?search_query=summing%20integration) 
+- [Youtube search for "pictorial representationsin physics"](https://www.youtube.com/results?search_query=pictorial%20representationsin%20physics) 
+- [Youtube search for "free-body diagram"](https://www.youtube.com/results?search_query=free-body%20diagram) 
 
 ## Guided practice
 
-- [ ] [do conceptual questions](https://openstax.org/books/physics/pages/5-2-vector-addition-and-subtraction-analytical-methods) and some of the analytical examples  
-- [ ] find parallel/perpendicular to inclined line
-- [ ] Do graphical *and* analytical ops with whole-number multiples of vectors.
-- [ ] Do analytical ops with rational-number multiples of vectors 
+
+- [ ] A book is at rest on a tabletop. Diagram the forces acting on the book. See answer.  
+- [ ] A gymnast holding onto a bar, is suspended motionless in mid-air. The bar is supported by two ropes that attach to the ceiling. Diagram the forces acting on the combination of gymnast and bar. See answer.  
+- [ ] A rightward force is applied to a book in order to move it across a desk at constant velocity. Consider frictional forces. Neglect air resistance. Diagram the forces acting on the book  
+- [ ] You drop a soccer ball from a second-story window. Draw a *motion diagram* that shows the ball's position, velocity, and acceleration from the instant you release it until the instant it touches the ground.  
 
 ## Homework
 
 
-- [ ] #hw (physics) [openstax problems 5+6](https://openstax.org/books/physics/pages/5-2-vector-addition-and-subtraction-analytical-methods) [[daily/2025-01-10\|2025-01-10]] 
-- [ ] #hw (physics) [openstax problems 1-4](https://openstax.org/books/physics/pages/5-2-vector-addition-and-subtraction-analytical-methods) [[daily/2025-01-10\|2025-01-10]] 
+
+- [ ] Do the physicsclassroom [free body diagram interactive](https://www.physicsclassroom.com/Physics-Interactives/Newtons-Laws/Free-Body-Diagrams-2/Free-Body-Diagram-Interactive) [[2025-01-17\|2025-01-17]] 

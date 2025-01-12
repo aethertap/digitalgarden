@@ -6,6 +6,9 @@
 
 # Literature and Writing 
 
+<h3><span>Scheduled classes</span></h3><div><ul class="dataview list-view-ul"><li><span>2025-01-08: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/language/lessons/sentences.md" data-href="projects/school-fall-2024/language/lessons/sentences.md" href="projects/school-fall-2024/language/lessons/sentences.md" class="internal-link" target="_blank" rel="noopener nofollow">sentences</a></span></li><li><span>2025-01-10: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/language/lessons/editing-sentences.md" data-href="projects/school-fall-2024/language/lessons/editing-sentences.md" href="projects/school-fall-2024/language/lessons/editing-sentences.md" class="internal-link" target="_blank" rel="noopener nofollow">editing-sentences</a></span></li><li><span>2025-01-13: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/language/lessons/ch2-pronouns.md" data-href="projects/school-fall-2024/language/lessons/ch2-pronouns.md" href="projects/school-fall-2024/language/lessons/ch2-pronouns.md" class="internal-link" target="_blank" rel="noopener nofollow">ch2-pronouns</a></span></li></ul></div>
+[[projects/school-fall-2024/lesson-index\|lesson-index]]
+
 Goal: Read, analyze, and write a book report for five books:
 
 1. [x] The Wee Free Men
@@ -70,9 +73,9 @@ AI essay grading help: [Co-grader](https://app.cograder.com)
 
 - [x] #hw Read the Wee Free Men [[2024-09-26\|2024-09-26]]
 - [x] #hw Wee Free Men book report rough draft due [[projects/school-fall-2024/language/book-report-rubric\|book-report-rubric]] [[2024-10-03\|2024-10-03]]
-- [x] #teacher Grade WFM book reports [[2024-10-04\|2024-10-04]]
+- [x] #dad Grade WFM book reports [[2024-10-04\|2024-10-04]]
 - [x] #hw Wee Free Men book report final draft due [[projects/school-fall-2024/language/book-report-rubric\|book-report-rubric]] [[2024-11-07\|2024-11-07]]
-- [x] #hw (literature) g7: Correct the paragraphs in [[projects/school-fall-2024/language/editing-exercises-g7\|editing-exercises-g7]] [[2024-11-25\|2024-11-25]]
+- [x] #hw (literature) gr7: Correct the paragraphs in [[projects/school-fall-2024/language/editing-exercises-gr7\|editing-exercises-gr7]] [[2024-11-25\|2024-11-25]]
 
 ## English language analysis
 

@@ -25,7 +25,7 @@ wait to sink my toes into the sand. We carried all the beach gear to our spot, I
 was finally able to relax. I closed my eyes and listened as seagulls squawked
  overhead. Crashing on the shore, I could hear the waves. The sun's rays felt
  warm on my skin. A gentle breeze blew since ruffled my hair. Next to me, my
- brother and teacher planned their sandcastle. We arrived at the beach early the
+ brother and dad planned their sandcastle. We arrived at the beach early the
  sandcastle could be gigantic!
 
 ## Topics
@@ -60,11 +60,11 @@ was finally able to relax. I closed my eyes and listened as seagulls squawked
 
 ### Quiz questions
 
-- [x] #quiz (lang) What is a clause?
-- [x] #quiz (lang) What is an independent clause?
+- [ ] #quiz (lang) What is a clause?
+- [ ] #quiz (lang) What is an independent clause?
 - [ ] #quiz (lang) What is a subordinate clause?
 - [ ] #quiz (lang) (dangling modifier) - What is wrong with this sentence?
 - [ ] #quiz (lang) (misplaced modifier) - What is wrong with this sentence?
 - [ ] #quiz (lang) What word in this sentence is the **coordinating conjunction**?
 - [ ] #quiz (lang) need to practice recognizing prepositions.
-- [x] #quiz (lang) need to practice differentiating adverbs and adjectives.
+- [ ] #quiz (lang) need to practice differentiating adverbs and adjectives.

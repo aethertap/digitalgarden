@@ -3,6 +3,8 @@
 ---
 
 
+[scheduled:: 2025-01-17]
+
 #  Kinematics overview
 
 

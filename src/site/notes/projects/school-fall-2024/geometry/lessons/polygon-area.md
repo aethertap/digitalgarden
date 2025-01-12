@@ -9,7 +9,7 @@
 
 ## Links and useful resources 
 
-- [[projects/school-fall-2024/geometry/geometry-g10\|g10's Geometry >>>START HERE<<<]]
+- [[projects/school-fall-2024/geometry/geometry-gr10\|gr10's Geometry >>>START HERE<<<]]
 - [AoPS Alcumus](https://artofproblemsolving.com/alcumus)
 - [Handwritten math converter](https://webdemo.myscript.com/views/math/index.html#)
 - [Big Ideas Geometry textbook](https://bim.easyaccessmaterials.com/?level=12)

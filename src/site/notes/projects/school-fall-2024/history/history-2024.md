@@ -5,6 +5,9 @@
 
 # AP World history
 
+<h3><span>Scheduled classes</span></h3><div><ul class="dataview list-view-ul"><li><span>2024-11-25: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/history/lessons/unit-2-review-networks-of-exchange.md" data-href="projects/school-fall-2024/history/lessons/unit-2-review-networks-of-exchange.md" href="projects/school-fall-2024/history/lessons/unit-2-review-networks-of-exchange.md" class="internal-link" target="_blank" rel="noopener nofollow">unit-2-review-networks-of-exchange</a></span></li><li><span>2024-12-16: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/history/lessons/safavid-empire.md" data-href="projects/school-fall-2024/history/lessons/safavid-empire.md" href="projects/school-fall-2024/history/lessons/safavid-empire.md" class="internal-link" target="_blank" rel="noopener nofollow">safavid-empire</a></span></li><li><span>2025-01-09: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/history/lessons/unit-4-lesson-1.md" data-href="projects/school-fall-2024/history/lessons/unit-4-lesson-1.md" href="projects/school-fall-2024/history/lessons/unit-4-lesson-1.md" class="internal-link" target="_blank" rel="noopener nofollow">unit-4-lesson-1</a></span></li></ul></div>
+[[projects/school-fall-2024/lesson-index\|lesson-index]]
+
 ## NotebookLM Prompts
 
 
@@ -39,13 +42,13 @@ Please generate a set of flashcards to help me learn the material in **the unit 
 There are ***71 topics*** in the book, so we will need to do ***two per week*** in order to finish in time.
 
 - [x] #hw Read section 1.1, watch the Heimler AP World 1.1, and answer the questions at the end of the section. [[2024-09-12\|2024-09-12]]
-- [x] #hw History: read 1.2-1.3 and watch the Heimler's videos. Answer MCQ, g10 answer short-answer also [[2024-09-19\|2024-09-19]]
-- [x] #hw History sections 1.4-1.5, answer MCQ (g10 do short answer) [[2024-09-26\|2024-09-26]]
-- [x] #hw History sections 1.6-1.7, answer MCQ (g10 do short answer) [[2024-10-03\|2024-10-03]]
+- [x] #hw History: read 1.2-1.3 and watch the Heimler's videos. Answer MCQ, gr10 answer short-answer also [[2024-09-19\|2024-09-19]]
+- [x] #hw History sections 1.4-1.5, answer MCQ (gr10 do short answer) [[2024-09-26\|2024-09-26]]
+- [x] #hw History sections 1.6-1.7, answer MCQ (gr10 do short answer) [[2024-10-03\|2024-10-03]]
 - [x] #hw History section 1 exam [[projects/school-fall-2024/history/ap-world-dbq-rubric\|ap-world-dbq-rubric]] [[2024-10-04\|2024-10-04]]
-    - g10 [score:: 89%]
-    - g7 [score:: 67%] (curve to B)
-- [x] #teacher Evaluate history progress, schedule section 2 [[2024-10-04\|2024-10-04]]
+    - gr10 [score:: 89%]
+    - gr7 [score:: 67%] (curve to B)
+- [x] #dad Evaluate history progress, schedule section 2 [[2024-10-04\|2024-10-04]]
 
 - [x] #hw (history) Read sections 2.1 and 2.2, answer questions, make flashcards [[2024-10-10\|2024-10-10]]
 - [x] #hw (history) Look for a fun world history podcast that we can listen to every day. [[2024-11-13\|2024-11-13]]
@@ -54,14 +57,14 @@ There are ***71 topics*** in the book, so we will need to do ***two per week*** 
 - [x] #hw (history) Fill out the Heimler's History notes guide pdf [[2024-11-15\|2024-11-15]]
 - [x] #hw (history) Flashcard check [[2024-11-14\|2024-11-14]]
 - [x] #hw (history) History section 2 exam [[2024-11-15\|2024-11-15]]
-    - g7 [score:: 9/15]
-    - g10 [score:: 11/15]
-- [x] #teacher (history) Send History section 3 pdf note guides to kids [[2024-11-18\|2024-11-18]]
+    - gr7 [score:: 9/15]
+    - gr10 [score:: 11/15]
+- [x] #dad (history) Send History section 3 pdf note guides to kids [[2024-11-18\|2024-11-18]]
 - [x] #hw (history) History read sections 3.1-3.2, fill in relevant note guide answers [[2024-11-25\|2024-11-25]]
 - [x] #hw (history) History read sections 3.3-3.4, fill in relevant note guide answers [[2024-12-02\|2024-12-02]]
 - [x] #hw (history) Unit 3 exam [[2024-12-09\|2024-12-09]]
-- [x] #teacher (history) Develop a set of prompts for notebook-lm that will give quality study questions for each chapter. [[2025-01-06\|2025-01-06]]
-- [x] #teacher (history) Develop prompts for notebook-lm that help make the right kind of flashcard questions [[2025-01-06\|2025-01-06]]
+- [x] #dad (history) Develop a set of prompts for notebook-lm that will give quality study questions for each chapter. [[2025-01-06\|2025-01-06]]
+- [x] #dad (history) Develop prompts for notebook-lm that help make the right kind of flashcard questions [[2025-01-06\|2025-01-06]]
 
 ## Chapter 1 Topics and Learning Objectives
 ### Topic 1.1: Developments in East Asia pages 3–14

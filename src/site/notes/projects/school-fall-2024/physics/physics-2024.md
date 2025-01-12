@@ -5,6 +5,9 @@
 
 # Physics 2024-2025
 
+<h3><span>Scheduled classes</span></h3><div><ul class="dataview list-view-ul"><li><span>2025-01-17: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/physics/lessons/kinematic-overview.md" data-href="projects/school-fall-2024/physics/lessons/kinematic-overview.md" href="projects/school-fall-2024/physics/lessons/kinematic-overview.md" class="internal-link" target="_blank" rel="noopener nofollow">kinematic-overview</a></span></li><li><span>2025-01-15: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/physics/lessons/motion-diagrams.md" data-href="projects/school-fall-2024/physics/lessons/motion-diagrams.md" href="projects/school-fall-2024/physics/lessons/motion-diagrams.md" class="internal-link" target="_blank" rel="noopener nofollow">motion-diagrams</a></span></li><li><span>2025-01-13: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/physics/lessons/measurement-precision-accuracy-lab.md" data-href="projects/school-fall-2024/physics/lessons/measurement-precision-accuracy-lab.md" href="projects/school-fall-2024/physics/lessons/measurement-precision-accuracy-lab.md" class="internal-link" target="_blank" rel="noopener nofollow">measurement-precision-accuracy-lab</a></span></li><li><span>2025-01-10: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/physics/lessons/vectors-3.md" data-href="projects/school-fall-2024/physics/lessons/vectors-3.md" href="projects/school-fall-2024/physics/lessons/vectors-3.md" class="internal-link" target="_blank" rel="noopener nofollow">vectors-3</a></span></li><li><span>2025-01-09: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/physics/lessons/vector-components.md" data-href="projects/school-fall-2024/physics/lessons/vector-components.md" href="projects/school-fall-2024/physics/lessons/vector-components.md" class="internal-link" target="_blank" rel="noopener nofollow">vector-components</a></span></li></ul></div>
+[[projects/school-fall-2024/lesson-index\|lesson-index]]
+
 ## NotebookLM prompts
 
 ### Flashcard generation (work in progress, cards are too generic)
@@ -64,11 +67,11 @@ Themes:
 - [x] #hw Gravity, weight, constant acceleration, projectile motion, vector components
 - [x] #hw Support forces, Newton's 3rd, energy, work, conservation of energy, kinetic and potential energy, gravitational potential energy, ramps, mechanical advantage
 - [x] #hw Physics: Read through page 36, do exercises and problems, every fifth problem (1,6,11, etc) [[2024-09-16\|2024-09-16]]
-    - g7 [score:: 10/13]
-    - g10 [score:: 12/13]
+    - gr7 [score:: 10/13]
+    - gr10 [score:: 12/13]
 - [x] #hw (physics) Create flashcards for these terms: energy, work, conservation of energy, kinetic energy, potential energy, mechanical advantage, Newton's 1st, 2nd, and 3rd laws [[2024-09-18\|2024-09-18]]
-    - g7 [score:: 5/8]
-    - g10 [score:: 3/4]
+    - gr7 [score:: 5/8]
+    - gr10 [score:: 3/4]
 - [x]  #hw (physics) Read 
 ## Laws of Motion 2
 
@@ -77,22 +80,22 @@ Themes:
 - [x] #hw (physics) Create flashcards for rotational mass, rotational inertia, lever arm, torque formula and meaning, units for torque and rotational mass, center of mass and center of gravity, angular velocity, angular acceleration, balance, newton's three laws of rotational motion (three cards) [[2024-09-27\|2024-09-27]]
 - [x] #hw (physics) Read p. 57-64, do exercises 9-14 [[2024-09-25\|2024-09-25]]
 - [x] #hw (physics) Do the first four [brilliant.org vector lessons](https://brilliant.org/courses/vectors/) [[2024-09-30\|2024-09-30]]
-- [x] #hw (physics) - g7 do while logged in [IXL physics 1](https://www.ixl.com/science/grade-7/calculate-velocity-from-time-and-distance) [[2024-09-30\|2024-09-30]]
+- [x] #hw (physics) - gr7 do while logged in [IXL physics 1](https://www.ixl.com/science/grade-7/calculate-velocity-from-time-and-distance) [[2024-09-30\|2024-09-30]]
 - [x] #hw (physics) [IXL physics 2](https://www.ixl.com/science/grade-7/calculate-distance-from-velocity-and-time) [[2024-09-30\|2024-09-30]]
-- [x] #teacher Experiment: Spinning pie dish (p.40) [[2024-09-16\|2024-09-16]]
-- [x] #teacher Experiment: Build a balance arm scale and study leverage (use maple scrap, drill holes, make hook out of wire, calibrate with known weights). [[2024-09-18\|2024-09-18]]
-- [x] #teacher Learn how to use Tracker more effectively. [[2024-09-25\|2024-09-25]]
-- [x] #teacher (physics) Experiment: Steelie pool ball collisions, demo conservation of momentum with different masses of balls. Use physics video software. [[2024-09-23\|2024-09-23]]
+- [x] #dad Experiment: Spinning pie dish (p.40) [[2024-09-16\|2024-09-16]]
+- [x] #dad Experiment: Build a balance arm scale and study leverage (use maple scrap, drill holes, make hook out of wire, calibrate with known weights). [[2024-09-18\|2024-09-18]]
+- [x] #dad Learn how to use Tracker more effectively. [[2024-09-25\|2024-09-25]]
+- [x] #dad (physics) Experiment: Steelie pool ball collisions, demo conservation of momentum with different masses of balls. Use physics video software. [[2024-09-23\|2024-09-23]]
 - [x] #hw (physics) Read p. 65-68, *do exercises*: 14, 16, 18, 25, 27, 30 [[2024-10-07\|2024-10-07]]
 - [x] #hw (physics) flashcards for power, watt, rotational work (formula), friction, thermal energy, traction, static friction, sliding friction, rolling, conservation of energy [[2024-10-07\|2024-10-07]]
-- [x] #teacher create kinematic units mind map as physical property study aid [[2024-11-05\|2024-11-05]]
+- [x] #dad create kinematic units mind map as physical property study aid [[2024-11-05\|2024-11-05]]
 - [x] #hw (physics) Read p. 69-75, Do exercises 22, 28, 35, 39 [[2024-11-04\|2024-11-04]]
 - [x] Rotational inertia, angular velocity, torque, angular acceleration, rotational mass, net torque, Newton's laws of rotation, center of mass and gravity, levers, balance
 - [x] Friction, traction, ordered and thermal energy, wheels, bearings, kinetic energy, power, rotational work
 - [x] Momentum, impulse, conservation of momentum, angular momentum, angular impulse, conservation of angular momentum, gradients, potential energy, acceleration, forces
 - [x] #hw (physics) Read p. 76 through end of chapter 2. [[2024-11-13\|2024-11-13]]
 - [x] #hw (physics) Physics test [[2024-11-13\|2024-11-13]] [score:: 4/6] for both
-- [x] #teacher (physics) Get a springs experiment set up [[2024-11-18\|2024-11-18]]
+- [x] #dad (physics) Get a springs experiment set up [[2024-11-18\|2024-11-18]]
 - [x] #hw (physics) Read section 3.1 (p. 86 - 93) [[2024-11-20\|2024-11-20]]
 - [x] #hw (physics) Do exercises 1-3 (p. 113) and problems 1 and 2 (p. 115) [[2024-11-22\|2024-11-22]]
 - [x] #hw (physics) Read 3.2 do exercises 5-8 and problems 3-4 on p. 115 [[2024-12-06\|2024-12-06]]

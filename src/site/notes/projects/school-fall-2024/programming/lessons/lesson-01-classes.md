@@ -32,8 +32,8 @@
     - What is the same, and what is different?
     - How much stuff can you fit into the super class for each category?
 
-- [x] #hw (programming) (g7) Design a class hierarchy with at least three levels and 10 classes for demolition derby vehicles [[2024-10-16\|2024-10-16]]
-- [x] #hw (programming) (g10) Design a class hierarchy with at least three levels and 10 classes for pets [[2024-10-16\|2024-10-16]]
+- [x] #hw (programming) (gr7) Design a class hierarchy with at least three levels and 10 classes for demolition derby vehicles [[2024-10-16\|2024-10-16]]
+- [x] #hw (programming) (gr10) Design a class hierarchy with at least three levels and 10 classes for pets [[2024-10-16\|2024-10-16]]
 
 ## Resources
 

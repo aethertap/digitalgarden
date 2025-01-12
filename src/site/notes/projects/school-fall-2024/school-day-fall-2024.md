@@ -22,9 +22,9 @@
     - Study to take AP World test
     - Heimler's history
     - AP World modern textbook
-- Geometry (g10)
+- Geometry (gr10)
     - AoPS Geometry
-- Prealgebra (g7)
+- Prealgebra (gr7)
     - AoPS Prealgebra
 - Physics
     - How Things Work textbook
@@ -46,40 +46,40 @@
 
 # Monday
 
-- [[projects/school-fall-2024/geometry/geometry-g10\|geometry-g10]]
-- [[projects/school-fall-2024/prealgebra/prealgebra-g7\|prealgebra-g7]]
+- [[projects/school-fall-2024/geometry/geometry-gr10\|geometry-gr10]]
+- [[projects/school-fall-2024/prealgebra/prealgebra-gr7\|prealgebra-gr7]]
 - [[projects/school-fall-2024/physics/physics-2024\|physics-2024]]
 - [[projects/school-fall-2024/history/history-2024\|history-2024]]
 - [[projects/school-fall-2024/math-drills\|math-drills]]
 
 # Tuesday
 
-- [[projects/school-fall-2024/geometry/geometry-g10\|geometry-g10]]
-- [[projects/school-fall-2024/prealgebra/prealgebra-g7\|prealgebra-g7]]
+- [[projects/school-fall-2024/geometry/geometry-gr10\|geometry-gr10]]
+- [[projects/school-fall-2024/prealgebra/prealgebra-gr7\|prealgebra-gr7]]
 - [[projects/school-fall-2024/programming/programming-2024\|programming-2024]] 
 - [[projects/school-fall-2024/math-drills\|math-drills]]
 - [[projects/school-fall-2024/engineering/robotics-2024\|robotics-2024]]
 
 # Wednesday
 
-- [[projects/school-fall-2024/geometry/geometry-g10\|geometry-g10]]
-- [[projects/school-fall-2024/prealgebra/prealgebra-g7\|prealgebra-g7]]
+- [[projects/school-fall-2024/geometry/geometry-gr10\|geometry-gr10]]
+- [[projects/school-fall-2024/prealgebra/prealgebra-gr7\|prealgebra-gr7]]
 - [[projects/school-fall-2024/physics/physics-2024\|physics-2024]]
 - [[projects/school-fall-2024/math-drills\|math-drills]]
 - [[projects/school-fall-2024/language/literature-2024\|literature-2024]]
 
 # Thursday
 
-- [[projects/school-fall-2024/geometry/geometry-g10\|geometry-g10]]
-- [[projects/school-fall-2024/prealgebra/prealgebra-g7\|prealgebra-g7]]
+- [[projects/school-fall-2024/geometry/geometry-gr10\|geometry-gr10]]
+- [[projects/school-fall-2024/prealgebra/prealgebra-gr7\|prealgebra-gr7]]
 - [[projects/school-fall-2024/engineering/cad-with-onshape\|cad-with-onshape]]
 - [[projects/school-fall-2024/history/history-2024\|history-2024]]
 - [[projects/school-fall-2024/math-drills\|math-drills]]
 
 # Friday
 
-- [[projects/school-fall-2024/geometry/geometry-g10\|geometry-g10]]
-- [[projects/school-fall-2024/prealgebra/prealgebra-g7\|prealgebra-g7]]
+- [[projects/school-fall-2024/geometry/geometry-gr10\|geometry-gr10]]
+- [[projects/school-fall-2024/prealgebra/prealgebra-gr7\|prealgebra-gr7]]
 - [[projects/school-fall-2024/physics/physics-2024\|physics-2024]]
 - [[projects/school-fall-2024/math-drills\|math-drills]]
 - Tests and Quizzes

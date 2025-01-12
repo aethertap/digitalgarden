@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/projects/school-fall-2024/physics/lessons/vector-components/"}
 ---
 
-
+[scheduled:: 2025-01-09]
 #  Vector Components
 
 

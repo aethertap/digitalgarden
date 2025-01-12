@@ -7,11 +7,11 @@
 
 ## Links and useful resources 
 
-- [[projects/school-fall-2024/prealgebra/prealgebra-g7\|g7's Prealgebra Course Outline START HERE<<<]]
+- [[projects/school-fall-2024/prealgebra/prealgebra-gr7\|gr7's Prealgebra Course Outline START HERE<<<]]
 - [IXL Grade 7 index](https://www.ixl.com/math/grade-7)
 - [IXL Grade 8 index](https://www.ixl.com/math/grade-8)
 - [AoPS Alcumus](https://artofproblemsolving.com/alcumus)
-- [[projects/school-fall-2024/prealgebra/prealgebra-g7\|AoPS Prealgebra Outline with assignments]]
+- [[projects/school-fall-2024/prealgebra/prealgebra-gr7\|AoPS Prealgebra Outline with assignments]]
 - [Handwritten math converter](https://webdemo.myscript.com/views/math/index.html#)
 - [IXL prealgebra practice index](https://www.ixl.com/math/grade-7)
 - [OpenSTAX Prealgebra-1 textbook](https://openstax.org/books/prealgebra-2e/pages/1-introduction)
@@ -49,3 +49,4 @@ four more than triple a number equals ten less than five times the number $3x+4 
 
 
 - [ ] #hw (math) [IXL distributive practice](https://www.ixl.com/math/grade-3/distributive-property-find-the-missing-factor) [[2025-01-13\|2025-01-13]] 
+- [ ] #quiz Practice using addition and subtraction of terms with variable and coefficient - recognizing when to add or multiply is giving trouble.

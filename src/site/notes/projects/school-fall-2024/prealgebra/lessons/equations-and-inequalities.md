@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/projects/school-fall-2024/prealgebra/lessons/equations-and-inequalities/"}
 ---
 
-
+[scheduled:: 2025-01-06]
 #  Equations and Inequalities
 
 ## Links and useful resources 
@@ -10,7 +10,7 @@
 - [IXL Grade 7 index](https://www.ixl.com/math/grade-7)
 - [IXL Grade 8 index](https://www.ixl.com/math/grade-8)
 - [AoPS Alcumus](https://artofproblemsolving.com/alcumus)
-- [[projects/school-fall-2024/prealgebra/prealgebra-g7\|AoPS Prealgebra Outline with assignments]]
+- [[projects/school-fall-2024/prealgebra/prealgebra-gr7\|AoPS Prealgebra Outline with assignments]]
 - [Handwritten math converter](https://webdemo.myscript.com/views/math/index.html#)
 - [IXL prealgebra practice index](https://www.ixl.com/math/grade-7)
 - [OpenSTAX Prealgebra-1 textbook](https://openstax.org/books/prealgebra-2e/pages/1-introduction)

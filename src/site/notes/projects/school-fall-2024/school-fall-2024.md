@@ -32,8 +32,8 @@
 
 ## Math
 
-g10: AoPS Geometry
-g7: AoPS Prealgebra
+gr10: AoPS Geometry
+gr7: AoPS Prealgebra
 
 ## Digital art (Blender, Krita, Inkscape, etc)
 

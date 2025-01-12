@@ -10,11 +10,11 @@
 
 ## Links and useful resources 
 
-- [[projects/school-fall-2024/prealgebra/prealgebra-g7\|g7's Prealgebra Course Outline START HERE<<<]]
+- [[projects/school-fall-2024/prealgebra/prealgebra-gr7\|gr7's Prealgebra Course Outline START HERE<<<]]
 - [IXL Grade 7 index](https://www.ixl.com/math/grade-7)
 - [IXL Grade 8 index](https://www.ixl.com/math/grade-8)
 - [AoPS Alcumus](https://artofproblemsolving.com/alcumus)
-- [[projects/school-fall-2024/prealgebra/prealgebra-g7\|AoPS Prealgebra Outline with assignments]]
+- [[projects/school-fall-2024/prealgebra/prealgebra-gr7\|AoPS Prealgebra Outline with assignments]]
 - [Handwritten math converter](https://webdemo.myscript.com/views/math/index.html#)
 - [IXL prealgebra practice index](https://www.ixl.com/math/grade-7)
 - [OpenSTAX Prealgebra-1 textbook](https://openstax.org/books/prealgebra-2e/pages/1-introduction)
@@ -65,6 +65,8 @@
 ## Homework
 
 
-- [ ] #hw (math) 5.6 Summary (p. 240) problem 5.45-5.50 [[2025-01-15\|2025-01-15]] [[2025-01-15\|2025-01-15]] 
+- [ ] #hw (math) 5.6 Summary (p. 240) problem 5.45-5.50 [[2025-01-15\|2025-01-15]] 
 - [ ] #quiz if $2y+3x = 12$ and $10y-x=28$, Solve for $x \text{ and } y$
-- [ ] #quiz When is there no solution for this equation: $\frac{x+7}{x-2}$?
+- [ ] #quiz When is this expression undefined: $\frac{x+7}{x-2}$?
+- [ ] #quiz Give an example of an equation with no solutions.
+- [ ] #quiz Give an example of an equation with infinite solutions.
