@@ -70,6 +70,12 @@ Procedure:
 - Compare to exact known value.
 - One inch is *exactly* 2.54 cm by definition
 
+### Problems encountered
+
+- Our graduated cylinder's finest measurement was 1 mL, but the objects were on the order of 1-3 mL so the tool lacked resolution
+- Using the volume formulas requires you to pay close attention to **units**
+- Density is a *derived* unit, you have to measure separate properties of volume and mass before you compute the density
+- 
 ## Concept summary and connections
 
 

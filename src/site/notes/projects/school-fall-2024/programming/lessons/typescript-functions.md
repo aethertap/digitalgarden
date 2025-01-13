@@ -55,7 +55,7 @@ Open Zed and run a shared buffer to do all of these examples together.
 
 ## Homework
 
-- [ ] #hw (programming) Use our functions to count the number of times a word appears in a file. The word and the file name should be given on the command line, and the output should be the file name, colon, the count. [[2025-01-15\|2025-01-15]]
+- [ ] #hw (programming) Write a function to count the words in a string. Remember to clone our typescript template to get started. [[2025-01-15\|2025-01-15]]
 
 - [ ] #quiz Write a for-loop to count the spaces in a string. Assume the string is in a variable called `str`.
 - [ ] #quiz Write a typescript function called `sum_evens` that takes an array of numbers and returns the **sum** of all of the **even** numbers in the array.
