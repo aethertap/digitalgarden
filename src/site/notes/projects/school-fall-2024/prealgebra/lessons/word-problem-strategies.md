@@ -49,6 +49,28 @@
 - If you made $399, how many of each type did you sell?
 - What kind of donut brought in more money?
 
+1. let x = the number of jelly donuts sold
+2. let y = the number of plain donuts sold
+
+$$
+\begin{align} \\
+
+x + y &= 90 &\text{given} \\ 
+7x &= \text{money from jelly donuts} & \text{given} \\
+4y &= \text{money from plain donuts} & \text{given} \\
+7x+4y &= 399 &\text{given, total is sum of parts from each kind} \\
+y &= 90 -x & \text{subtraction Property of Equality, from (2)} \\
+7x + 4(90-x) &= 399 &\text{substitution property of equality} \\
+7x + 360 - 4x &= 399 &\text{distributive property} \\
+3x &= 39 & \text{subtraction property of equality} \\
+x &= 13 \text{ jelly donuts} & \text{division property of equality} \\
+13 + y &= 90 & \text{substitution property of equality} \\
+y &= 73 \text{ plain donuts} & \text{subtraction property of equality} \\
+\end{align} 
+
+$$
+
+
 ## Media resources
 
 - [Youtube search for "word problems"](https://www.youtube.com/results?search_query=word%20problems)  
