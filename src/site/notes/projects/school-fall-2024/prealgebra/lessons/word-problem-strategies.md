@@ -70,6 +70,17 @@ y &= 73 \text{ plain donuts} & \text{subtraction property of equality} \\
 
 $$
 
+### How to solve problems!
+
+1. Identify what the unknowns are that you're trying to resolve. What do you want to know? What will the answer have?
+2. Identify all of the data from the problem and write it down
+3. What relationships (equations) can I find that connect parts of the data?
+    1. Write down equations that connect the data from the problem **to your uknowns**! 
+    2. You're not done with this step until you have used all of the data in a way that connects it to the unknowns, or until you have a clear path to the solution. Sometimes there's bogus extra data you don't need, so once you can see the solution you are done.
+4. Now connect the equations you discovered in order to find a solution. Remember that equations with two variables that aren't raised to powers are always going to give you lines, and there are three ways that multiple lines can interact:
+    1. They can cross at one point, which is when you have a single solution
+    2. The can be parallel and overlapping, which is when you have infinite solutions
+    3. They can be parallel and separate, which is when there are no solutions.
 
 ## Media resources
 
