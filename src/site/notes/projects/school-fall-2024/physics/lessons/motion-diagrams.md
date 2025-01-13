@@ -61,15 +61,19 @@ Please create a quiz with six questions that allows my students to practice thei
 ## Concept summary and connections
 
 
-- motion diagram 
+- [[projects/school-fall-2024/physics/pictorial-representation\|pictorial-representation]] in physics 
+- [[projects/school-fall-2024/physics/motion-diagram\|motion-diagram]]
+- [[projects/school-fall-2024/physics/lessons/free-body-diagram\|free-body-diagram]]
+    - Which forces do you draw? They come in pairs...
+    - Draw *only the forces that **act on the body***
+    - e.g. in a rocket, the thrust acting on it will push it forward. You don't draw the force that the rocket exerts on the burnt fuel as it gets propelled out the back!
+
 - vector addition 
 - summing integration 
-- pictorial representationsin physics 
-- free-body diagram 
-
 ## Worked examples
 
-
+- A car driving a constant speed crests a hill. Is it accelerating? Draw a motion diagram to answer.
+- A spaceship makes a soft landing on Mars. Draw a motion diagram and a pictorial representation.
 
 ## Media resources
 

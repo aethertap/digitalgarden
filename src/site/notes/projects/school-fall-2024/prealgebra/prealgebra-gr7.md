@@ -74,7 +74,7 @@ IXL practice
 - [x] #hw (math) 5.5 Inequalities (p. 230) [[2024-12-09\|2024-12-09]]
 - [x] #hw (math) 4.9 Summary (p. 196) [[2024-12-11\|2024-12-11]]
 - [x] #hw (math) 5.6 Summary (p. 240) problems 5.33-5.34 [[2025-01-08\|2025-01-08]]
-- [ ] #hw (math) 5.6 Summary (p. 240) problem 5.35-5.44 [[2025-01-13\|2025-01-13]]
+- [ ] #hw (math) 5.6 Summary (p. 240) problem 5.35-5.44 [[daily/2025-01-13\|2025-01-13]]
 - [ ] #hw (math) 5.6 Summary (p. 240) problem 5.45-5.50 [[2025-01-15\|2025-01-15]]
 - [ ] #hw (math) 5.6 Summary (p. 240) problem 5.51-5.53 [[2025-01-17\|2025-01-17]]
 ## 6 Decimals (p. 247)

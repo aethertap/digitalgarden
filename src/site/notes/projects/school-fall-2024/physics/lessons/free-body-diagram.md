@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-fall-2024/physics/lessons/dot-product/"}
+{"dg-publish":true,"permalink":"/projects/school-fall-2024/physics/lessons/free-body-diagram/"}
 ---
 
 
-#  The Scalar Product
+[scheduled:: 2025-01-20] 
+
+#  Free-body diagrams
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/school-fall-2024/physics/physics-2024/#notebook-lm-prompts" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -39,23 +41,31 @@ Please create a quiz with six questions that allows my students to practice thei
 
 ### Lesson-specific resource links
 
-- [how the dot product works](https://www.youtube.com/watch?v=LyGKycYT2v0&t=130s)
-- https://math.stackexchange.com/questions/348717/dot-product-intuition 
+- [OpenSTAX forces and free body diagrams](https://openstax.org/books/physics/pages/4-1-force) 
 
+
+
+### Lightning Round Questions
+
+- Give an example of an equation with no solutions. 
+- What is a *bias*? 
+- What is the formula for kinetic energy of a moving mass? 
+- Explain what impulse is. 
 
 ## Demonstration
 
 
+- Solve for the maximum angle that a book on a tilted board can remain at rest before the sliding force overcomes the friction force.
+- Use that concept to solve for the coefficient of friction
+
 ## Concept summary and connections
 
 
-- scalar product 
-- dot product 
-- vector projection 
-- parallel perpendicular decomposition 
-- cosine 
-- vector magnitude 
-- unit vector (vector norm)
+- free-body diagrams 
+- balancing forces 
+- external force 
+- net external force 
+- force vs tension 
 
 ## Worked examples
 
@@ -63,21 +73,23 @@ Please create a quiz with six questions that allows my students to practice thei
 
 ## Media resources
 
-- [Youtube search for "scalar product"](https://www.youtube.com/results?search_query=scalar%20product) 
-- [Youtube search for "dot product"](https://www.youtube.com/results?search_query=dot%20product) 
-- [Youtube search for "vector projection"](https://www.youtube.com/results?search_query=vector%20projection) 
-- [Youtube search for "parallel perpendicular decomposition"](https://www.youtube.com/results?search_query=parallel%20perpendicular%20decomposition) 
-- [Youtube search for "cosine"](https://www.youtube.com/results?search_query=cosine) 
-- [Youtube search for "vector magnitude"](https://www.youtube.com/results?search_query=vector%20magnitude) 
-- [Youtube search for "vector norm"](https://www.youtube.com/results?search_query=vector%20norm) 
+- [Youtube search for "free-body diagrams"](https://www.youtube.com/results?search_query=free-body%20diagrams) 
+- [Youtube search for "balancing forces"](https://www.youtube.com/results?search_query=balancing%20forces) 
+- [Youtube search for "external force"](https://www.youtube.com/results?search_query=external%20force) 
+- [Youtube search for "net external force"](https://www.youtube.com/results?search_query=net%20external%20force) 
+- [Youtube search for "force vs tension"](https://www.youtube.com/results?search_query=force%20vs%20tension) 
 
 ## Guided practice
 
 
-- [ ] $(1,1) \cdot (2,2)$  
-- [ ] Find parallel and perpendicular vectors to $(4,1)$ to add up to $(3,3)$   
+- [ ] Draw an FBD for a book sitting on a level table.  
+- [ ] Draw an FBD for a book at rest on a sloped surface.  
+- [ ] Draw an FBD for a parachutist falling steadily through the air.  
+- [ ] Draw an FBD for a car coasting down a hill.  
 
 ## Homework
 
 
-- [ ] #hw (physics) Problems 1-4 on [this page](https://math.libretexts.org/Courses/Monroe_Community_College/MTH_212_Calculus_III/Chapter_11%3A_Vectors_and_the_Geometry_of_Space/11.3%3A_The_Dot_Product/11.3E%3A_Exercises_for_The_Dot_Product) [[daily/2025-01-13\|2025-01-13]] 
+
+- [ ] A 1000-kg car is rolling backward down a hill with slope 1:5. Draw a free body diagram to analyze the car's motion. [[2025-01-22\|2025-01-22]] 
+- [ ] Now you run up to the car and start pushing against the bumper to try to stop it. How hard would you have to push in order to eventually stop the car? [[2025-01-22\|2025-01-22]] 

@@ -48,5 +48,5 @@ four more than triple a number equals ten less than five times the number $3x+4 
 ## Homework
 
 
-- [ ] #hw (math) [IXL distributive practice](https://www.ixl.com/math/grade-3/distributive-property-find-the-missing-factor) [[2025-01-13\|2025-01-13]] 
+- [ ] #hw (math) [IXL distributive practice](https://www.ixl.com/math/grade-3/distributive-property-find-the-missing-factor) [[daily/2025-01-13\|2025-01-13]] 
 - [ ] #quiz Practice using addition and subtraction of terms with variable and coefficient - recognizing when to add or multiply is giving trouble.

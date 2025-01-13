@@ -27,7 +27,7 @@ Read pages 139-204 (unit 2)
 - qing dynasty 
 - mali 
 - mansa musa 
-- [ ] Start building a memory walk to help the kids remember history [[2025-01-13\|2025-01-13]]
+- [ ] Start building a memory walk to help the kids remember history [[daily/2025-01-13\|2025-01-13]]
 
 
 ## Reading/Resources
