@@ -70,12 +70,12 @@
 - Should we output absolute clock numbers or time-since-start? (or both?)
 
 - [x] Problem: Draw a circuit with a pull-up resistor to measure state of photodiode.  
-- [ ] #quiz What is the purpose of a pull-up or pull-down resistor? How does it work?
+- [x] #quiz What is the purpose of a pull-up or pull-down resistor? How does it work?
 - [ ] #quiz Draw a circuit that uses a *pull-up* resistor to determine whether a switch is closed or open.
 - [ ] #quiz Draw a circuit that uses a pull-down resistor to determine whether a switch is closed or open.
 - [ ] #quiz Draw a circuit with a voltage divider.
 - [ ] #quiz A circuit has +5v input, then a 1k$\Omega$ resistor, then a $9k \Omega$ resistor, then ground. What is the voltage between the resistors?
-- [ ] #quiz What is the formula for finding voltage drops in a two-resistor voltage divider?
+- [x] #quiz What is the formula for finding voltage drops in a two-resistor voltage divider?
 - [ ] #quiz What does a phototransistor do in a circuit?
 - [ ] #quiz Design a voltage divider that will give you 3.5v from a 5v source.
 - [ ] #quiz What is PWM and what are some common uses for it?

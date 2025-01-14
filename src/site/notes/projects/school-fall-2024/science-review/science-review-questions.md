@@ -9,13 +9,13 @@
 - [ ] #quiz If your observations do not support your hypothesis, what should you do?
 - [ ] #quiz How is evidence used in scientific investigation?
 - [ ] #quiz Compare and contrast a theory and a law.
-- [ ] #quiz What are models, and why are they used in science?
+- [x] #quiz What are models, and why are they used in science?
 - [ ] #quiz Give an example of a physical model, a computer model, and a mathematical model.
 - [ ] #quiz What is an independent variable in a scientific experiment?
 - [ ] #quiz What is a *dependent* variable in a scientific experiment?
 - [ ] #quiz Why is it important to have a well-defined procedure when doing an experiment?
 - [ ] #quiz What does it mean to *infer* something (especially in a science context)?
-- [ ] #quiz What is a *control* in an experiment? Why is it important?
+- [x] #quiz What is a *control* in an experiment? Why is it important?
 - [ ] #quiz Make a bar graph showing 25 pigeons, 10 squirrels, 7 earthworms, and 14 beetles, as if it was information from an ecological survey.
 - [ ] #quiz What are the essential parts of a lab report?
 - [ ] #quiz What is the difference between *precision* and *accuracy*?
@@ -24,7 +24,7 @@
 - [ ] #quiz What should you include in the *conclusion* of a lab report?
 - [ ] #quiz What are some things that might make you critical of a scientific finding?
 - [ ] #quiz Describe a situation where you would need to use estimation or round numbers.
-- [ ] #quiz What is a *bias*?
+- [x] #quiz What is a *bias*?
 - [ ] #quiz What are the named SI prefixes for $10^{-9}$ up to $10^{9}$?
 - [ ] #quiz What is an *intensive property* (chemistry)?
 - [ ] #quiz What is an *extensive property* (chemistry)?

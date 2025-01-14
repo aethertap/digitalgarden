@@ -51,15 +51,10 @@ Please create a quiz with six questions that allows my students to practice thei
 
 - What is an *intensive property* (chemistry)? 
 - What is a *control* in an experiment? Why is it important? 
-- If the surface of the moon is covered in fine, sandy material, why are there no dunes on the moon? 
-
-
-
-## Demonstration
+- [ ] #quiz If the surface of the moon is covered in fine, sandy material, why are there no dunes on the moon? 
 
 
 ## Concept summary and connections
-
 
 - [[projects/school-fall-2024/physics/pictorial-representation\|pictorial-representation]] in physics 
 - [[projects/school-fall-2024/physics/motion-diagram\|motion-diagram]]
