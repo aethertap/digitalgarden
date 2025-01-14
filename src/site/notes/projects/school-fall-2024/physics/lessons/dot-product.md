@@ -80,4 +80,4 @@ Please create a quiz with six questions that allows my students to practice thei
 ## Homework
 
 
-- [x] #hw (physics) Problems 1-4 on [this page](https://math.libretexts.org/Courses/Monroe_Community_College/MTH_212_Calculus_III/Chapter_11%3A_Vectors_and_the_Geometry_of_Space/11.3%3A_The_Dot_Product/11.3E%3A_Exercises_for_The_Dot_Product) [[daily/2025-01-13\|2025-01-13]]
+- [x] #hw (physics) Problems 1-4 on [this page](https://math.libretexts.org/Courses/Monroe_Community_College/MTH_212_Calculus_III/Chapter_11%3A_Vectors_and_the_Geometry_of_Space/11.3%3A_The_Dot_Product/11.3E%3A_Exercises_for_The_Dot_Product) [[2025-01-13\|2025-01-13]]

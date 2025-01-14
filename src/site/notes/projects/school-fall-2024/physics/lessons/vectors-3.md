@@ -78,9 +78,9 @@ Please create a quiz with six questions that allows my students to practice thei
 
 ## Homework
 
-- [ ] #hw (physics) [Do problems 1-10 on this page](https://flexbooks.ck12.org/cbook/ck-12-precalculus-concepts-2.0/section/7.4/primary/lesson/dot-product-and-angle-between-two-vectors-pcalc/?referrer=search#) in your notebook [[daily/2025-01-14\|2025-01-14]] 
+- [ ] #hw (physics) [Do problems 1-10 on this page](https://flexbooks.ck12.org/cbook/ck-12-precalculus-concepts-2.0/section/7.4/primary/lesson/dot-product-and-angle-between-two-vectors-pcalc/?referrer=search#) in your notebook [[2025-01-14\|2025-01-14]] 
 
-## Quiz [[daily/2025-01-10\|2025-01-10]]
+## Quiz [[2025-01-10\|2025-01-10]]
 
 - [ ] #quiz What is the formula for kinetic energy of a moving mass? 
 - [x] #quiz What is the formula for the momentum of a moving mass?

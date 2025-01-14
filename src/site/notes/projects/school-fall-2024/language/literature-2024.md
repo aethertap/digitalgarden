@@ -67,7 +67,7 @@ AI essay grading help: [Co-grader](https://app.cograder.com)
 - [x] #hw (literature) [IXL Identify Evidence](https://www.ixl.com/ela/grade-10/identify-supporting-evidence-in-a-text) [[2024-12-10\|2024-12-10]]
 - [x] #hw (literature) https://www.ixl.com/ela/grade-10/analyze-short-stories-set-1 [[2024-12-12\|2024-12-12]]
 - [ ] #hw (literature) https://www.ixl.com/ela/grade-10/analyze-passages-from-things-fall-apart-part-1
-- [x] #hw (lang) [IXL Clauses](https://www.ixl.com/ela/grade-7/identify-dependent-and-independent-clauses) [[daily/2025-01-10\|2025-01-10]]
+- [x] #hw (lang) [IXL Clauses](https://www.ixl.com/ela/grade-7/identify-dependent-and-independent-clauses) [[2025-01-10\|2025-01-10]]
 
 ## Reading 1: Wee Free Men
 

@@ -56,4 +56,4 @@ Show how to find the sum of exterior angles for any n-gon
 
 ## Homework
 
-- [x] #hw (geometry) 9.2 Angles in a Polygon  (p. 246) [[daily/2025-01-13\|2025-01-13]]
+- [x] #hw (geometry) 9.2 Angles in a Polygon  (p. 246) [[2025-01-13\|2025-01-13]]
