@@ -14,7 +14,7 @@ Schedule assignments on the [[projects/school-fall-2024/language/language-kanban
 
 1. [x] [[projects/school-fall-2024/language/lessons/sentences\|Sentences]] (p. 2) [[2025-01-06\|2025-01-06]]
     - 10 Exercises, p. 8-20 (two per day)
-3. [ ] Pronouns (p. 22) [[daily/2025-01-13\|2025-01-13]]
+3. [x] Pronouns (p. 22) [[daily/2025-01-13\|2025-01-13]]
     - 9 Exercises p. 28-38
 4. [ ] Active and Passive Voice (p. 39) [[2025-01-20\|2025-01-20]]
     - 6 Exercises p. 43-54

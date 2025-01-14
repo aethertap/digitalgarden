@@ -9,7 +9,7 @@ Prototype notebookllm prompt for creating quizzes:
 Please create a quiz with six questions that allows my students to practice their understanding of the ideas from chapter *chapter number*. The questions should require them to compute numerical answers, but the numbers should be small and easy to work with. Please focus on problems involving *topics*.
 # Physics quizzes (weekly)
 
-- [ ] Physics quiz [[2025-01-07\|2025-01-07]]
+- [x] Physics quiz [[2025-01-07\|2025-01-07]]
 
 1. What physical property does a spring scale actually measure when you step onto the platform? Why would this probably be different on a different planet?
 2. What is the name of the position a spring is in when it is not being deformed by stretching or compression?

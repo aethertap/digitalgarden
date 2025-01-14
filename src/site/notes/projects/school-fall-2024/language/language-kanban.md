@@ -6,14 +6,14 @@
 ## Unscheduled
 
 - [x] #hw (lang) Exercise 1.1-1.2 [[2025-01-08\|2025-01-08]]
-- [ ] #hw (lang) Exercises 1.5-1.6 (EVEN Numbers only) [[daily/2025-01-10\|2025-01-10]]
-- [ ] #hw (lang) Exercises 1.7-1.8 (EVEN Numbers only) [[daily/2025-01-13\|2025-01-13]]
+- [x] #hw (lang) Exercises 1.5-1.6 (EVEN Numbers only) [[daily/2025-01-10\|2025-01-10]]
+- [x] #hw (lang) Exercises 1.7-1.8 (EVEN Numbers only) [[daily/2025-01-13\|2025-01-13]]
 - [ ] 1.9 and 1.10 are in [[projects/school-fall-2024/language/lessons/editing-sentences\|editing-sentences]] assignment
 
 
 ## Scheduled
 
-- [ ] Pronouns (p. 22) [[daily/2025-01-13\|2025-01-13]]
+- [x] Pronouns (p. 22) [[daily/2025-01-13\|2025-01-13]]
     - 9 Exercises p. 28-38
 - [ ] Next Book report selection - Choose one of the holocaust or classic books. [[daily/2025-01-14\|2025-01-14]]
 - [ ] Active and Passive Voice (p. 39) [[2025-01-20\|2025-01-20]]
@@ -56,7 +56,7 @@
 
 ## To-grade
 
-- [ ] #hw Extreme Ownership final draft [[2025-01-15\|2025-01-15]]
+- [ ] #hw Extreme Ownership final draft [[2025-01-22\|2025-01-22]]
 
 
 ## Done

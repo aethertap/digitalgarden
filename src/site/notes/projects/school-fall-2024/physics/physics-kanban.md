@@ -37,7 +37,7 @@
 
 ## Current/ongoing
 
-- [ ] [[projects/school-fall-2024/physics/lessons/measurement-precision-accuracy-lab\|measurement-precision-accuracy-lab]] [[2025-01-09\|2025-01-09]]
+- [x] [[projects/school-fall-2024/physics/lessons/measurement-precision-accuracy-lab\|measurement-precision-accuracy-lab]] [[2025-01-09\|2025-01-09]]
 
 
 ## Completed

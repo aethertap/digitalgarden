@@ -57,8 +57,8 @@ $$
 ## Homework
 
 
-- [ ] #hw (geometry) 9.2 Angles in a Polygon  (p. 246) [[2025-01-15\|2025-01-15]]
-
+- [x] #hw (geometry) 9.2 Angles in a Polygon  (p. 246) [[2025-01-15\|2025-01-15]]
+	
 - [ ] #quiz Prove that the measure of each interior angle of a regular polygon is $\frac{180(n-2)}{n}$
 - [ ] #quiz Construct the *incenter* of an obtuse triangle
 - [ ] #quiz Construct the *circumcenter* of an acute triangle

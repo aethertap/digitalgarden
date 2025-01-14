@@ -99,7 +99,7 @@ $$
 ## Homework
 
 
-- [ ] #hw (math) 5.6 Summary (p. 240) problem 5.45-5.50 [[2025-01-15\|2025-01-15]] 
+- [x] #hw (math) 5.6 Summary (p. 240) problem 5.45-5.50 [[2025-01-15\|2025-01-15]]
 - [ ] #quiz if $2y+3x = 12$ and $10y-x=28$, Solve for $x \text{ and } y$
 - [ ] #quiz When is this expression undefined: $\frac{x+7}{x-2}$?
 - [ ] #quiz Give an example of an equation with no solutions.

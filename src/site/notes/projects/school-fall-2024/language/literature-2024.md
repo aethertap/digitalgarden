@@ -67,7 +67,7 @@ AI essay grading help: [Co-grader](https://app.cograder.com)
 - [x] #hw (literature) [IXL Identify Evidence](https://www.ixl.com/ela/grade-10/identify-supporting-evidence-in-a-text) [[2024-12-10\|2024-12-10]]
 - [x] #hw (literature) https://www.ixl.com/ela/grade-10/analyze-short-stories-set-1 [[2024-12-12\|2024-12-12]]
 - [ ] #hw (literature) https://www.ixl.com/ela/grade-10/analyze-passages-from-things-fall-apart-part-1
-- [ ] #hw (lang) [IXL Clauses](https://www.ixl.com/ela/grade-7/identify-dependent-and-independent-clauses) [[daily/2025-01-10\|2025-01-10]]
+- [x] #hw (lang) [IXL Clauses](https://www.ixl.com/ela/grade-7/identify-dependent-and-independent-clauses) [[daily/2025-01-10\|2025-01-10]]
 
 ## Reading 1: Wee Free Men
 
@@ -90,5 +90,5 @@ This is mostly for test preparation. This course goes through a large number of 
 - [x] #hw (lit) Extreme Ownership chapters 5-8 main ideas outline [[2024-11-26\|2024-11-26]]
 - [x] #hw (lit) Extreme Ownership chapters 9-12 main ideas outline [[2024-12-03\|2024-12-03]]
 - [x] #hw (lit) Extreme Ownership essay rough draft [[2025-01-06\|2025-01-06]]
-- [ ] #hw (lit) Extreme Ownerships essay final draft [[2025-01-15\|2025-01-15]]
+- [x] #hw (lit) Extreme Ownerships essay final draft [[2025-01-15\|2025-01-15]]
 

@@ -81,5 +81,5 @@ Please create a quiz with six questions that allows my students to practice thei
 ## Homework
 
 
-- [ ] #hw (physics) [openstax problems 5+6](https://openstax.org/books/physics/pages/5-2-vector-addition-and-subtraction-analytical-methods) [[daily/2025-01-10\|2025-01-10]] 
-- [ ] #hw (physics) [openstax problems 1-4](https://openstax.org/books/physics/pages/5-2-vector-addition-and-subtraction-analytical-methods) [[daily/2025-01-10\|2025-01-10]] 
+- [x] #hw (physics) [openstax problems 5+6](https://openstax.org/books/physics/pages/5-2-vector-addition-and-subtraction-analytical-methods) [[daily/2025-01-10\|2025-01-10]]
+- [x] #hw (physics) [openstax problems 1-4](https://openstax.org/books/physics/pages/5-2-vector-addition-and-subtraction-analytical-methods) [[daily/2025-01-10\|2025-01-10]]

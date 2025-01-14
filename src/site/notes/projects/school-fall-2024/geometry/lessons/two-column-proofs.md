@@ -55,4 +55,4 @@
 
 
 - [x] #hw Look at  [AoPS Alcumus](https://artofproblemsolving.com/alcumus) [[2025-01-08\|2025-01-08]]
-- [ ] #hw Start an obsidian note full of proof properties. We will add to it over time. [[2025-01-06\|2025-01-06]]
+- [x] #hw Start an obsidian note full of proof properties. We will add to it over time. [[2025-01-06\|2025-01-06]]
