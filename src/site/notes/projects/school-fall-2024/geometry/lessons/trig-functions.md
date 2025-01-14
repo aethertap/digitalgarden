@@ -27,6 +27,7 @@
 - [The law of sines](https://www.mathsisfun.com/algebra/trig-sine-law.html)
 - [The law of cosines](https://www.mathsisfun.com/algebra/trig-cosine-law.html)
 - [Wikipedia list of trig identities](https://en.wikipedia.org/wiki/List_of_trigonometric_identities)
+- [GeoGebra Exploring triangle identities](https://www.geogebra.org/m/vmkw7zpu)
 
 ## Concept summary and connections
 
@@ -44,9 +45,9 @@
 - [ ] #quiz Solve a triangle using the law of cosines ([examples](https://www.mathsisfun.com/algebra/trig-cosine-law.html))
 
 ## Worked examples
+
 - $(\sin x)^2 + (\cos x)^2 = 1$
 - $\frac{\sin x}{\cos x} = \tan x$
-- 
 
 
 ## Media resources
