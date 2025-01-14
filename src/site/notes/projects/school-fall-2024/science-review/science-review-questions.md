@@ -11,7 +11,7 @@
 - [ ] #quiz Compare and contrast a theory and a law.
 - [x] #quiz What are models, and why are they used in science?
 - [ ] #quiz Give an example of a physical model, a computer model, and a mathematical model.
-- [ ] #quiz What is an independent variable in a scientific experiment?
+- [ ] #quiz What is an *independent* variable in a scientific experiment?
 - [ ] #quiz What is a *dependent* variable in a scientific experiment?
 - [ ] #quiz Why is it important to have a well-defined procedure when doing an experiment?
 - [ ] #quiz What does it mean to *infer* something (especially in a science context)?
@@ -29,3 +29,39 @@
 - [ ] #quiz What is an *intensive property* (chemistry)?
 - [ ] #quiz What is an *extensive property* (chemistry)?
 - [ ] #quiz How would you measure the density of an irregularly shaped object?
+- [ ] #quiz What is the smallest piece of matter you can get that keeps the same chemical properties as you would have in a larger piece?
+- [ ] #quiz What are the four phases of matter?
+- [ ] #quiz What particles form the *nucleus* of an atom?
+- [ ] #quiz What particles orbit around outside of the nucleus of an atom?
+- [ ] #quiz What is Ernest Rutherford famous for discovering, involving atoms of gold?
+- [ ] #quiz What is the difference between a *physical* property and a *chemical* property of matter?
+- [ ] #quiz Can matter be created by a chemical reaction?
+- [ ] #quiz Can matter by destroyed (so that it no longer exists) by a chemical reaction?
+- [ ] #quiz Which phase of matter can easily have its *volume* changed?
+- [ ] #quiz Which phases of matter can easily change *shape*?
+- [ ] #quiz What does *sublimation* mean?
+- [ ] #quiz Describe how a compressor-based air conditioner works.
+- [ ] #quiz Which subatomic particle has a positive charge?
+- [ ] #quiz Which subatomic particle has a negative charge?
+- [ ] #quiz What are *valence electrons*?
+- [ ] #quiz What subatomic particles are most important in the formation of chemical bonds?
+- [ ] #quiz What is the *atomic number* of an element? What does it mean about the element's nucleus?
+- [ ] #quiz What's the difference between a substance and a mixture? (substance can't be broken into simpler parts, physical changes don't alter its composition)
+- [ ] #quiz What is the difference between a heterogeneous mixture and a homogeneous mixture?
+- [ ] #quiz Is a solution a substance or a mixture?
+- [ ] #quiz Give an example unit for measuring *pressure*.
+- [ ] #quiz How many particles are there in one mole of a substance?
+- [ ] #quiz Give an SI unit for speed. 
+- [ ] #quiz How are speed, time, and distance related?
+- [ ] #quiz What's the difference between speed and velocity?
+- [ ] #quiz What is *acceleration*?
+- [ ] #quiz Does positive acceleration always mean increasing speed?
+- [ ] #quiz Where does the acceleration vector point for a ball on a string that's swinging around in a circle?
+- [ ] #quiz How are force, mass, and acceleration related?
+- [ ] #quiz What is Newton's first law of motion? (inertia)
+- [ ] #quiz What is Newton's second law of motion? (f=ma)
+- [ ] #quiz What is Newton's third law of motion? (equal/opposite reaction)
+- [ ] #quiz What is the acceleration due to gravity on earth, in SI units?
+- [ ] #quiz If you drop a brick from the first story window, it hits the ground with a certain amount of kinetic energy. How much higher would you have to drop from in order to double the kinetic energy? 
+- [ ] #quiz If you drop a brick from the first story window, it hits the ground with a certain speed. How much higher would you have to drop from in order to double the *speed* at the moment of impact? 
+- [ ] #quiz If a penny was dropped from the top of the Empire State Building (443.2 meters tall), and there was no wind resistance, 

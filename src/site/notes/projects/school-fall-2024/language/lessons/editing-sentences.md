@@ -56,7 +56,7 @@ was finally able to relax. I closed my eyes and listened as seagulls squawked
 
 
 
-- [ ] #hw (lang) Exercise: BFLAN 1.9, 1.10 [[2025-01-14\|2025-01-14]] 
+- [ ] #hw (lang) Exercise: BFLAN 1.9, 1.10 [[daily/2025-01-14\|2025-01-14]] 
 
 ### Quiz questions
 

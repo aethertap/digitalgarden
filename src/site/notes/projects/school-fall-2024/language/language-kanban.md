@@ -15,7 +15,7 @@
 
 - [ ] Pronouns (p. 22) [[daily/2025-01-13\|2025-01-13]]
     - 9 Exercises p. 28-38
-- [ ] Next Book report selection - Choose one of the holocaust or classic books. [[2025-01-14\|2025-01-14]]
+- [ ] Next Book report selection - Choose one of the holocaust or classic books. [[daily/2025-01-14\|2025-01-14]]
 - [ ] Active and Passive Voice (p. 39) [[2025-01-20\|2025-01-20]]
     - 6 Exercises p. 43-54
 - [ ] Verbs and Mood (p. 55) [[2025-01-27\|2025-01-27]]

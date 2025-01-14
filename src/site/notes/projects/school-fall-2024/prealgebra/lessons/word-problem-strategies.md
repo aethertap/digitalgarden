@@ -42,6 +42,7 @@
     - Each equation is a line if you graph it, and they have to intersect in a point in order to have a unique solution
     - parallel and overlapping lines have zero and infinite solutions respectively
 
+
 ## Worked examples
 
 - You sold 90 donuts altogether
