@@ -77,4 +77,4 @@ Some additional design options were considered during this process. If this desi
 
 ## Practice
 
-- [ ] #hw (engr) **In class** and finishing by end of next class: Write a short design proposal for a drinking cup that follows the [guide in the notes](https://school.ginosterous.com/engineering/lessons/engineering-process) above  [[2025-01-16\|2025-01-16]]
+- [ ] #hw (engr) **In class** and finishing by end of next class: Write a short design proposal for a drinking cup that follows the [guide in the notes](https://school.ginosterous.com/projects/school-fall-2024/engineering/lessons/engineering-process) above  [[2025-01-16\|2025-01-16]]

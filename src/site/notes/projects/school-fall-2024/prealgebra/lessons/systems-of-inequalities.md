@@ -25,8 +25,6 @@
 - [Solving systems of inequalities](https://math.libretexts.org/Bookshelves/Algebra/Advanced_Algebra/03:_Solving_Linear_Systems/3.07:_Solving_Systems_of_Inequalities_with_Two_Variables) 
 - [Khan practice with systems of inequalities](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:inequalities-systems-graphs/x2f8bb11595b61c86:graphing-two-variable-inequalities/e/graphing_systems_of_inequalities_2) 
 - [IXL Lesson: Systems of linear inequalities](https://www.ixl.com/math/lessons/systems-of-linear-inequalities?returnToPracticeUrl=https%3A%2F%2Fwww.ixl.com%2Fmath%2Falgebra-1%2Fsolve-systems-of-linear-inequalities-by-graphing) 
--  
-
 
 ## Concept summary and connections
 
