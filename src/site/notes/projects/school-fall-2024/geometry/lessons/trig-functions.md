@@ -68,4 +68,4 @@
 
 ## Homework
 
-- [ ] #hw (geom-gr10) ([class notes](https://school.ginosterous.com/projects/school-fall-2024/geometry/lessons/trig-functions)) **DO IN CLASS** during prealgebra: [IXL trig practice](https://www.mathsisfun.com/algebra/trig-cosine-law.html) [[daily/2025-01-14\|2025-01-14]]
+- [ ] #hw (geom-gr10) ([class notes](https://school.ginosterous.com/projects/school-fall-2024/geometry/lessons/trig-functions)) **DO IN CLASS** during prealgebra: [IXL trig practice](https://www.ixl.com/math/geometry/checkpoint-right-triangle-trigonometry) [[daily/2025-01-14\|2025-01-14]]
