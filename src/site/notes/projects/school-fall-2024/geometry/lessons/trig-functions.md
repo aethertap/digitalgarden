@@ -38,7 +38,7 @@
 - sine  cosine  tangent 
 - Inverse functions: arcsine  arccosine  arctangent 
 - trigonometric identities (demonstrate in class)
-
+- [ ] #quiz What is another way to express $\sin(90-x)$
 - [ ] #quiz What is the Law of Sines: $\frac{a}{\sin(A)} = \frac{b}{\sin(B)} = \frac{c}{\sin C}$
 - [ ] #quiz What is the Law of Cosines: $c^2 = a^2 + b^2 - 2ab \cos C$
 - [ ] #quiz Solve a triangle using the law of sines ([examples](https://www.mathsisfun.com/algebra/trig-sine-law.html))

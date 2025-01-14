@@ -52,6 +52,7 @@ Show how to find the sum of exterior angles for any n-gon
 - [ ] Find the number of sides in a regular polygon whose interior angles measure $172\degree$  
 - [ ] ABCDEFGHIJKLMNO is a regular 15-gon. Find $\angle ACB$, $\angle ACD$, and $\angle ADE$  
 
+- [ ] #quiz If a polygon's interior angles add up to 360$\degree$,  and the are in the ratio of 2:3:4:5 with each other, what is the measure of each interior angle?
 
 ## Homework
 
