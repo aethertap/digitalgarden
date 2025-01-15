@@ -90,5 +90,5 @@ This is mostly for test preparation. This course goes through a large number of 
 - [x] #hw (lit) Extreme Ownership chapters 5-8 main ideas outline [[2024-11-26\|2024-11-26]]
 - [x] #hw (lit) Extreme Ownership chapters 9-12 main ideas outline [[2024-12-03\|2024-12-03]]
 - [x] #hw (lit) Extreme Ownership essay rough draft [[2025-01-06\|2025-01-06]]
-- [ ] #hw (lit) Extreme Ownerships essay final draft rescheduled [[2025-01-22\|2025-01-22]]
+- [x] #hw (lit) Extreme Ownerships essay final draft [[2025-01-15\|2025-01-15]]
 

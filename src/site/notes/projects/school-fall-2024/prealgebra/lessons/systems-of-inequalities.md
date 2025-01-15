@@ -51,8 +51,8 @@ Graph these inequalities and figure out what the valid region is:
 $$
 \begin{aligned}
 x + y &< 7 \\
-y &\geq 5 \\
-x &> -3
+y \geq 5 \\
+x > -3
 \end{aligned}
 $$
 

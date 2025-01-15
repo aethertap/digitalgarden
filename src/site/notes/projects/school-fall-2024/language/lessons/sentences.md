@@ -16,7 +16,7 @@ Read BFLAN p. 2-7
 
 ## Topics
 
-- [ ] #h2 (lang) Add these terms with definitions from the notebook to your language Anki deck [[2025-01-07\|2025-01-07]]
+- [x] #h2 (lang) Add these terms with definitions from the notebook to your language Anki deck [[2025-01-07\|2025-01-07]]
 
 - noun, verb, adjective, adverb, preposition
 - clause
