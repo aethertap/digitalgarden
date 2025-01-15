@@ -60,6 +60,7 @@ So, Vikki will be twice Vera's age in 5 years, or when she is 18 and Vera is 9.
 
 For this problem, they never actually asked for the right unknown. We had to *figure out* what it was by *exploring* the problem.
 
+
 ## Media resources
 
 - [Youtube search for "Picking the right unknowns for a word problem"](https://www.youtube.com/results?search_query=Picking%20the%20right%20unknowns%20for%20a%20word%20problem)  
@@ -73,8 +74,9 @@ For this problem, they never actually asked for the right unknown. We had to *fi
 
 - [ ] A plane traveled 480 miles each way to Roanville and back. The trip there was with the wind and took 3 hours. The trip back was into the wind and took 4 hours. What is the speed of the plane in still air? What is the speed of the wind?   
 - [ ] When we add three consecutive integers together, the result is 21. What are the integers?   
-
+- Do problems from [IXL word problems](https://www.ixl.com/math/algebra-1/solve-a-system-of-equations-using-any-method-word-problems) as guided practice together on the whiteboard
 
 ## Homework
 
 - problems 5.51-5.53 in AoPS prealgebra
+- [ ] #hw (gr7) **IN CLASS** work on [AoPS Alcumus](https://artofproblemsolving.com/alcumus) [[2025-01-15\|2025-01-15]]

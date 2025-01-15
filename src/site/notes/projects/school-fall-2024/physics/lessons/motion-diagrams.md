@@ -90,4 +90,4 @@ Please create a quiz with six questions that allows my students to practice thei
 
 
 
-- [ ] #hw (physics) Do the physicsclassroom [free body diagram interactive](https://www.physicsclassroom.com/Physics-Interactives/Newtons-Laws/Free-Body-Diagrams-2/Free-Body-Diagram-Interactive) [[2025-01-17\|2025-01-17]] 
+- [ ] #hw (physics) Do the physicsclassroom [free body diagram interactive](https://www.physicsclassroom.com/Physics-Interactives/Newtons-Laws/Free-Body-Diagrams/Free-Body-Diagram-Interactive) [[2025-01-17\|2025-01-17]] 
