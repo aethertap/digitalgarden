@@ -68,4 +68,4 @@
 
 ## Homework
 
-- [ ] #hw (geom-gr10) ([class notes](https://school.ginosterous.com/projects/school-fall-2024/geometry/lessons/trig-functions)) **DO IN CLASS** during prealgebra: [IXL trig practice](https://www.ixl.com/math/geometry/checkpoint-right-triangle-trigonometry) [[2025-01-14\|2025-01-14]]
+- [x] #hw (geom-gr10) ([class notes](https://school.ginosterous.com/projects/school-fall-2024/geometry/lessons/trig-functions)) **DO IN CLASS** during prealgebra: [IXL trig practice](https://www.ixl.com/math/geometry/checkpoint-right-triangle-trigonometry) [[2025-01-14\|2025-01-14]]
