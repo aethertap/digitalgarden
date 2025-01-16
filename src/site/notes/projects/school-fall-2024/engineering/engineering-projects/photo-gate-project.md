@@ -24,6 +24,7 @@ A photogate is a device that uses a beam of light to record a precise measuremen
 4. Slide a 7" by 2 3/4" by 5" object through the gate, along the 7" axis of the object. The object must not touch the gate at any point. (req b)
 5. Pass an object through gate and look at the terminal for time result. It must report a time. (req. a)
 
+![gr7-photogate-prototype-sm.jpg](/img/user/projects/school-fall-2024/engineering/engineering-projects/_resources/gr7-photogate-prototype-sm.jpg)
 ## gr10's gate test protocol
 
 1. Open and compile code. Verify that it compiles correctly.
@@ -31,7 +32,7 @@ A photogate is a device that uses a beam of light to record a precise measuremen
 3. Enable serial monitor
 4. Pass a  7" by 2 3/4" by 5" object through the gate, along the 7" axis of the object. Verify that a time is reported on the terminal. (req. a,b)
 5. Pass a 1/2" steel marble through the gate. Verify that a time is reported on the terminal. (req a, c)
-
+![gr10-photogate-prototype-sm.jpg](/img/user/projects/school-fall-2024/engineering/engineering-projects/_resources/gr10-photogate-prototype-sm.jpg)
 # Design process
 
 Problems to solve:
