@@ -7,26 +7,6 @@
 
 #  Kinematics overview
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/school-fall-2024/physics/physics-2024/#notebook-lm-prompts" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-## NotebookLM prompts
-
-### Flashcard generation (work in progress, cards are too generic)
-
-Please generate a set of flashcards to help me learn the material in **section number**. Each card front should appear only once. If a card has more than one possible answer, include all answers on the same card instead of making multiple cards for the same question. Please focus on understanding the mathematical relationships covered in the material, and on recognizing what the appropriate uses are for each relation. I would like to have 20 cards in JSON syntax, as an array of objects. Each object is one flashcard, and has a "front" and a "back" property whose value is the card's front or back text, respectively.
-
-### Quiz generation
-
-Please create a quiz with six questions that allows my students to practice their understanding of the ideas from chapter **chapter number**. The questions should require them to compute numerical answers, but the numbers should be small and easy to work with. Please focus on problems involving **topics**.
-
-
-
-</div></div>
-
-
 ## Links and useful resources 
 
 - [[projects/school-fall-2024/physics/physics-2024#How Things Work Outline\|START HERE: Physics 2024 class outline]]
@@ -38,13 +18,47 @@ Please create a quiz with six questions that allows my students to practice thei
 - [Physics classroom online interactive tools](https://www.physicsclassroom.com)
 - [AP Physics 1 Dan Fullerton videos](https://www.youtube.com/playlist?list=PLd2HWlWc-MsysWuL9ksneEM8cl5bk3bHH)
 
-
 ### Lesson-specific resource links
 
 - https://www.physicsclassroom.com/Concept-Builders/Momentum-and-Collisions/Momentum 
 
+## Discussion
 
-## Demonstration
+- Drawing [[projects/school-fall-2024/physics/pictorial-representation\|pictorial-representation]]s for problem solving
+- Three-part [[projects/school-fall-2024/physics/lessons/homework-problem-template\|homework-problem-template]]
+- Watch a ball roll down a ramp, then draw a [[projects/school-fall-2024/physics/motion-diagram\|motion-diagram]], and finally discuss differences
+    - Discuss velocity and acceleration
+    - Challenge them to draw motion diagrams for these situations:
+        - Car rolling down a hill
+        - Spaceship make soft landing on Mars
+        - Bob runs once around a track with straight sides and semicircular ends
+        - An olympic shotputter throws the shot. On this one, discuss carefully where the motion begins and ends!
+- Question: A car drives over a hill at a steady 60 mph. Is it accelerating as it crests the hill? Justify your answer with a motion diagram.
+
+### Turning points
+
+A Turning point is when the velocity of an object switches direction (like a ball thrown high stops and then falls back down). Analyze this motion together with a motion diagram.
+- What is happening to the velocity?
+- What is happening to the acceleration?
+- What is happening to the position?
+
+### Distance and Displacement
+
+Distance can be used to record how much movement happened, while displacement indicates how far the object ended up from its starting point. Are these different? Give an example of when they are different, and when they are the same.
+
+### Position, Speed, and Acceleration graphs
+
+Graphing these can be very tricky. Start simple: Graph the position for an air-hockey puck sliding at constant speed, without friction, in the positive X direction. Graph the speed and acceleration on the same coordinate plane.
+
+Now, graph the position of a ball rolling down a ramp under the force of gravity. First draw a pictorial representation, then a motion diagram, and finally draw a graph of the ball's *distance from the start* over time. Add the *speed* of the ball to the same graph, and finally add the *acceleration* over time.
+
+Give them a graph of velocity with sharp-angled corners connecting linear regions. Ask for the graph of the acceleration that matches that velocity.
+
+### Final question
+
+Use the full problem-solving worksheet to answer this question ([[projects/school-fall-2024/physics/pictorial-representation\|pictorial-representation]], [[projects/school-fall-2024/physics/motion-diagram\|motion-diagram]], and labeled variables and kinematic equations):
+
+Sally opens her parachute at a height of 2000 feet and descends at a steady 25 ft/sec. How long does it take her to touch down? 
 
 
 ## Concept summary and connections

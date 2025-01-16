@@ -44,6 +44,7 @@ Problems to solve:
 - [x] #hw (engr) Measure all components for our photo-gate project (LED, phototransistor, wires, threaded rod, connector body, etc. [[2025-01-14\|2025-01-14]]
 - [x] #hw (engr) Design a very simple enclosure to hold our components and make it easy to connect the Arduino. What kind of connector body should we use? [[2025-01-14\|2025-01-14]]
 - [x] #hw (engr) Switch arduino code to use `analogRead` and set the sensitivity so it can detect our LEDs [[2025-01-09\|2025-01-09]]
-- [ ] #hw (engr) Add code to photogate so that it reports the number of CPU cycles since the last gate trip whenever the gate is tripped. [[2025-01-21\|2025-01-21]]
+- [ ] #hw (engr) Add code to photogate so that it reports the number of microseconds since the last gate trip whenever the gate is tripped. [[2025-01-21\|2025-01-21]]
+- [ ] #hw (engr) After verifying prototypes pass test protocol, create 3d-printable design in OnShape
 - [ ] #hw (engr) Print out the prototype mount and assemble everything. Connect it to the arduino and do a test run.
 - [ ] #hw (engr) Correct any problems with the design, then print four working photogates.

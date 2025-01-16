@@ -3,7 +3,7 @@
 ---
 
 
- [scheduled:: 2025-01-15] 
+ [scheduled:: 2025-01-17] 
 
 #  Polygon Problems
 
@@ -19,9 +19,7 @@
 - [[proofs-unit-printables.pdf|Proofs unit printables for two-column proofs]]
 
 
-
 ## Concept summary and connections
-
 
 - area and perimeter of polygons 
 - interior angles in polygons 
@@ -31,7 +29,19 @@
 
 ## Worked examples
 
+- 9.10: Diagonals BD and CE of regular pentagon ABCDE meet at Q. Find angle BQE. (A is vertex on top in the diagram)
+- 9.11: Find the number of diagonals in a polygon with n sides. Start with a few examples, build a table, look for a pattern, then prove the pattern.
+- All interior angles of hexagon ABCDEF have measure 120. ABCDEF has sides AB=BC=DE=EF=2 and CD=AF=4. What is the area of the hexagon?
 
+
+Things to look for that frequently help:
+- Parallel lines
+- Congruent or similar triangles
+- Equal angles
+- Complementary or supplementary angles
+- Places where an additional line could give you one of those things
+- Angles on the extensions of lines
+- ***BEWARE*** of assuming a polygon is regular - if it doesn't say so, it isn't so!
 
 ## Media resources
 
