@@ -48,5 +48,5 @@
 
 ## Homework
 
-- [ ] #hw (geom-gr10) 9.4 Polygon Problems  (p. 254) (gr10) [[2025-01-17\|2025-01-17]] 
-- [ ] #hw (geom-gr10) **IN CLASS** work on [AoPS Alcumus](https://artofproblemsolving.com/alcumus) [[2025-01-15\|2025-01-15]]
+- [ ] #hw (geom-gr10) 9.4 Polygon Problems  (p. 254) (gr10) [[2025-01-20\|2025-01-20]] 
+- [x] #hw (geom-gr10) **IN CLASS** work on [AoPS Alcumus](https://artofproblemsolving.com/alcumus) [[2025-01-15\|2025-01-15]]

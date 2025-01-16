@@ -5,10 +5,6 @@
 
 ## Unscheduled
 
-- [x] #hw (lang) Exercise 1.1-1.2 [[2025-01-08\|2025-01-08]]
-- [x] #hw (lang) Exercises 1.5-1.6 (EVEN Numbers only) [[2025-01-10\|2025-01-10]]
-- [x] #hw (lang) Exercises 1.7-1.8 (EVEN Numbers only) [[2025-01-13\|2025-01-13]]
-- [ ] 1.9 and 1.10 are in [[projects/school-fall-2024/language/lessons/editing-sentences\|editing-sentences]] assignment
 
 
 ## Scheduled
@@ -66,6 +62,10 @@
 - [x] #hw Sentences (p. 2) [[2025-01-06\|2025-01-06]]
     - 10 Exercises, p. 8-20 (two per day)
 - [x] #hw (lang) Exercises 1.3-1.4 [[2025-01-09\|2025-01-09]]
+- [x] #hw (lang) Exercises 1.5-1.6 (EVEN Numbers only) [[2025-01-10\|2025-01-10]]
+- [x] #hw (lang) Exercises 1.7-1.8 (EVEN Numbers only) [[2025-01-13\|2025-01-13]]
+- [x] #hw (lang) Exercise 1.1-1.2 [[2025-01-08\|2025-01-08]]
+- [x] 1.9 and 1.10 are in [[projects/school-fall-2024/language/lessons/editing-sentences\|editing-sentences]] assignment
 - [ ] Wee free men Rough draft
 - [x] Extreme Ownership Rough Draft [[2025-01-06\|2025-01-06]]
 - [ ] Wee Free Men Final draft

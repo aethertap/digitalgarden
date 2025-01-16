@@ -79,4 +79,4 @@ For this problem, they never actually asked for the right unknown. We had to *fi
 ## Homework
 
 - problems 5.51-5.53 in AoPS prealgebra
-- [ ] #hw (gr7) **IN CLASS** work on [AoPS Alcumus](https://artofproblemsolving.com/alcumus) [[2025-01-15\|2025-01-15]]
+- [x] #hw (gr7) **IN CLASS** work on [AoPS Alcumus](https://artofproblemsolving.com/alcumus) [[2025-01-15\|2025-01-15]]

@@ -51,11 +51,10 @@ Graph these inequalities and figure out what the valid region is:
 $$
 \begin{aligned}
 x + y &< 7 \\
-y \geq 5 \\
-x > -3
+y &\geq 5 \\
+x &> -3
 \end{aligned}
 $$
-
 
 
 ## Media resources
@@ -72,6 +71,5 @@ $$
 
 
 ## Homework
-
 
 - [x] #hw (math) DO IN CLASS [IXL graph inequalities](https://www.ixl.com/math/algebra-1/solve-systems-of-linear-inequalities-by-graphing) (gr7) [[2025-01-14\|2025-01-14]]
