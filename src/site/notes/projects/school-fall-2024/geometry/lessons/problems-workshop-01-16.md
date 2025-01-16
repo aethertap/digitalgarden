@@ -22,7 +22,6 @@
 
 ## Concept summary and connections
 
-
 - Median triangles are not congruent 
 - putting all computation work into the table 
 - Labeling all referenced variables in the diagram 

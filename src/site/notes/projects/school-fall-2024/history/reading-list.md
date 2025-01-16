@@ -1,0 +1,78 @@
+---
+{"dg-publish":true,"permalink":"/projects/school-fall-2024/history/reading-list/"}
+---
+
+
+# AMSCO AP World Reading List
+
+- [x] #hw (hist) Read section 1.1: Developments in East Asia pages 3–14
+- [x] #hw (hist) Read section 1.2: Developments in Dar al-Islam pages 15–22
+- [x] #hw (hist) Read section 1.3: Developments in South and Southeast Asia pages 23–32
+- [x] #hw (hist) Read section 1.4: Developments in the Americas pages 33–42
+- [x] #hw (hist) Read section 1.5: Developments in Africa pages 43–52
+- [x] #hw (hist) Read section 1.6: Developments in Europe pages 53–64
+- [x] #hw (hist) Read section 1.7: Comparison in the Period from c. 1200 to c. 1450 pages 65–68
+- [x] #hw (hist) Read section 2.1: The Silk Roads pages 77–84
+- [x] #hw (hist) Read section 2.2: The Mongol Empire and the Modern World pages 85–94
+- [x] #hw (hist) Read section 2.3: Exchange in the Indian Ocean pages 95–102
+- [x] #hw (hist) Read section 2.4: Trans-Saharan Trade Route pages 103–110
+- [x] #hw (hist) Read section 2.5: Cultural Consequences of Connectivity pages 111–120
+- [x] #hw (hist) Read section 2.6: Environmental Consequences of Connectivity pages 121–126
+- [x] #hw (hist) Read section 2.7: Comparison of Economic Exchange pages 127–133
+- [x] #hw (hist) Read section 3.1: European, East Asian, and Gunpowder Empires Expand pages 143–154
+- [x] #hw (hist) Read section 3.2: Empires: Administration pages 155–166
+- [x] #hw (hist) Read section 3.3: Empires: Belief Systems pages 167–176
+- [x] #hw (hist) Read section 3.4: Comparison in Land-Based Empires pages 177–181
+- [ ] #hw (hist) Read section 4.1: Technological Innovations pages 191–198
+- [ ] #hw (hist) Read section 4.2: Exploration: Causes and Events pages 199–208
+- [ ] #hw (hist) Read section 4.3: Colombian Exchange pages 209–217
+- [ ] #hw (hist) Read section 4.4: Maritime Empires are Established pages 218–231
+- [ ] #hw (hist) Read section 4.5: Maritime Empires are Maintained and Developed pages 232–242
+- [ ] #hw (hist) Read section 4.6: Internal and External Challenges to State Power pages 243–250
+- [ ] #hw (hist) Read section 4.7: Changing Social Hierarchies pages 251–260
+- [ ] #hw (hist) Read section 4.8: Continuity and Change from 1450 to 1750 pages 261–264
+- [ ] #hw (hist) Read section 5.1: The Enlightenment pages 275–284
+- [ ] #hw (hist) Read section 5.2: Nationalism and Revolutions pages 285–296
+- [ ] #hw (hist) Read section 5.3: Industrial Revolution Begins pages 297–303
+- [ ] #hw (hist) Read section 5.4: Industrialization Spreads pages 304–309
+- [ ] #hw (hist) Read section 5.5: Technology in the Industrial Age pages 310–316
+- [ ] #hw (hist) Read section 5.6: Industrialization: Government’s Role pages 317–324
+- [ ] #hw (hist) Read section 5.7: Economic Developments and Innovations pages 325–331
+- [ ] #hw (hist) Read section 5.8: Reactions to the Industrial Economy pages 332–342
+- [ ] #hw (hist) Read section 5.9: Society and the Industrial Age pages 343–350
+- [ ] #hw (hist) Read section 5.10: Continuity and Change in the Industrial Age pages 351–356
+- [ ] #hw (hist) Read section 6.1: Rationales for Imperialism pages 367–374
+- [ ] #hw (hist) Read section 6.2: State Expansion pages 375–387
+- [ ] #hw (hist) Read section 6.3: Indigenous Responses to State Expansion pages 388–398
+- [ ] #hw (hist) Read section 6.4: Global Economic Development pages 399–406
+- [ ] #hw (hist) Read section 6.5: Economic Imperialism pages 407–416
+- [ ] #hw (hist) Read section 6.6: Causes of Migration in an Interconnected World pages 417–428
+- [ ] #hw (hist) Read section 6.7: Effects of Migration pages 429–438
+- [ ] #hw (hist) Read section 6.8: Causation in the Imperial Age pages 439–442
+- [ ] #hw (hist) Read section 7.1: Shifting Power pages 453–460
+- [ ] #hw (hist) Read section 7.2: Causes of World War I pages 461–468
+- [ ] #hw (hist) Read section 7.3: Conducting World War I pages 469–479
+- [ ] #hw (hist) Read section 7.4: Economy in the Interwar Period pages 480–492
+- [ ] #hw (hist) Read section 7.5: Unresolved Tensions After World War I pages 493–502
+- [ ] #hw (hist) Read section 7.6: Causes of World War II pages 502–510
+- [ ] #hw (hist) Read section 7.7: Conducting World War II pages 511–520
+- [ ] #hw (hist) Read section 7.8: Mass Atrocities pages 520–530
+- [ ] #hw (hist) Read section 7.9: Causation in Global Conflict pages 531–535
+- [ ] #hw (hist) Read section 8.1: Setting the Stage for the Cold War and Decolonization pages 547–553
+- [ ] #hw (hist) Read section 8.2: The Cold War pages 554–561
+- [ ] #hw (hist) Read section 8.3: Effects of the Cold War pages 562–570
+- [ ] #hw (hist) Read section 8.4: Spread of Communism after 1900 pages 571–578
+- [ ] #hw (hist) Read section 8.5: Decolonization after 1900 pages 579–588
+- [ ] #hw (hist) Read section 8.6: Newly independent status pages 589-598
+- [ ] #hw (hist) Read section 8.7: Global Resistance to Established Power Structures pages 599-607
+- [ ] #hw (hist) Read section 8.8: End of the Cold War pages 608-614
+- [ ] #hw (hist) Read section 8.9: Causation in the Age of the Cold War and Decolonization pages 615-622
+- [ ] #hw (hist) Read section 9.1: Advances in Technology and Exchange pages 633–640
+- [ ] #hw (hist) Read section 9.2: Technological Advances and Limitations—Disease pages 641–648
+- [ ] #hw (hist) Read section 9.3: Technological Advances—Debates about the Environment pages 649–656
+- [ ] #hw (hist) Read section 9.4: Economics in the Global Age pages 657–666
+- [ ] #hw (hist) Read section 9.5: Calls for Reform and Responses pages 667–678
+- [ ] #hw (hist) Read section 9.6: Globalized Culture pages 679–687
+- [ ] #hw (hist) Read section 9.7: Resistance to Globalization pages 688–695
+- [ ] #hw (hist) Read section 9.8: Institutions Developing in a Globalized World pages 696–706
+- [ ] #hw (hist) Read section 9.9: Continuity and Change in a Globalized World pages 707–712
