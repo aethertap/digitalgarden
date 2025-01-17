@@ -11,7 +11,7 @@ There are 20 labs, we should be able to do one a week, possibly skipping a coupl
 1. [ ] [[projects/school-fall-2024/physics/lessons/measurement-precision-accuracy-lab\|measurement-precision-accuracy-lab]]
     1. Volume, sigfigs, displacement
     2. Precision and Accuracy
-2. [ ] Position and Speed of an Object p. 22 [[2025-01-17\|2025-01-17]]
+2. [x] Position and Speed of an Object p. 22 [[2025-01-17\|2025-01-17]]
 3. [ ] Acceleration p. 31 [[2025-01-20\|2025-01-20]]
     1. [ ] Need to make or get photogates [[2025-01-20\|2025-01-20]]
 4. [ ] Newton's Laws p. 42 [[2025-01-27\|2025-01-27]]

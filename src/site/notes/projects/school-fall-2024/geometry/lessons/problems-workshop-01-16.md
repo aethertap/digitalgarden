@@ -48,6 +48,6 @@
 ## Homework
 
 
-- [ ] #hw (geom-gr10) **IN CLASS** [Alcumus](https://artofproblemsolving.com/alcumus) (gr10) [[2025-01-16\|2025-01-16]] 
+- [x] #hw (geom-gr10) **IN CLASS** [Alcumus](https://artofproblemsolving.com/alcumus) (gr10) [[2025-01-16\|2025-01-16]]
 
 
