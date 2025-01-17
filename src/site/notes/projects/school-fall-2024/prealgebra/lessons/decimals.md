@@ -40,7 +40,20 @@
 
 ## Worked examples
 
+### Homework Review
 
+Inequalities gave some serious trouble, let's do some together:
+1. assume $a > b > c > d$
+    1. is $a+c > b+d$ ?
+    2. is $a+d > b+c$ ?
+    3. is $ac > bd$ ?
+    4. is $ab > cd$ ?
+
+Things to try: 
+- What if some or all of them are negative?
+- Write variables as e.g. $a^+$ or $b^-$:
+    - is $b^++d^+ > b + d$? both numbers on the left are greater, so the sum is greater
+    - is $a+d > b+c$ ? Rewrite it as $b^+ + c^- > b + c$ ? Could be either way, one number is bigger and the other is smaller.
 
 ## Media resources
 

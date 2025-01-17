@@ -3,8 +3,9 @@
 ---
 
 
-[scheduled:: 2025-01-13] 
+[scheduled:: 2025-01-17] 
 
+***Check work in class***
 #  Pronouns
 
 - [[projects/school-fall-2024/language/language-kanban\|language-kanban]]
@@ -41,8 +42,6 @@ Read Chapter 2, BFLAN
 - [Youtube search for "indefinite pronoun"](https://www.youtube.com/results?search_query=indefinite%20pronoun) 
 
 ## Review Questions , Chapter 2
-
-
 
 - [x] #hw (lang) Exercise 2.1, 2.2, even parts  [[2025-01-15\|2025-01-15]]
 - [x] #hw (lang) Exercise 2.3, 2.4, even parts  [[2025-01-16\|2025-01-16]] 

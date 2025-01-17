@@ -9,9 +9,6 @@
 
 ## Scheduled
 
-- [x] Pronouns (p. 22) [[2025-01-13\|2025-01-13]]
-    - 9 Exercises p. 28-38
-- [ ] Next Book report selection - Choose one of the holocaust or classic books. [[2025-01-14\|2025-01-14]]
 - [ ] Active and Passive Voice (p. 39) [[2025-01-20\|2025-01-20]]
     - 6 Exercises p. 43-54
 - [ ] Verbs and Mood (p. 55) [[2025-01-27\|2025-01-27]]
@@ -59,6 +56,9 @@
 
 **Complete**
 - [x] #hw (lang) Exercises 1.3-1.4 (EVEN Numbers only) [[2025-01-09\|2025-01-09]]
+- [x] Next Book report selection - Choose one of the holocaust or classic books. [[2025-01-14\|2025-01-14]]
+- [x] Pronouns (p. 22) [[2025-01-13\|2025-01-13]]
+    - 9 Exercises p. 28-38
 - [x] #hw Sentences (p. 2) [[2025-01-06\|2025-01-06]]
     - 10 Exercises, p. 8-20 (two per day)
 - [x] #hw (lang) Exercises 1.3-1.4 [[2025-01-09\|2025-01-09]]

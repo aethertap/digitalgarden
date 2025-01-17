@@ -6,21 +6,22 @@
 
 # Literature and Writing 
 
-<h3><span>Scheduled classes</span></h3><div><ul class="dataview list-view-ul"><li><span>2025-01-08: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/language/lessons/sentences.md" data-href="projects/school-fall-2024/language/lessons/sentences.md" href="projects/school-fall-2024/language/lessons/sentences.md" class="internal-link" target="_blank" rel="noopener nofollow">sentences</a></span></li><li><span>2025-01-10: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/language/lessons/editing-sentences.md" data-href="projects/school-fall-2024/language/lessons/editing-sentences.md" href="projects/school-fall-2024/language/lessons/editing-sentences.md" class="internal-link" target="_blank" rel="noopener nofollow">editing-sentences</a></span></li><li><span>2025-01-13: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/language/lessons/ch2-pronouns.md" data-href="projects/school-fall-2024/language/lessons/ch2-pronouns.md" href="projects/school-fall-2024/language/lessons/ch2-pronouns.md" class="internal-link" target="_blank" rel="noopener nofollow">ch2-pronouns</a></span></li><li><span>2025-01-16: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/language/lessons/book-report-3.md" data-href="projects/school-fall-2024/language/lessons/book-report-3.md" href="projects/school-fall-2024/language/lessons/book-report-3.md" class="internal-link" target="_blank" rel="noopener nofollow">book-report-3</a></span></li></ul></div>
+<h3><span>Scheduled classes</span></h3><div><ul class="dataview list-view-ul"><li><span>2025-01-08: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/language/lessons/sentences.md" data-href="projects/school-fall-2024/language/lessons/sentences.md" href="projects/school-fall-2024/language/lessons/sentences.md" class="internal-link" target="_blank" rel="noopener nofollow">sentences</a></span></li><li><span>2025-01-10: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/language/lessons/editing-sentences.md" data-href="projects/school-fall-2024/language/lessons/editing-sentences.md" href="projects/school-fall-2024/language/lessons/editing-sentences.md" class="internal-link" target="_blank" rel="noopener nofollow">editing-sentences</a></span></li><li><span>2025-01-16: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/language/lessons/book-report-3.md" data-href="projects/school-fall-2024/language/lessons/book-report-3.md" href="projects/school-fall-2024/language/lessons/book-report-3.md" class="internal-link" target="_blank" rel="noopener nofollow">book-report-3</a></span></li><li><span>2025-01-17: <a data-tooltip-position="top" aria-label="projects/school-fall-2024/language/lessons/ch2-pronouns.md" data-href="projects/school-fall-2024/language/lessons/ch2-pronouns.md" href="projects/school-fall-2024/language/lessons/ch2-pronouns.md" class="internal-link" target="_blank" rel="noopener nofollow">ch2-pronouns</a></span></li></ul></div>
 [[projects/school-fall-2024/lesson-index\|lesson-index]]
 
 Goal: Read, analyze, and write a book report for five books:
 
-1. [x] The Wee Free Men
-2. Life's Ratchet
-3. Influence: The Art of Persuasion
-4. Extreme Ownership
-5. A Mind for Numbers
-6. The Scarlet Letter
-7. Surviving Alone
-8. Rubicon (roman empire fall)
-9. Gods and Generals (civil war novel)
-10. Under the Black Flag (golden age of piracy)
+1. [x] The Wee Free Men 
+2. [x] Extreme Ownership
+3. [ ] The Catcher in the Rye
+4. Life's Ratchet
+5. Influence: The Art of Persuasion
+6. A Mind for Numbers
+7. The Scarlet Letter
+8. Surviving Alone
+9. Rubicon (roman empire fall)
+10. Gods and Generals (civil war novel)
+11. Under the Black Flag (golden age of piracy)
 
 ## Crash course literature
 

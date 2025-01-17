@@ -104,7 +104,7 @@
 - [x] #hw (geometry) 9.1 Introduction to Polygons  (p. 244)
 - [x] #hw (geom-gr10) 9.2 Angles in a Polygon  (p. 246) [[2025-01-15\|2025-01-15]]
 - [x] #hw (geom-gr10) 9.3 Polygon Area  (p. 249)
-- [x] #hw (geom-gr10) 9.4 [[projects/school-fall-2024/geometry/lessons/polygon-problems\|polygon-problems]]  (p. 254)
+- [x] #hw (geom-gr10) 9.4 [[projects/school-fall-2024/geometry/lessons/polygon-problems\|polygon-problems]]  (p. 254) [score:: 13/16]
 - [x] #hw (geom-gr10) 9.5 Construction: Regular Polygons  (p. 257)
 - [ ] #hw (geom-gr10) 8.9 Summary  (p. 236)
 

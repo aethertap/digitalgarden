@@ -8,7 +8,10 @@
 We're going to build up a habit of showing complete work by using a template for all of our physics kinematics work from now on. It has four parts:
 
 1. A [[projects/school-fall-2024/physics/pictorial-representation\|pictorial-representation]] of the problem
-2. A [[projects/school-fall-2024/physics/motion-diagram\|motion-diagram]] showing the vector velocities and accelerations, or a [[projects/school-fall-2024/physics/lessons/free-body-diagram\|free-body-diagram]] showing the external forces if appropriate
-3. A table of values and variable definitions
-4. A solution that has the math worked through and relevant physical laws and properties called out next to the steps where they are used.
+2. Either (or both, if it makes sense): 
+    1. A [[projects/school-fall-2024/physics/motion-diagram\|motion-diagram]] showing the velocities and accelerations;
+    2. or a [[projects/school-fall-2024/physics/lessons/free-body-diagram\|free-body-diagram]] showing the external forces if appropriate
+3. A table of values and variable definitions used in the kinematic equations section
+4. A solution that uses labeled kinematic equations to find the desired answer. Use the [[projects/school-fall-2024/geometry/lessons/two-column-proofs\|two-column-proofs]] format.
 
+![dynamics-worksheet.jpg](/img/user/projects/school-fall-2024/physics/dynamics-worksheet.jpg)
