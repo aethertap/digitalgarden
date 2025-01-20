@@ -26,7 +26,7 @@
 Start with Lab 2 from [[Physics_Lab_Manual_Full-openstax.pdf]]
 
 - Drawing [[projects/school-fall-2024/physics/pictorial-representation\|pictorial-representation]]s for problem solving
-- Three-part [[projects/school-fall-2024/physics/lessons/homework-problem-template\|homework-problem-template]]
+- Three-part [[projects/school-fall-2024/physics/lessons/physics-homework-problem-template\|physics-homework-problem-template]]
 - Watch a ball roll down a ramp, then draw a [[projects/school-fall-2024/physics/motion-diagram\|motion-diagram]], and finally discuss differences
     - Discuss velocity and acceleration
     - Challenge them to draw motion diagrams for these situations:

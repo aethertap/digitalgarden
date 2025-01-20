@@ -45,6 +45,6 @@ Read Chapter 2, BFLAN
 
 - [x] #hw (lang) Exercise 2.1, 2.2, even parts  [[2025-01-15\|2025-01-15]]
 - [x] #hw (lang) Exercise 2.3, 2.4, even parts  [[2025-01-16\|2025-01-16]] 
-- [ ] #hw (lang) Exercise 2.5, 2.6, even parts  [[2025-01-17\|2025-01-17]] 
+- [x] #hw (lang) Exercise 2.5, 2.6, even parts  [[2025-01-17\|2025-01-17]] 
 - [ ] #hw (lang) Exercise 2.7, 2.8, even parts  [[2025-01-20\|2025-01-20]] 
 - [ ] #hw (lang) Exercise 2.9, even parts  [[2025-01-21\|2025-01-21]] 

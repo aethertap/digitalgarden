@@ -63,4 +63,4 @@
 
 ## Homework
 
-- [ ] #hw (geometry) 9.3 Polygon Area  (p. 249) [[2025-01-17\|2025-01-17]] 
+- [x] #hw (geometry) 9.3 Polygon Area  (p. 249) [[2025-01-17\|2025-01-17]]

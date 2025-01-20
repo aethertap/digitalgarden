@@ -81,15 +81,18 @@ Please create a quiz with six questions that allows my students to practice thei
 
 ## Guided practice
 
+Do a full example of the [[projects/school-fall-2024/physics/lessons/physics-homework-problem-template\|physics-homework-problem-template]] for each of these on the whiteboard in class.
 
-- [ ] Draw an FBD for a book sitting on a level table.  
-- [ ] Draw an FBD for a book at rest on a sloped surface.  
-- [ ] Draw an FBD for a parachutist falling steadily through the air.  
-- [ ] Draw an FBD for a car coasting down a hill.  
+- [ ] Draw an FBD for a book sitting on a level table. 
+    - [ ] The book has a mass of 1 kg, Solve the FBD for all forces.
+- [ ] Draw an FBD for a book at rest on a sloped surface.
+    - [ ] The book has a mass of 1 kg, and the slope is 30$\degree$, what friction force is required to keep the book from moving?
+- [ ] Draw an FBD for a parachutist falling steadily through the air.
+- [ ] Draw an FBD for a car driving up a hill at a constant speed (ignore wind resistance for now).
+    - [ ] The hill has a 10$\degree$ slope and the car has a mass of 500 kg, solve the FBD.
 
 ## Homework
 
-
-
-- [ ] A 1000-kg car is rolling backward down a hill with slope 1:5. Draw a free body diagram to analyze the car's motion. [[2025-01-22\|2025-01-22]] 
-- [ ] Now you run up to the car and start pushing against the bumper to try to stop it. How hard would you have to push in order to eventually stop the car? [[2025-01-22\|2025-01-22]] 
+- [ ] #hw (physics) A 1000-kg car is rolling slowly backward down a hill with 10$\degree$ slope. Draw a free body diagram to analyze the car's motion, and label all forces (ignore friction and wind resistance). [[2025-01-22\|2025-01-22]] 
+- [ ] #hw (physics) Solve the FBD using the [[projects/school-fall-2024/physics/lessons/physics-homework-problem-template\|physics-homework-problem-template]] we demonstrated in class [[2025-01-22\|2025-01-22]]
+- [ ] #hw (physics) Now you run up to the car and start pushing against the bumper to try to stop it. How hard would you have to push in order to eventually stop the car? Does that seem like something a normal person could manage? [[2025-01-22\|2025-01-22]] 

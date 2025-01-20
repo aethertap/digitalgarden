@@ -19,8 +19,8 @@ Read Begin reading The Catcher in the Rye
 ## Topics
 
 
-- Book report rubric
-- Pronoun problems
+- [[projects/school-fall-2024/language/book-report-rubric\|book-report-rubric]]
+- [[projects/school-fall-2024/language/lessons/ch2-pronouns\|ch2-pronouns]]
 
 
 ## Readings and Examples

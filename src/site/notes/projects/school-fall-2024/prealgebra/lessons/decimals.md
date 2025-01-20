@@ -13,7 +13,6 @@
 - [IXL Grade 7 index](https://www.ixl.com/math/grade-7)
 - [IXL Grade 8 index](https://www.ixl.com/math/grade-8)
 - [AoPS Alcumus](https://artofproblemsolving.com/teacher/students)
-- [[projects/school-fall-2024/prealgebra/prealgebra-gr7\|AoPS Prealgebra Outline with assignments]]
 - [Handwritten math converter](https://webdemo.myscript.com/views/math/index.html#)
 - [IXL prealgebra practice index](https://www.ixl.com/math/grade-7)
 - [OpenSTAX Prealgebra-1 textbook](https://openstax.org/books/prealgebra-2e/pages/1-introduction)
@@ -81,5 +80,5 @@ Things to try:
 ## Homework
 
 
-- [ ] #hw (math-gr7) **IN CLASS** [IXL Rounding Decimals](https://www.ixl.com/math/grade-7/round-decimals) [[2025-01-17\|2025-01-17]]
+- [x] #hw (math-gr7) **IN CLASS** [IXL Rounding Decimals](https://www.ixl.com/math/grade-7/round-decimals) [[2025-01-17\|2025-01-17]]
 - [ ] #hw (math-gr7) 6.1 Arithmetic with Decimals (p. 247) [[2025-01-20\|2025-01-20]]
