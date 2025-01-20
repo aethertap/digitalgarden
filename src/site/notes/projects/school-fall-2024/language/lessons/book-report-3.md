@@ -36,4 +36,4 @@ Read Begin reading The Catcher in the Rye
 
 
 
-- [ ] #hw (lang) Exercise: asdf [[2025-01-17\|2025-01-17]] 
+- [x] #hw (lang) Exercise: asdf [[2025-01-17\|2025-01-17]]
