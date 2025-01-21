@@ -9,8 +9,6 @@
 
 ## Scheduled
 
-- [ ] Active and Passive Voice (p. 39) [[2025-01-20\|2025-01-20]]
-    - 6 Exercises p. 43-54
 - [ ] Verbs and Mood (p. 55) [[2025-01-27\|2025-01-27]]
     - 6 Exercises p. 58-65
 - [ ] Verbals (p. 66) [[2025-02-03\|2025-02-03]]
@@ -55,6 +53,8 @@
 ## Done
 
 **Complete**
+- [x] Active and Passive Voice (p. 39) [[2025-01-20\|2025-01-20]]
+    - 6 Exercises p. 43-54
 - [x] #hw (lang) Exercises 1.3-1.4 (EVEN Numbers only) [[2025-01-09\|2025-01-09]]
 - [x] Next Book report selection - Choose one of the holocaust or classic books. [[2025-01-14\|2025-01-14]]
 - [x] Pronouns (p. 22) [[2025-01-13\|2025-01-13]]

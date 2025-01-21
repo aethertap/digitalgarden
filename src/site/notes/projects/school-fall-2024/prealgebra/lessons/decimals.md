@@ -81,4 +81,4 @@ Things to try:
 
 
 - [x] #hw (math-gr7) **IN CLASS** [IXL Rounding Decimals](https://www.ixl.com/math/grade-7/round-decimals) [[2025-01-17\|2025-01-17]]
-- [ ] #hw (math-gr7) 6.1 Arithmetic with Decimals (p. 247) [[2025-01-20\|2025-01-20]]
+- [x] #hw (math-gr7) 6.1 Arithmetic with Decimals (p. 247) [[2025-01-20\|2025-01-20]]

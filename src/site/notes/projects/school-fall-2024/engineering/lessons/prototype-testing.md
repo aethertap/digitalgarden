@@ -48,4 +48,4 @@ Testing is an important part of the engineering process, in which you actually c
 
 ## Practice
 
-- [ ] #hw (engr) **IN CLASS**: Design a test protocol for our photogates. It should try to find out how effective they are and what kinds of things we'll be able to measure with them. Make a page in your notebook to record data and then run your tests on each prototype gate. [[2025-01-21\|2025-01-21]]
+- [x] #hw (engr) **IN CLASS**: Design a test protocol for our photogates. It should try to find out how effective they are and what kinds of things we'll be able to measure with them. Make a page in your notebook to record data and then run your tests on each prototype gate. [[2025-01-21\|2025-01-21]]

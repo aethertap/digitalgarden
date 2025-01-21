@@ -66,5 +66,4 @@ Anyway, there are a few things in this class to notice.
 
 - [Difference between objects and classes in 8 minutes](https://www.youtube.com/watch?v=BM9tPve8T1o)
 - [Typescript classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)
-- 
 

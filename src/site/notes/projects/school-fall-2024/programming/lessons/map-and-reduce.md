@@ -71,4 +71,4 @@ Filter lets you decide who lives and dies, in an array. You make a function that
 
 ## Exercises
 
-- [ ] #hw (programming) Use iota and map to create an array of all of the squares up to the square of the argument provided. [[2025-01-20\|2025-01-20]]
+- [x] #hw (programming) Use iota and map to create an array of all of the squares up to the square of the argument provided. [[2025-01-20\|2025-01-20]]

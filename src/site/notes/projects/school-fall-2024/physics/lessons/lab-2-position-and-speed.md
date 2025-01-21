@@ -92,7 +92,7 @@ Procedure
 
 ## Homework
 
-- [ ] #hw (physics) Do the problems in [the lab lesson](https://school.ginosterous.com/physics/lessons/lab-2-position-and-speed) [[2025-01-24\|2025-01-24]]
+- [ ] #hw (physics) Do the problems in [the lab lesson](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/lab-2-position-and-speed) [[2025-01-24\|2025-01-24]]
 
 1. Devise a way to measure how fast water is moving in a river. What are some complications you will face? 
 2. You drop a pinecone from one side of a 12-meter wide bridge into the stream below. in 5 seconds, it comes out the other side. How fast is the stream flowing?  
