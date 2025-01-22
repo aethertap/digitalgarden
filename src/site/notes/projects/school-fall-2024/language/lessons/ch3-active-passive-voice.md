@@ -82,6 +82,6 @@ Before the Hunger Games begin, all the tributes train. As they train, the tribut
 
 ## Review Questions , Chapter 3
 
-- [ ] #hw (lang) BFLAN exercises (evens) 3.1, 3.2 [[2025-01-22\|2025-01-22]]
+- [x] #hw (lang) BFLAN exercises (evens) 3.1, 3.2 [[2025-01-22\|2025-01-22]]
 - [ ] #hw (lang) BFLAN exercises (evens) 3.3, 3.4 [[2025-01-23\|2025-01-23]]
 - [ ] #hw (lang) BFLAN exercises (evens) 3.5, 3.6 [[2025-01-24\|2025-01-24]]

@@ -36,4 +36,4 @@ Today we are going to put the [[projects/school-fall-2024/engineering/engineerin
 
 ## Practice
 
-- [ ] #hw (engr) Using onshape, design a 3D-printable photogate that accounts for any problems we discovered with our prototypes.  [[2025-01-23\|2025-01-23]]
+- [x] #hw (engr) Using onshape, design a 3D-printable photogate that accounts for any problems we discovered with our prototypes.  [[2025-01-23\|2025-01-23]]

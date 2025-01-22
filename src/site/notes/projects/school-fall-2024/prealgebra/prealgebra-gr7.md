@@ -81,7 +81,7 @@ IXL practice
 ## 6 Decimals (p. 247)
 
 - [x] #hw (math) 6.1 Arithmetic with Decimals (p. 247) 
-- [ ] #hw (math) 6.2 Rounding (p. 258) 
+- [x] #hw (math) 6.2 Rounding (p. 258) 
 - [ ] #hw (math) 6.3 Decimals and Fractions (p. 263)
 - [ ] #hw (math) 6.4 Repeating Decimals (p. 267)
 - [ ] #hw (math) 5.6 Summary (p. 240)

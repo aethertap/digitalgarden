@@ -59,4 +59,4 @@ With the interrupt version, the code that's currently running gets stopped immed
 
 ## Exercises
 
-- [ ]  #hw (programming) Change your implementation of the photogate so that it uses an interrupt to signal a beam break. How will you keep track of which gate caused the interrupt? [[2025-01-24\|2025-01-24]]
+- [ ]  #hw (programming) Change your implementation of the photogate so that it uses an interrupt to signal a beam break. How will you keep track of which gate caused the interrupt? [[2025-01-28\|2025-01-28]]
