@@ -13,7 +13,8 @@
 - [NotebookLM AP World notebook](https://notebooklm.google.com/notebook/94b83796-38ce-42a3-b8c6-61630d55f2a2)
 - [APWorld Timeline (fiveable)](https://library.fiveable.me/ap-world/faqs/ultimate-ap-world-timeline/blog/7wbnilPDIokeXB7TZ9e3)
 
-- [ ] #hw (hist) Read sections 4.5-4.6 [[2025-01-21\|2025-01-21]]
+- [x] #hw (hist) Read sections 4.5-4.6 [[2025-01-21\|2025-01-21]]
+- [ ] #teacher (hist) Find some memoirs of slave rebellions ca 1700-1750 [[2025-01-23\|2025-01-23]]
 
 ## Topics
 

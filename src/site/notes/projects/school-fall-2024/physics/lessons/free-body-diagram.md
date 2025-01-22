@@ -3,29 +3,10 @@
 ---
 
 
-[scheduled:: 2025-01-20] 
+[started:: 2025-01-20] 
+[scheduled:: 2025-01-22] 
 
 #  Free-body diagrams
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/school-fall-2024/physics/physics-2024/#notebook-lm-prompts" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-## NotebookLM prompts
-
-### Flashcard generation (work in progress, cards are too generic)
-
-Please generate a set of flashcards to help me learn the material in **section number**. Each card front should appear only once. If a card has more than one possible answer, include all answers on the same card instead of making multiple cards for the same question. Please focus on understanding the mathematical relationships covered in the material, and on recognizing what the appropriate uses are for each relation. I would like to have 20 cards in JSON syntax, as an array of objects. Each object is one flashcard, and has a "front" and a "back" property whose value is the card's front or back text, respectively.
-
-### Quiz generation
-
-Please create a quiz with six questions that allows my students to practice their understanding of the ideas from chapter **chapter number**. The questions should require them to compute numerical answers, but the numbers should be small and easy to work with. Please focus on problems involving **topics**.
-
-
-
-</div></div>
-
 
 ## Links and useful resources 
 
@@ -93,6 +74,6 @@ Do a full example of the [[projects/school-fall-2024/physics/lessons/physics-hom
 
 ## Homework
 
-- [ ] #hw (physics) A 1000-kg car is rolling slowly backward down a hill with 10$\degree$ slope. Draw a free body diagram to analyze the car's motion, and label all forces (ignore friction and wind resistance). [[2025-01-22\|2025-01-22]] 
-- [ ] #hw (physics) Solve the FBD using the [[projects/school-fall-2024/physics/lessons/physics-homework-problem-template\|physics-homework-problem-template]] we demonstrated in class [[2025-01-22\|2025-01-22]]
-- [ ] #hw (physics) Now you run up to the car and start pushing against the bumper to try to stop it. How hard would you have to push in order to eventually stop the car? Does that seem like something a normal person could manage? [[2025-01-22\|2025-01-22]] 
+- [ ] #hw (physics) A 1000-kg car is rolling slowly backward down a hill with 10$\degree$ slope. Draw a free body diagram to analyze the car's motion, and label all forces (ignore friction and wind resistance). [[2025-01-24\|2025-01-24]] 
+- [ ] #hw (physics) Solve the FBD using the [[projects/school-fall-2024/physics/lessons/physics-homework-problem-template\|physics-homework-problem-template]] we demonstrated in class [[2025-01-24\|2025-01-24]]
+- [ ] #hw (physics) Now you run up to the car and start pushing against the bumper to try to stop it. How hard would you have to push in order to eventually stop the car? Does that seem like something a normal person could manage? [[2025-01-24\|2025-01-24]] 

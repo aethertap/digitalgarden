@@ -23,7 +23,10 @@ Read Chapter 3 of BFLAN
 - correcting passive voice
 - intransitive verb
 
-
+- "My first kiss will always be recalled by me as how my romance with Shayna was begun."
+- "My first visit to Boston will always be remembered by me."
+- "The young gentleman was later seen by me in front of the Gare Saint-Lazare."
+- "Midday was struck on the clock. The bus was being got onto by passengers. They were being squashed together. A hat was being worn on the head of a young gentleman, which hat was encircled by a plait and not by a ribbon. A long neck was sported by the young gentleman. The man standing next to him was being grumbled at by the latter because of the jostling which was being inflicted on him by him. As soon as a vacant seat was espied by the young gentleman, it was made the object of his precipitate movements and it became sat down upon."
 ## Lesson, Readings, and Examples
 
 There are two voices we're considering here: active and passive. The main difference is in how the subject and the verb are connected.
@@ -53,9 +56,17 @@ These signs are clues that we might be reading a passive voice sentence. They ar
 
 Passive voice *usually* makes writing harder to understand, and weakens its impact. It's not always a bad thing, but you should be careful using it. It's easier to follow an idea when the active party comes before the action because you can immediately visualize what's happening, even before the sentence is complete. *The clown honked the horn* tells you at the start that a clown is doing something, and later fills in the details. *The horn was honked by the clown* not only has significantly more words, but it also forces you to remember the details for the entire sentence while you wait for the active party to show up.
 
+So if passive voice is only *usually* a problem, when is it okay? Here's what the BBC says:
+- Use it when you don't know who the agent is: 
+    - "My dog was released in the night" instead of "Somebody released my dog in the night."
+- Use it when it doesn't *matter* who the agent is:
+    - "Do you need a ride? No, l will be picked up."
+- Use it when the agent is clearly implied:
+    - "She found that she was being paid less then her male coworkers." instead of "She found that the company paid her less than her male coworkers."
+
 ## Media resources
 
-
+- [BBC more-realistic passive voice examples](https://www.bbc.co.uk/worldservice/learningenglish/grammar/learnit/learnitv65.shtml)
 - [Youtube search for "active voice"](https://www.youtube.com/results?search_query=active%20voice) 
 - [Youtube search for "passive voice"](https://www.youtube.com/results?search_query=passive%20voice) 
 - [Youtube search for "identifying active or passive voice"](https://www.youtube.com/results?search_query=identifying%20active%20or%20passive%20voice) 
