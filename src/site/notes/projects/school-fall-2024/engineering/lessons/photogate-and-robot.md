@@ -3,7 +3,7 @@
 ---
 
 
-#  Protogate final class and Robot revival
+#  Photogate final class and Robot revival
 
 ## Links and useful resources 
 

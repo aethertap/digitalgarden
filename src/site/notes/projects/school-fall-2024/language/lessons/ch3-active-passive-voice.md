@@ -63,6 +63,13 @@ So if passive voice is only *usually* a problem, when is it okay? Here's what th
     - "Do you need a ride? No, l will be picked up."
 - Use it when the agent is clearly implied:
     - "She found that she was being paid less then her male coworkers." instead of "She found that the company paid her less than her male coworkers."
+### exercise 3 passage
+
+The Hunger Games was written by Suzanne Collins. This dystopian book is enjoyed by young adults all around the world. In The Hunger Games, a nation of twelve districts, called Panem, is controlled by the Capitol. Each year, twenty-four district children are forced by the Capitol to compete in an event called the Hunger Games, where they fight to the death until only one is left standing. A lottery selects which kids will fight. 
+
+District 12 is lived in by the protagonist, Katniss Everdeen. When her younger sister, Prim, is selected by the lottery as tribute, Katniss volunteers to take her place. That year the baker's son Peeta is also chosen by the lottery. Katniss and Peeta are escorted to the Capitol by chaperones.
+
+Before the Hunger Games begin, all the tributes train. As they train, the tributes are observed by game makers who want to assess their strengths and weaknesses. Tributes are also interviewed by Caesar Flickerman on national television. If a tribute's interview goes well, gifts from generous viewers might be sent to them to help them survive. When the games begin Katniss, Peeta, and the other tributes are tested by a series of life-threatening obstacles. The light of day will only be seen by one winner.
 
 ## Media resources
 
