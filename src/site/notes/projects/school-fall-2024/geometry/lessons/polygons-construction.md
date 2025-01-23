@@ -65,6 +65,6 @@ Follow the textbook examples and use [GeoGebra geometry construction tools](http
 ## Homework
 
 
-- [ ] #hw (geom-gr10) 9.5 Construction: Regular Polygons  (p. 257) (gr10) [[2025-01-22\|2025-01-22]] 
+- [x] #hw (geom-gr10) 9.5 Construction: Regular Polygons  (p. 257) (gr10) [[2025-01-22\|2025-01-22]]
 
 
