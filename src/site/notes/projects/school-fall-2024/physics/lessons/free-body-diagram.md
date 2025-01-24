@@ -41,15 +41,24 @@
 
 ## Concept summary and connections
 
+A Free-body diagram is a tool that we use to simplify the forces acting on something so that we can see what will happen to it. Here's how it works:
+
+1. Draw a simple representation of the object (a small box, a dot, a circle, something like that)
+2. For each ***external force acting on the object***, draw a vector that shows the direction and approximate magnitude of the force. It doesn't need to be a precise diagram, it's just a representation so that you can have places to hang your math to keep it organized.
+3. Use the diagram to figure out what the ***resultant force*** is, and from there you can answer a lot of questions.
+    1. The ***Resultant force*** is a single force that will have the same effect as all of the forces from the diagram. Since forces are vector quantities, you can find the resultant force by adding up other forces. 
+    2. The resultant force can tell you in which direction the object will accelerate, and what the acceleration will be (as long as you know the inertia anyway).
+    3. You can also **decompose** the resultant force into other forces that are parallel and perpendicular to various things, which is helpful when you need to know something like how much tension is in a rope that's keeping a car from rolling down a hill.
+
+[Here's an article with examples](https://www.phyley.com/freebody-diagram)
+
+### Concepts
 
 - free-body diagrams 
 - balancing forces 
 - external force 
 - net external force 
 - force vs tension 
-
-## Worked examples
-
 
 
 ## Media resources
