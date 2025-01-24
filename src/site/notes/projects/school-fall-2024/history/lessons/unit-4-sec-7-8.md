@@ -16,10 +16,9 @@
 
 
 
-- [ ] #hw (hist) Read history 4.7-4.8 [[2025-01-23\|2025-01-23]] 
+- [x] #hw (hist) Read history 4.7-4.8 [[2025-01-23\|2025-01-23]]
 
 ## Topics
-
 
 - Qing dynasty intolerance and massacres 
 - military coups, Janissaries 

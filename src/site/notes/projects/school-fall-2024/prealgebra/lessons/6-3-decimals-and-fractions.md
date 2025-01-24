@@ -83,4 +83,4 @@ Example: Convert $1 \frac{3}{5}$ to a decimal:
 
 
 - [x] #hw (math) 6.2 Rounding (p. 258) [[2025-01-22\|2025-01-22]]
-- [ ] #hw (math) 6.3 Decimals and Fractions (p. 263) [[2025-01-24\|2025-01-24]]
+- [x] #hw (math) 6.3 Decimals and Fractions (p. 263) [[2025-01-24\|2025-01-24]]

@@ -26,7 +26,6 @@
 
 ## Concept summary and lesson
 
-
 - least common multiple 
 - greatest common divisor 
 - divisibility tests 
