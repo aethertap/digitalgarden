@@ -3,29 +3,9 @@
 ---
 
 
-[scheduled:: 2025-01-24] 
+[scheduled:: 2025-01-27] 
 
 #  Lab 2 - Position and Speed of an Object
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/school-fall-2024/physics/physics-2024/#notebook-lm-prompts" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-## NotebookLM prompts
-
-### Flashcard generation (work in progress, cards are too generic)
-
-Please generate a set of flashcards to help me learn the material in **section number**. Each card front should appear only once. If a card has more than one possible answer, include all answers on the same card instead of making multiple cards for the same question. Please focus on understanding the mathematical relationships covered in the material, and on recognizing what the appropriate uses are for each relation. I would like to have 20 cards in JSON syntax, as an array of objects. Each object is one flashcard, and has a "front" and a "back" property whose value is the card's front or back text, respectively.
-
-### Quiz generation
-
-Please create a quiz with six questions that allows my students to practice their understanding of the ideas from chapter **chapter number**. The questions should require them to compute numerical answers, but the numbers should be small and easy to work with. Please focus on problems involving **topics**.
-
-
-
-</div></div>
-
 
 ## Links and useful resources 
 
@@ -48,7 +28,6 @@ Please create a quiz with six questions that allows my students to practice thei
 - How much gravitational potential energy does a 10 kg mass have if it is 20 meters above the ground? 
 
 
-
 ## Lab procedure
 
 Procedure
@@ -67,10 +46,6 @@ Procedure
 - displacement vs distance 
 - instantaneous speed 
 - Computing speed from distance and time 
-
-## Worked examples
-
-
 
 ## Media resources
 
@@ -92,7 +67,7 @@ Procedure
 
 ## Homework
 
-- [ ] #hw (physics) Do the problems in [the lab lesson](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/lab-2-position-and-speed) [[2025-01-27\|2025-01-27]]
+- [ ] #hw (physics) Do the problems in the homework section of [the physics lesson for today](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/lab-2-position-and-speed) [[2025-01-29\|2025-01-29]]
 
 1. Devise a way to measure how fast water is moving in a river. What are some complications you will face? 
 2. You drop a pinecone from one side of a 12-meter wide bridge into the stream below. in 5 seconds, it comes out the other side. How fast is the stream flowing?  

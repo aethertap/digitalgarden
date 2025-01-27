@@ -60,7 +60,7 @@ Anyway, there are a few things in this class to notice.
 
 - [x] #hw (programming) (gr7) Design a class hierarchy with at least three levels and 10 classes for demolition derby vehicles [[2024-10-16\|2024-10-16]]
 - [x] #hw (programming) (gr10) Design a class hierarchy with at least three levels and 10 classes for pets [[2024-10-16\|2024-10-16]]
-- [ ] #hw (programming) Design a class hierarchy of [Fey Creatures](https://2e.aonprd.com/Traits.aspx?ID=599). It should have at least 5 creatures, and at least two levels of categories. Remember: The creatures are going to be at the **bottom of the diagram**, and everything above is a way to *organize them*. How would you organize Fey creatures? Be creative! [[2025-01-24\|2025-01-24]]
+- [x] #hw (programming) Design a class hierarchy of [Fey Creatures](https://2e.aonprd.com/Traits.aspx?ID=599). It should have at least 5 creatures, and at least two levels of categories. Remember: The creatures are going to be at the **bottom of the diagram**, and everything above is a way to *organize them*. How would you organize Fey creatures? Be creative! [[2025-01-24\|2025-01-24]]
 
 ## Resources
 

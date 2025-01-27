@@ -16,6 +16,8 @@
 
 ### Lightning Round Questions
 
+- gr7: [lightning::2]
+- gr10: [lightning:: 1]
 - Compare and contrast a theory and a law. 
 - What are the named SI prefixes for $10^{-9}$ up to $10^{9}$? 
 - Which subatomic particle has a positive charge? 

@@ -83,6 +83,6 @@ Do a full example of the [[projects/school-fall-2024/physics/lessons/physics-hom
 
 ## Homework
 
-- [ ] #hw (physics) A 1000-kg car is rolling slowly backward down a hill with 10$\degree$ slope. Draw a free body diagram to analyze the car's motion, and label all forces (ignore friction and wind resistance). [[2025-01-24\|2025-01-24]] 
-- [ ] #hw (physics) Solve the FBD using the [[projects/school-fall-2024/physics/lessons/physics-homework-problem-template\|physics-homework-problem-template]] we demonstrated in class [[2025-01-24\|2025-01-24]]
-- [ ] #hw (physics) Now you run up to the car and start pushing against the bumper to try to stop it. How hard would you have to push in order to eventually stop the car? Does that seem like something a normal person could manage? [[2025-01-24\|2025-01-24]] 
+- [x] #hw (physics) A 1000-kg car is rolling slowly backward down a hill with 10$\degree$ slope. Draw a free body diagram to analyze the car's motion, and label all forces (ignore friction and wind resistance). [[2025-01-24\|2025-01-24]]
+- [x] #hw (physics) Solve the FBD using the [[projects/school-fall-2024/physics/lessons/physics-homework-problem-template\|physics-homework-problem-template]] we demonstrated in class [[2025-01-24\|2025-01-24]]
+- [x] #hw (physics) Now you run up to the car and start pushing against the bumper to try to stop it. How hard would you have to push in order to eventually stop the car? Does that seem like something a normal person could manage? [[2025-01-24\|2025-01-24]]

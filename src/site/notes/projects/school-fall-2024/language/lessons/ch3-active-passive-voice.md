@@ -14,8 +14,9 @@
 
 Read Chapter 3 of BFLAN
 
-## Topics
+- For 1/27 - Do a bunch of examples! Make sentences passive, make them active, explain *why* they are one way or the other.
 
+## Topics
 
 - active voice
 - passive voice
@@ -84,4 +85,4 @@ Before the Hunger Games begin, all the tributes train. As they train, the tribut
 
 - [x] #hw (lang) BFLAN exercises (evens) 3.1, 3.2 [[2025-01-22\|2025-01-22]]
 - [x] #hw (lang) BFLAN exercises (evens) 3.3, 3.4 [[2025-01-23\|2025-01-23]]
-- [ ] #hw (lang) BFLAN exercises (evens) 3.5, 3.6 [[2025-01-24\|2025-01-24]]
+- [x] #hw (lang) BFLAN exercises (evens) 3.5, 3.6 [[2025-01-24\|2025-01-24]]
