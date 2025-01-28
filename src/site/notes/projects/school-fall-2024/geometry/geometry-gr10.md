@@ -106,6 +106,7 @@
 - [x] #hw (geom-gr10) 9.3 Polygon Area  (p. 249) [score:: 7/8]
 - [x] #hw (geom-gr10) 9.4 [[projects/school-fall-2024/geometry/lessons/polygon-problems\|polygon-problems]]  (p. 254) [score:: 13/16]
 - [x] #hw (geom-gr10) 9.5 Construction: Regular Polygons  (p. 257) [score:: 9/12]
+- [ ] #hw (geom-gr10) [IXL FOIL practice](https://www.ixl.com/math/algebra-1/multiply-polynomials) [[2025-01-29\|2025-01-29]]
 - [ ] #hw (geom-gr10) 8.9 Summary  (p. 236)
 
 ## 10 Geometric Inequalities (p. 266)

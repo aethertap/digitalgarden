@@ -14,7 +14,7 @@
 - [APWorld Timeline (fiveable)](https://library.fiveable.me/ap-world/faqs/ultimate-ap-world-timeline/blog/7wbnilPDIokeXB7TZ9e3)
 
 - [x] #hw (hist) Read sections 4.5-4.6 [[2025-01-21\|2025-01-21]]
-- [ ] #teacher (hist) Find some memoirs of slave rebellions ca 1700-1750 [[2025-01-23\|2025-01-23]]
+- [x] #teacher (hist) Find some memoirs of slave rebellions ca 1700-1750 [[2025-01-23\|2025-01-23]]
 
 ## Topics
 

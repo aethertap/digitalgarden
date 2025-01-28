@@ -55,4 +55,4 @@ The algorithm will pick up the biggest element it has seen up until each point a
 
 ## Exercises
 
-- [ ]  #hw (programming) Implement the bubble sort algorithm as a function that will sort an array of numbers, least to greatest. [[2025-01-29\|2025-01-29]]
+- [ ] #hw (programming) Implement the bubble sort algorithm as a function that will sort an array of numbers, least to greatest. [[2025-01-29\|2025-01-29]]

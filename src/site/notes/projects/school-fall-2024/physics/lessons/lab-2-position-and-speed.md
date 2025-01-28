@@ -26,7 +26,8 @@
 - What is the formula for the momentum of a moving mass? 
 - What is the formula for finding voltage drops in a two-resistor voltage divider? 
 - How much gravitational potential energy does a 10 kg mass have if it is 20 meters above the ground? 
-
+- gr7: [lightning:: 1]
+- gr10: [lightning:: 3]
 
 ## Lab procedure
 
