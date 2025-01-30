@@ -124,6 +124,8 @@ And there you have it, the path from acceleration to position.
 - [ ] For that example, what is the x-component of the acceleration? What is the y-component?  
 - [ ] Is the spaceship's speed in the "north" direction increasing or decreasing because of the acceleration?
 
+- [ ] #hw (physics) [Do the "Apprentice level" exercise at this link](https://www.physicsclassroom.com/Concept-Builders/Kinematics/Which-One-Doesnt-Belong/Concept-Builder) [[2025-02-03\|2025-02-03]]
+
 ## Homework
 
 - [ ] #hw (physics)  [Do the problems on our school page under the Homework heading](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/motion-in-2d) [[2025-01-31\|2025-01-31]] 
@@ -135,4 +137,4 @@ And there you have it, the path from acceleration to position.
     4. How far did the sled travel from start to finish?
 2. ![phys-4.1.jpg](/img/user/projects/school-fall-2024/physics/lessons/_resources/phys-4.1.jpg)
 3. ![phys-4.5.jpg](/img/user/projects/school-fall-2024/physics/lessons/_resources/phys-4.5.jpg)
-4. 
+

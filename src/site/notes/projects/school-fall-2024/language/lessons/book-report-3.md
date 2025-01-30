@@ -21,6 +21,8 @@ Read Begin reading The Catcher in the Rye
 
 - [[projects/school-fall-2024/language/book-report-rubric\|book-report-rubric]]
 - [[projects/school-fall-2024/language/lessons/ch2-pronouns\|ch2-pronouns]]
+- [How to Write an Essay](https://www.youtube.com/watch?v=Idb86apbrbY&list=PLY2iGpRrMhnGuZTxNoWT7o-YAlv4hFYsQ&index=26&pp=iAQB)
+- [Essay writing playlist](https://www.youtube.com/playlist?list=PLY2iGpRrMhnGuZTxNoWT7o-YAlv4hFYsQ)
 
 
 ## Readings and Examples

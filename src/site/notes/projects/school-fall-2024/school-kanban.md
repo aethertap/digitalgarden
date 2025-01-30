@@ -25,6 +25,7 @@
 - [ ] Math - catch up on grading
     [[projects/school-fall-2024/geometry/geometry-gr10\|geometry-gr10]]
 - [ ] Physics - introduce motion diagrams (Five easy lessons p. 77
+- [ ] #teacher Language: Schedule the [How to write an essay](https://www.youtube.com/playlist?list=PLY2iGpRrMhnGuZTxNoWT7o-YAlv4hFYsQ) playlist into our curriculum. [[2025-01-30\|2025-01-30]]
 
 
 ## Assigned
