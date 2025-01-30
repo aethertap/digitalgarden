@@ -49,4 +49,4 @@
 
 ## Homework
 
-- [ ] #hw (math) (gr7) 6.4 Repeating Decimals (p. 267) [[2025-01-27\|2025-01-27]] 
+- [x] #hw (math) (gr7) 6.4 Repeating Decimals (p. 267) [[2025-01-27\|2025-01-27]]

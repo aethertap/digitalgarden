@@ -60,7 +60,3 @@ Momentum is a vector quantity, because it's a scalar (mass) times a vector (velo
 - [ ] The exhaust gas from a rocket leaves at a velocity of 25,000 meters per second. How much fuel will the rocket need to burn in order to accelerate to 1000 meters per second if its mass is 500 kg.  
 
 ## Homework
-
-
-
-- [ ] #hw (physics) asdf [[2025-01-31\|2025-01-31]] 

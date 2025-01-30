@@ -77,4 +77,4 @@ Other questions to solve:
 
 
 
-- [ ] #hw (physics) [Balancing Forces Interactive](https://www.physicsclassroom.com/Physics-Interactives/Forces-in-2D/Equilibrium) Try to reach level 10! [[2025-01-27\|2025-01-27]] 
+- [x] #hw (physics) [Balancing Forces Interactive](https://www.physicsclassroom.com/Physics-Interactives/Forces-in-2D/Equilibrium) Try to reach level 10! [[2025-01-27\|2025-01-27]]

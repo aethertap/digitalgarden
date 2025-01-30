@@ -60,4 +60,4 @@ $$
 
 ## Homework
 
-- [ ] #hw (geom-gr10) 10.2 Pythagoras – Not Just For Right Triangles?  (p. 270) (gr10) [[2025-01-27\|2025-01-27]] 
+- [x] #hw (geom-gr10) 10.2 Pythagoras – Not Just For Right Triangles?  (p. 270) (gr10) [[2025-01-27\|2025-01-27]]

@@ -100,5 +100,5 @@ We're used to thinking of the world as having a set coordinate system that's kin
 
 ## Practice
 
-- [ ] #hw (engr) Write a `Robot` class to keep track of your bot's motor speeds and sensor values.  [[2025-01-30\|2025-01-30]]
-- [ ] #hw (engr) Write a `drive_straight(float speed)` function that will go full backward with -1.0, full forward with 1.0, and proportional speed for any value in between.  [[2025-01-30\|2025-01-30]]
+- [x] #hw (engr) Write a `Robot` class to keep track of your bot's motor speeds and sensor values.  [[2025-01-30\|2025-01-30]]
+- [x] #hw (engr) Write a `drive_straight(float speed)` function that will go full backward with -1.0, full forward with 1.0, and proportional speed for any value in between.  [[2025-01-30\|2025-01-30]]

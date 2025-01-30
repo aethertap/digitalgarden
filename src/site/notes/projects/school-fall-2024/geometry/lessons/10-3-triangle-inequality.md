@@ -49,4 +49,4 @@ Follow the proof of altitude ratios [here](https://artofproblemsolving.com/ebook
 ## Homework
 
 
-- [ ] #hw (geom-gr10) 10.3 The Triangle Inequality  (p. 274) (gr10) [[2025-01-29\|2025-01-29]] 
+- [x] #hw (geom-gr10) 10.3 The Triangle Inequality  (p. 274) (gr10) [[2025-01-29\|2025-01-29]]

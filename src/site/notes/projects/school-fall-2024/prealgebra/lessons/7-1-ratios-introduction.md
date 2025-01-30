@@ -87,4 +87,4 @@ So we know there are $12 \frac{1}{4}$ oz all together. That means that there mus
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 7.1 What is a Ratio? (p. 281) [[2025-01-29\|2025-01-29]] 
+- [x] #hw (math) (gr7) 7.1 What is a Ratio? (p. 281) [[2025-01-29\|2025-01-29]]

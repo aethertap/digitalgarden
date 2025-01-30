@@ -15,8 +15,8 @@
 - [NotebookLM AP World notebook](https://notebooklm.google.com/notebook/94b83796-38ce-42a3-b8c6-61630d55f2a2)
 - [APWorld Timeline (fiveable)](https://library.fiveable.me/ap-world/faqs/ultimate-ap-world-timeline/blog/7wbnilPDIokeXB7TZ9e3)
 
-- [ ] #hw (hist) Read history  Read section 5.1: The Enlightenment pages 275–284 [[2025-01-28\|2025-01-28]] 
-- [ ] #hw (hist) Read history  Read section 5.2: Nationalism and Revolutions pages 285–296 [[2025-01-28\|2025-01-28]] 
+- [x] #hw (hist) Read history  Read section 5.1: The Enlightenment pages 275–284 [[2025-01-28\|2025-01-28]]
+- [x] #hw (hist) Read history  Read section 5.2: Nationalism and Revolutions pages 285–296 [[2025-01-28\|2025-01-28]]
 
 ## Topics
 

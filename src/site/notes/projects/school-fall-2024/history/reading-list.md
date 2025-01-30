@@ -23,25 +23,25 @@
 - [x] #hw (hist) Read section 3.2: Empires: Administration pages 155–166
 - [x] #hw (hist) Read section 3.3: Empires: Belief Systems pages 167–176
 - [x] #hw (hist) Read section 3.4: Comparison in Land-Based Empires pages 177–181
-- [ ] #hw (hist) Read section 4.1: Technological Innovations pages 191–198
-- [ ] #hw (hist) Read section 4.2: Exploration: Causes and Events pages 199–208
-- [ ] #hw (hist) Read section 4.3: Colombian Exchange pages 209–217
-- [ ] #hw (hist) Read section 4.4: Maritime Empires are Established pages 218–231
-- [ ] #hw (hist) Read section 4.5: Maritime Empires are Maintained and Developed pages 232–242
-- [ ] #hw (hist) Read section 4.6: Internal and External Challenges to State Power pages 243–250
-- [ ] #hw (hist) Read section 4.7: Changing Social Hierarchies pages 251–260
-- [ ] #hw (hist) Read section 4.8: Continuity and Change from 1450 to 1750 pages 261–264
-- [ ] #hw (hist) Read section 5.1: The Enlightenment pages 275–284
-- [ ] #hw (hist) Read section 5.2: Nationalism and Revolutions pages 285–296
-- [ ] #hw (hist) Read section 5.3: Industrial Revolution Begins pages 297–303
-- [ ] #hw (hist) Read section 5.4: Industrialization Spreads pages 304–309
-- [ ] #hw (hist) Read section 5.5: Technology in the Industrial Age pages 310–316
-- [ ] #hw (hist) Read section 5.6: Industrialization: Government’s Role pages 317–324
-- [ ] #hw (hist) Read section 5.7: Economic Developments and Innovations pages 325–331
-- [ ] #hw (hist) Read section 5.8: Reactions to the Industrial Economy pages 332–342
-- [ ] #hw (hist) Read section 5.9: Society and the Industrial Age pages 343–350
-- [ ] #hw (hist) Read section 5.10: Continuity and Change in the Industrial Age pages 351–356
-- [ ] #hw (hist) Read section 6.1: Rationales for Imperialism pages 367–374
+- [x] #hw (hist) Read section 4.1: Technological Innovations pages 191–198
+- [x] #hw (hist) Read section 4.2: Exploration: Causes and Events pages 199–208
+- [x] #hw (hist) Read section 4.3: Colombian Exchange pages 209–217
+- [x] #hw (hist) Read section 4.4: Maritime Empires are Established pages 218–231
+- [x] #hw (hist) Read section 4.5: Maritime Empires are Maintained and Developed pages 232–242
+- [x] #hw (hist) Read section 4.6: Internal and External Challenges to State Power pages 243–250
+- [x] #hw (hist) Read section 4.7: Changing Social Hierarchies pages 251–260
+- [x] #hw (hist) Read section 4.8: Continuity and Change from 1450 to 1750 pages 261–264
+- [x] #hw (hist) Read section 5.1: The Enlightenment pages 275–284
+- [x] #hw (hist) Read section 5.2: Nationalism and Revolutions pages 285–296
+- [ ] #hw (hist) Read section 5.3: Industrial Revolution Begins pages 297–303 [[2025-01-30\|2025-01-30]]
+- [ ] #hw (hist) Read section 5.4: Industrialization Spreads pages 304–309 
+- [ ] #hw (hist) Read section 5.5: Technology in the Industrial Age pages 310–316 
+- [ ] #hw (hist) Read section 5.6: Industrialization: Government’s Role pages 317–324 
+- [ ] #hw (hist) Read section 5.7: Economic Developments and Innovations pages 325–331 
+- [ ] #hw (hist) Read section 5.8: Reactions to the Industrial Economy pages 332–342 
+- [ ] #hw (hist) Read section 5.9: Society and the Industrial Age pages 343–350 
+- [ ] #hw (hist) Read section 5.10: Continuity and Change in the Industrial Age pages 351–356 
+- [ ] #hw (hist) Read section 6.1: Rationales for Imperialism pages 367–374 
 - [ ] #hw (hist) Read section 6.2: State Expansion pages 375–387
 - [ ] #hw (hist) Read section 6.3: Indigenous Responses to State Expansion pages 388–398
 - [ ] #hw (hist) Read section 6.4: Global Economic Development pages 399–406

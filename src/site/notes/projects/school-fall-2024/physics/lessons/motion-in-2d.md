@@ -25,8 +25,18 @@
 - gr7: [lightning:: ]
 - gr10: [lightning:: ]
 
-## Demonstration
+## News..... FROM SPACE
 
+- [asteroid with 1:83 chance of hitting earth in 2032](https://www.space.com/180-foot-asteroid-1-in-83-chance-hitting-Earth-2032)
+- [Asteroid Bennu has 14 of 20 amino acids crucial for life formation](https://www.space.com/the-universe/asteroids/nasa-finds-key-molecules-for-life-in-osiris-rex-asteroid-samples-heres-what-that-means)
+
+## Review
+
+- Motion diagrams: Draw a motion diagram for an arrow shot horizontally from a bow, from the instant it leaves the bow to the instant it touches the ground.
+    - Remember to draw the dot spacing increasing as acceleration from gravity increases the vertical component!
+    - Remember to draw the velocity vectors *between the dots*
+    - Remember to draw the acceleration vectors *at the dots*
+- Sine and Cosine, rise and run. Review how to find horizontal and vertical components of vectors using angles and trig functions.
 
 ## Concept summary and connections
 
@@ -36,6 +46,10 @@
 - kinematic equations 
 - average acceleration 
 - average velocity 
+
+Bodies in motion remain in motion, and bodies at rest stay in bed unless their mothers call them to get up.
+
+A neutron walked into a bar and asked, "How much for a gin and tonic?" The bartender smiled wryly and replied, "For you, no charge."
 
 ## Lesson content with examples
 
