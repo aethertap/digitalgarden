@@ -21,7 +21,6 @@
 
 ## Quick tasks
 
-- [ ] Make the photogate code use analogRead instead of digitalRead so that we can make it a bit more sensitive, since the phototransistor has a much higher internal resistance than I expected.
 
 
 ## In-progress
@@ -32,6 +31,7 @@
 ## Complete
 
 - [x] #hw (robotics) Install IR sensors and do remaning bot assembly [[2024-12-10\|2024-12-10]]
+- [ ] Make the photogate code use analogRead instead of digitalRead so that we can make it a bit more sensitive, since the phototransistor has a much higher internal resistance than I expected.
 - [x] #hw (robotics) Design a very simple 3d printable chassis platform shape for a simple differential-steering robot [[2024-09-12\|2024-09-12]]
 - [x] #hw (robotics) Measure battery voltage to make sure it's within safe limits for arduino, then connect battery to arduino via dpst switch [[2024-12-10\|2024-12-10]]
 - [x] #hw (robotics) Write code for your robot that can tell the difference between white and black for an IR sensor. It should print a line to the serial port that states what it senses. You will probably need to adjust the sensitivity on the IR sensor board (there's a tiny screw on a potentiometer). [[2024-12-11\|2024-12-11]]
