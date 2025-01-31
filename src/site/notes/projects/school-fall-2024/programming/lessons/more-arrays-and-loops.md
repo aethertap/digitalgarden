@@ -14,7 +14,8 @@
 
 ### Lesson-specific resource links
 
-- [English language letter frequencies](https://www3.nd.edu/~busiforc/handouts/cryptography/letterfrequencies.html) 
+- [English language letter frequencies](https://pi.math.cornell.edu/~mec/2003-2004/cryptography/subs/frequencies.html)
+- [English language letter frequencies for word games](https://www3.nd.edu/~busiforc/handouts/cryptography/letterfrequencies.html) 
 
 - ***[[projects/school-fall-2024/programming/lessons/algorithm-bubble-sort\|Project index: algorithm-bubble-sort]]*** 
 ## Concept summary and lesson
