@@ -22,8 +22,10 @@
 - Which phase of matter can easily have its *volume* changed? 
 - Which phases of matter can easily change *shape*? 
 
-- gr7: [lightning:: ]
-- gr10: [lightning:: ]
+- gr7: [lightning:: 2]
+- gr10: [lightning:: 3]
+
+Lightning winner for January: gr10
 
 ## News..... FROM SPACE
 
