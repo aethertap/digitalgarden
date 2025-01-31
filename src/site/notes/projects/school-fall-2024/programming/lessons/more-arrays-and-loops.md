@@ -87,9 +87,10 @@ Maps let you add keys and values for anything you like, so this is an ideal way 
 ```typescript
 function letter_frequency(text:string):Map<string,number> {
     let frequencies = new Map();
-    //... for the remaining letters...
     for(let character of string) {
         // HA! this part is your homework...
+        // look at the documentation for Map that I linked up there ^^^
+        // you'll have to use the has, get, and set methods to work with the Map
     }
     return frequencies;
 }
