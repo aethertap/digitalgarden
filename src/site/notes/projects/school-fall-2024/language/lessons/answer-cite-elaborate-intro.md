@@ -45,9 +45,6 @@ Template for ACE answer building:
 - Only *now* do you check spelling and grammar.
 
 
-
-- [ ] IN CLASS Exercise: What habit do you think is most important for a successful student?  
-
 ## Media resources
 
 - [Mister Messinger: How to elaborate your ideas](https://www.youtube.com/watch?v=CjyYo6RLeDc)
@@ -57,5 +54,5 @@ Template for ACE answer building:
 
 ## Review Questions 
 
-- [ ] #hw (lang) ACE Exercise: Which sport do you think relies most on teamwork to win a game? [[2025-01-30\|2025-01-30]] 
-- [ ] #hw (lang) ACE Exercise: What invention do you think is most valuable to people today? [[2025-01-30\|2025-01-30]] 
+- [ ] #hw (lang) ACE Exercise: What habit do you think is most important for a successful student?  [[2025-01-31\|2025-01-31]]
+- [x] #hw (lang) ACE Exercise: What invention do you think is most valuable to people today? [[2025-01-31\|2025-01-31]] 

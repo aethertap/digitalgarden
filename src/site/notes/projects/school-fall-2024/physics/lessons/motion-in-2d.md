@@ -124,7 +124,7 @@ And there you have it, the path from acceleration to position.
 - [ ] For that example, what is the x-component of the acceleration? What is the y-component?  
 - [ ] Is the spaceship's speed in the "north" direction increasing or decreasing because of the acceleration?
 
-- [ ] #hw (physics) [Do the "Apprentice level" exercise at this link](https://www.physicsclassroom.com/Concept-Builders/Kinematics/Which-One-Doesnt-Belong/Concept-Builder) [[2025-02-03\|2025-02-03]]
+- [ ] #hw (physics) [Do the "Apprentice level" exercise at this link](https://www.physicsclassroom.com/Concept-Builders/Kinematics/Which-One-Doesnt-Belong/Concept-Builder). It has different ways to describe motion (graph, motion diagram, words, etc) and your job is to look at them all and click on the one that isn't describing the same motion as the others. [[2025-02-03\|2025-02-03]]
 
 ## Homework
 

@@ -75,4 +75,4 @@ The verbs in the different parts of your sentences need to **agree** - they shou
 
 - [x] #hw (lang) Exercise: BFLAN ex. 4.1,4.2 [[2025-01-28\|2025-01-28]]
 - [x] #hw (lang) Exercise: BFLAN ex. 4.3,4.4 [[2025-01-29\|2025-01-29]]
-- [ ] #hw (lang) Exercise: BFLAN ex. 4.5,4.6 [[2025-01-30\|2025-01-30]] 
+- [x] #hw (lang) Exercise: BFLAN ex. 4.5,4.6 [[2025-01-30\|2025-01-30]]

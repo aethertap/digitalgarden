@@ -33,7 +33,7 @@
 - [x] #hw (hist) Read section 4.8: Continuity and Change from 1450 to 1750 pages 261–264
 - [x] #hw (hist) Read section 5.1: The Enlightenment pages 275–284
 - [x] #hw (hist) Read section 5.2: Nationalism and Revolutions pages 285–296
-- [ ] #hw (hist) Read section 5.3: Industrial Revolution Begins pages 297–303 [[2025-01-30\|2025-01-30]]
+- [x] #hw (hist) Read section 5.3: Industrial Revolution Begins pages 297–303 [[2025-01-30\|2025-01-30]]
 - [ ] #hw (hist) Read section 5.4: Industrialization Spreads pages 304–309 
 - [ ] #hw (hist) Read section 5.5: Technology in the Industrial Age pages 310–316 
 - [ ] #hw (hist) Read section 5.6: Industrialization: Government’s Role pages 317–324 

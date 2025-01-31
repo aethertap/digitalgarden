@@ -16,9 +16,10 @@ This is going to work just like a real ACT:
 ## The Test Itself
 
 - There are 4 sections: 
-    - English
-    - math
+    - English 
+    - math 
     - Reading
     - Science
 - There is an optional Writing test as well.
-- 
+
+

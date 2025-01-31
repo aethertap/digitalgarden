@@ -24,6 +24,8 @@
 - How to compare repeating decimals 
 - identifying the repeating unit 
 
+
+
 ## Worked examples
 
 - Put these numbers in order from least to greatest: $1.2345, 1.234\overline{5}, 1.23\overline{45}, 1.2\overline{345}, 1.\overline{2345}$ 
