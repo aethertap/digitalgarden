@@ -80,6 +80,8 @@ Okay, we did it! That function would work. *But*... it's very gross. We have the
 
 [Typescript/javascript Map type documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
 
+The [Typescript Playground](https://www.typescriptlang.org/play/) is **very handy** for experimenting with this stuff quickly. Give it a shot!
+
 It turns out, there is a data structure that's tailor-made for this job: the *map* (or *hashtable*, *hashmap*, *object*,... it has many names). This is a thing that keeps track of *pairs* of things: a name (called the *key*), and an associated value. You make a map (or object in typescript parlance) using `new Map`.
 
 Maps let you add keys and values for anything you like, so this is an ideal way to organize our program:
