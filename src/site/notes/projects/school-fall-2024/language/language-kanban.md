@@ -11,7 +11,7 @@
 
 - [x] Verbs and Mood (p. 55) [[2025-01-27\|2025-01-27]]
     - 6 Exercises p. 58-65
-- [ ] Verbals (p. 66) [[2025-02-03\|2025-02-03]]
+- [x] Verbals (p. 66) [[2025-02-03\|2025-02-03]]
     - 10 Exercises p. 70-81
 - [ ] Defining from Context (p. 82) [[2025-02-10\|2025-02-10]]
     - 5 Exercises p. 85-95

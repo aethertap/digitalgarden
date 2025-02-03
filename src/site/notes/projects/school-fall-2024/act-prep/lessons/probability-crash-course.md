@@ -17,5 +17,7 @@ The expected value asks, "On average, how much is *each coin toss* worth?" You c
 ***Exercise***: If I earn $2 per heart, $1 per spade, and $-1 otherwise, what is the expected value of drawing a card?
 
 - [ ] #hw (act-gr10) [IXL Expected Value](https://www.ixl.com/math/algebra-2/expected-values-for-a-game-of-chance)
-
+- [ ] #hw (act-gr10) [IXL conditional probability with tables](https://www.ixl.com/math/algebra-2/find-conditional-probabilities-using-two-way-frequency-tables)
+- [ ] #hw (act-gr10) [IXL counting principle](https://www.ixl.com/math/algebra-2/counting-principle)
+- [ ] #hw (act-gr10) [IXL expected values for a game of chance](https://www.ixl.com/math/algebra-2/expected-values-for-a-game-of-chance)
 

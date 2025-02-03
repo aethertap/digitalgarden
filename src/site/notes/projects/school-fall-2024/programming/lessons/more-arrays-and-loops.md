@@ -112,7 +112,7 @@ Once you do that, you can do cool stuff:
 /// convert the string to all lowercase letters, and get rid of anything that isn't 
 /// actually a letter (spaces, punctuation, numbers...)
 function cleanup_string(text:string) : string {
-    let my_array = string.split('');
+    let my_array = text.split('');
     let cleaned_up = my_array.map((c)=>c.toLowerCase()).filter((c)=>c.match(/[a-z]/));
     return cleaned_up.join('');
 }
