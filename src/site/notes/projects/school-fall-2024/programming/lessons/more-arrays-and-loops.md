@@ -128,4 +128,4 @@ function cleanup_string(text:string) : string {
 
 ## Exercises
 
-- [ ] #hw (programming) Write a function that counts the instances of each character in the string argument, and returns a *Map* object of the results. Each key in the map should be a letter from the text, and the corresponding value should be the number of times that letter appeared in the text. The lesson page for this class is [here](https://school.ginosterous.com/projects/school-fall-2024/programming/lessons/more-arrays-and-loops) [[2025-02-03\|2025-02-03]]
+- [x] #hw (programming) Write a function that counts the instances of each character in the string argument, and returns a *Map* object of the results. Each key in the map should be a letter from the text, and the corresponding value should be the number of times that letter appeared in the text. The lesson page for this class is [here](https://school.ginosterous.com/projects/school-fall-2024/programming/lessons/more-arrays-and-loops) [[2025-02-03\|2025-02-03]]

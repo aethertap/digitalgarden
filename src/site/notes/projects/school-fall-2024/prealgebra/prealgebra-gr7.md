@@ -89,8 +89,8 @@ IXL practice
 ## 7 Ratios, Conversions, and Rates (p. 281)
 
 - [x] #hw (math) 7.1 What is a Ratio? (p. 281) [score:: 12/14]
-- [x] #hw (math) 7.2 Multi-way Ratios (p. 287)
-- [x] #hw (math) 7.3 Proportions (p. 293)
+- [x] #hw (math) 7.2 Multi-way Ratios (p. 287) [score:: 5/6]
+- [x] #hw (math) 7.3 Proportions (p. 293) [score:: 7/7]
 - [ ] #hw (math) 7.4 Conversions (p. 296)
 - [ ] #hw (math) 7.5 Speed (p. 302)
 - [ ] #hw (math) 7.6 Other Rates (p. 310)

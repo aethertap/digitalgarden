@@ -23,6 +23,10 @@
 - [ ] If the surface of the moon is covered in fine, sandy material, why are there no dunes on the moon? 
 - [ ] Explain what impulse is. 
 
+- gr7 lightning points: [lightning:: 4]
+- gr10 lightning: [lightning:: 1]
+
+
 ## Lesson content with examples
 
 ### Kinematic Equations Recap
@@ -67,6 +71,6 @@ Notice that position is always a parabolic curve if you have constant accelerati
 
 ## Homework
 
-- [ ] #hw (physics) In the plane problem we did in class ([click here to see the question](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/kinematics-problem-session)), in what direction should the pilot orient the plane in order to compensate for the wind and end up at his desired location? Give the direction as an angle from due east. [[2025-02-05\|2025-02-05]] 
-- [ ] #hw (physics) A ball thrown horizontally at 25 m/s travels a horizontal distance of 50m before hitting the ground. How high was it above the ground when it was thrown? [[2025-02-05\|2025-02-05]]
-- [ ] #hw (physics) A rifle is fired horizontally at a target 50m away. The bullet hits the target 2.0 cm below the aim point. What was the bullet's **flight time**? What was the bullet's **speed** just as it left the barrel?
+- [ ] #hw (physics) In the plane problem we did in class ([click here to see the question](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/kinematics-problem-session)), in what direction should the pilot orient the plane in order to compensate for the wind and end up at his desired location? Give the direction as an angle from due east. 
+- [ ] #hw (physics) A ball thrown horizontally at 25 m/s travels a horizontal distance of 50m before hitting the ground. How high was it above the ground when it was thrown? 
+- [ ] #hw (physics) A rifle is fired horizontally at a target 50m away. The bullet hits the target 2.0 cm below the aim point. What was the bullet's **flight time**? What was the bullet's **speed** just as it left the barrel? 

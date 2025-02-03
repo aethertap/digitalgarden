@@ -78,5 +78,5 @@ To measure the length of an arc that subtends angle $\theta$, simply find $r \th
 
 ## Homework
 
-- [ ] #hw (geom-gr10) 11.1 Arc Measure, Arc Length, and Circumference  (p. 284) [[2025-01-31\|2025-01-31]]
+- [x] #hw (geom-gr10) 11.1 Arc Measure, Arc Length, and Circumference  (p. 284) [[2025-01-31\|2025-01-31]]
 

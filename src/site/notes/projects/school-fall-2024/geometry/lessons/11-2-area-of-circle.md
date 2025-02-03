@@ -86,6 +86,6 @@ Be on the lookout for ways to change problems involving radius, circumference, o
 ## Homework
 
 
-- [ ] #hw (geom-gr10) 11.2 Area  (p. 290) (gr10) [[2025-02-03\|2025-02-03]] 
+- [x] #hw (geom-gr10) 11.2 Area  (p. 290) (gr10) [[2025-02-03\|2025-02-03]]
 
 

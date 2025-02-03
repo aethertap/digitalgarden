@@ -54,5 +54,5 @@ Template for ACE answer building:
 
 ## Review Questions 
 
-- [ ] #hw (lang) ACE Exercise: What habit do you think is most important for a successful student?  [[2025-01-31\|2025-01-31]]
+- [x] #hw (lang) ACE Exercise: What habit do you think is most important for a successful student?  [[2025-01-31\|2025-01-31]]
 - [x] #hw (lang) ACE Exercise: What invention do you think is most valuable to people today? [[2025-01-31\|2025-01-31]] 

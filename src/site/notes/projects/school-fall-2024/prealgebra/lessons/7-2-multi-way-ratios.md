@@ -102,4 +102,4 @@ If your problem *doesn't* give you the total, but you have some information abou
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 7.2 Multi-way Ratios (p. 287) [[2025-01-31\|2025-01-31]] 
+- [x] #hw (math) (gr7) 7.2 Multi-way Ratios (p. 287) [[2025-01-31\|2025-01-31]]

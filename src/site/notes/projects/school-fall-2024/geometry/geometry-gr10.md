@@ -118,9 +118,9 @@
 
 ## 11 Circles (p. 284)
 
-- [x] #hw (geom-gr10) 11.1 Arc Measure, Arc Length, and Circumference  (p. 284)
-- [x] #hw (geom-gr10) 11.2 Area  (p. 290)
-- [x] #hw (geom-gr10) 11.3 Funky Areas  (p. 294)
+- [x] #hw (geom-gr10) 11.1 Arc Measure, Arc Length, and Circumference  (p. 284) [score:: 4/4]
+- [x] #hw (geom-gr10) 11.2 Area  (p. 290) [score:: 6/6]
+- [x] #hw (geom-gr10) 11.3 Funky Areas  (p. 294) [score:: 1/2]
 - [ ] #hw (geom-gr10) 10.4 Summary  (p. 280)
 
 ## 12 Circles and Angles (p. 304)

@@ -60,4 +60,4 @@ If it all worked out, we should have our flour and water in the correct proporti
 
 ## Homework
 
-- [ ] #hw (math) (gr7) 7.3 Proportions (p. 293) [[2025-02-03\|2025-02-03]] 
+- [x] #hw (math) (gr7) 7.3 Proportions (p. 293) [[2025-02-03\|2025-02-03]]

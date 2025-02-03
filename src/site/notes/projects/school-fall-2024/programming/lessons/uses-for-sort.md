@@ -35,4 +35,4 @@
 
 ## Exercises
 
-- [ ] #hw (programming) Use your bubble sort implementation to remove all the duplicates from a list of numbers. Keep only one of each number! [[2025-01-31\|2025-01-31]]
+- [x] #hw (programming) Use your bubble sort implementation to remove all the duplicates from a list of numbers. Keep only one of each number! [[2025-01-31\|2025-01-31]]

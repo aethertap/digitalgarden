@@ -24,7 +24,7 @@ Read Chapter 5 BFLAN
 ## Lesson, Readings, and Examples
 
 
-- [ ] #hw (lang) ACE Response ([ACE response lesson link](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/answer-cite-elaborate-intro)): What is the most irrelevant fact you know about the English language? [[2025-01-31\|2025-01-31]]
+- [x] #hw (lang) ACE Response ([ACE response lesson link](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/answer-cite-elaborate-intro)): What is the most irrelevant fact you know about the English language? [[2025-01-31\|2025-01-31]]
 
 ## Media resources
 
@@ -36,4 +36,4 @@ Read Chapter 5 BFLAN
 
 
 
-- [ ] #hw (lang) Exercise: BFLAN 5.1, 5.2  [[2025-01-31\|2025-01-31]] 
+- [x] #hw (lang) Exercise: BFLAN 5.1, 5.2  [[2025-01-31\|2025-01-31]]

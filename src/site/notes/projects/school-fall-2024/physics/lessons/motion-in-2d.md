@@ -126,11 +126,11 @@ And there you have it, the path from acceleration to position.
 - [ ] For that example, what is the x-component of the acceleration? What is the y-component?  
 - [ ] Is the spaceship's speed in the "north" direction increasing or decreasing because of the acceleration?
 
-- [ ] #hw (physics) [Do the "Apprentice level" exercise at this link](https://www.physicsclassroom.com/Concept-Builders/Kinematics/Which-One-Doesnt-Belong/Concept-Builder). It has different ways to describe motion (graph, motion diagram, words, etc) and your job is to look at them all and click on the one that isn't describing the same motion as the others. [[2025-02-03\|2025-02-03]]
+- [x] #hw (physics) [Do the "Apprentice level" exercise at this link](https://www.physicsclassroom.com/Concept-Builders/Kinematics/Which-One-Doesnt-Belong/Concept-Builder). It has different ways to describe motion (graph, motion diagram, words, etc) and your job is to look at them all and click on the one that isn't describing the same motion as the others. [[2025-02-03\|2025-02-03]]
 
 ## Homework
 
-- [ ] #hw (physics)  [Do the problems on our school page under the Homework heading](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/motion-in-2d) [[2025-01-31\|2025-01-31]] 
+- [x] #hw (physics)  [Do the problems on our school page under the Homework heading](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/motion-in-2d) [[2025-01-31\|2025-01-31]]
 
 1. For this qustion, read all parts before you start. Draw a [[projects/school-fall-2024/physics/pictorial-representation\|pictorial-representation]], with *all* variables present on the diagram, and write the equations you will use to answer the questions
     1. A rocket sled ignites and moves to the right with an acceleration of 30 $\frac{m}{s^2}$ for 5 seconds (where the engine stops). How fast is it moving when the engine stops?
