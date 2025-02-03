@@ -31,7 +31,7 @@ Explain why just means that you explain why the evidence you cited before is rel
 Bad Example: "He's guilty. The diamonds were found in his car. They were in his car, so he's guilty."
 That example is bad because it doesn't actually make any connection between the evidence and the answer, and it doesn't explain anything. It gives you the feeling that you're explaining, but no new information was provided and nothing about the "explanation" actually cleared anything up.
 
-Better example: "He's guilty. The diamons were found in his car. We have video footage of him with his car near the time and place of the theft, so finding the diamonds in the car indicates he is the one who stole them." 
+Better example: "He's guilty. The diamonds were found in his car. We have video footage of him with his car near the time and place of the theft, so finding the diamonds in the car indicates he is the one who stole them." 
 This is better because it actually connects the fact of finding them in a person's car with the person (otherwise, maybe his friend was borrowing his car, or maybe somebody is trying to frame him...)
 
 ### Exercise article
@@ -45,10 +45,8 @@ In today's world, screens are nearly everywhere. Computers and smartphones conne
 #### Screen Overdose
 
 David Greenfield is an expert on how people use technology. He says that time spent playing video games is time not spent being active. "If you spend 8, 9, 10 hours a day gaming, the only thing you're moving is your finger," says Greenfield.
-Being surrounded by screens can also make it hard to focus on one task. In a 2013 study, experts in California studied students as they did their homework. After just two minutes, many kids started surfing the internet, watching TV, or texting instead of
-focusing on their assignments.
-Too much screen time at night can also cause kids to lose out on sleep. Studies have shown that playing video games or using other digital devices right before bedtime can keep kids tossing and turning all night. The light from the screen tricks the brain into
-thinking it's still daytime.
+Being surrounded by screens can also make it hard to focus on one task. In a 2013 study, experts in California studied students as they did their homework. After just two minutes, many kids started surfing the internet, watching TV, or texting instead of focusing on their assignments.
+Too much screen time at night can also cause kids to lose out on sleep. Studies have shown that playing video games or using other digital devices right before bedtime can keep kids tossing and turning all night. The light from the screen tricks the brain into thinking it's still daytime.
 
 #### Powering Down
 
