@@ -12,7 +12,6 @@
 
 ## On-deck (ready)
 
-- [ ] #hw (robotics) Create a Robot class with a drive_forward method that turns both servos in a way that will make your bot move forward.
 - [ ] #hw (robotics) Create `pivot_left` and `pivot_right` methods for the `Robot` class that will cause it to turn in place to the left or right.
 - [ ] #hw (robotics) Write a `follow_line` function that always pivots toward the sensor that last sensed the line. If no sensor sees the line (or if the center sensor sees it), it should drive forward.
 - [ ] #hw (robotics) Analyze your robot's mechanical structure to see where it's weak points are. How could those be strengthened without overcomplicating your bot's build? What kind of forces are present and what kind of mechanical advantage is amplifiying them?
@@ -31,6 +30,7 @@
 ## Complete
 
 - [x] #hw (robotics) Install IR sensors and do remaning bot assembly [[2024-12-10\|2024-12-10]]
+- [ ] #hw (robotics) Create a Robot class with a drive_forward method that turns both servos in a way that will make your bot move forward.
 - [ ] Make the photogate code use analogRead instead of digitalRead so that we can make it a bit more sensitive, since the phototransistor has a much higher internal resistance than I expected.
 - [x] #hw (robotics) Design a very simple 3d printable chassis platform shape for a simple differential-steering robot [[2024-09-12\|2024-09-12]]
 - [x] #hw (robotics) Measure battery voltage to make sure it's within safe limits for arduino, then connect battery to arduino via dpst switch [[2024-12-10\|2024-12-10]]

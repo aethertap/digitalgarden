@@ -43,3 +43,12 @@ We are building a pair of line-following robots starting from scratch. The goal 
 - Redesign required on wheel attachment due to impossibility of assembly initially (no way to reach the screws)
 - Through-hole mounts for servos are difficult to 3D print due to large bridging requirements over top of hole, had to make big adjustment to account for that
 - Several problems due to poor bed adhesion on the printer, cause isn't certain but flipping PEI plate has resolved it for now.
+
+## Next steps
+
+- [[2025-02-04\|2025-02-04]] Assemble bots, wire and connect battery, and test the drive method.
+- Add methods for turning
+- Evaluate servo design, determine whether we need to switch to L298 motor drive board with gear motors.
+    - Do we need to use a power transistor to drive the servos? Arduino has pretty small current limit...
+- Add methods for sensing line marker
+- Add method for steering to follow line
