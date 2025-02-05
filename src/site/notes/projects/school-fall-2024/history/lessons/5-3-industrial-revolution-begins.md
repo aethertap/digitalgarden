@@ -18,8 +18,8 @@
 
 
 
-- [ ] #hw (hist) Read history  Read section 5.4: Industrialization Spreads pages 304–309 [[2025-02-04\|2025-02-04]] 
-- [ ] #hw (hist) Read history  Read section 5.5: Technology in the Industrial Age pages 310–316 [[2025-02-04\|2025-02-04]] 
+- [x] #hw (hist) Read history  Read section 5.4: Industrialization Spreads pages 304–309 [[2025-02-04\|2025-02-04]]
+- [x] #hw (hist) Read history  Read section 5.5: Technology in the Industrial Age pages 310–316 [[2025-02-04\|2025-02-04]]
 
 ## Topics
 

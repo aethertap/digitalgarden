@@ -26,6 +26,6 @@ At the end of the reading, you'll have a week to write a book report. The rough 
 ## Reading Schedule
 
 - [x] #hw (lit) Read *The Catcher in the Rye* chapters 1-6, and do the [weekly discussion prep](https://school.ginosterous.com/projects/school-fall-2024/language/catcher-in-the-rye) [[2025-01-28\|2025-01-28]]
-- [ ] #hw (lit) Read *The Catcher in the Rye* chapters 7-13, and do the [weekly discussion prep](https://school.ginosterous.com/projects/school-fall-2024/language/catcher-in-the-rye) [[2025-02-04\|2025-02-04]]
+- [x] #hw (lit) Read *The Catcher in the Rye* chapters 7-13, and do the [weekly discussion prep](https://school.ginosterous.com/projects/school-fall-2024/language/catcher-in-the-rye) [[2025-02-04\|2025-02-04]]
 - [ ] #hw (lit) Read *The Catcher in the Rye* chapters 14-20, and do the [weekly discussion prep](https://school.ginosterous.com/projects/school-fall-2024/language/catcher-in-the-rye) [[2025-02-11\|2025-02-11]]
 - [ ] #hw (lit) Read *The Catcher in the Rye* chapters 21-26, and do the [weekly discussion prep](https://school.ginosterous.com/projects/school-fall-2024/language/catcher-in-the-rye) [[2025-02-18\|2025-02-18]]

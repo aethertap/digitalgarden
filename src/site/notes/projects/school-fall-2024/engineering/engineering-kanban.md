@@ -20,6 +20,7 @@
 
 ## Quick tasks
 
+- [ ] #teacher Add [the engineer guy's youtube channel](https://www.youtube.com/@engineerguyvideo/playlists) to the engineering curriculum [[2025-02-05\|2025-02-05]]
 
 
 ## In-progress
