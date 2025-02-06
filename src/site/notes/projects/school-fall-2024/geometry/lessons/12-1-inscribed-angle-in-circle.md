@@ -48,7 +48,7 @@
 
 ## Homework
 
-
-- [ ] #hw (geom-gr10) 12.1 Inscribed Angles  (p. 304) (gr10) [[2025-02-05\|2025-02-05]] 
+- [x] #hw (geom-gr10) 11.3 Funky Areas  (p. 294) [[2025-02-05\|2025-02-05]]
+- [ ] #hw (geom-gr10) 12.1 Inscribed Angles  (p. 304) (gr10) [[2025-02-07\|2025-02-07]] 
 
 
