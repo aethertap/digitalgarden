@@ -62,7 +62,7 @@ The canoe can hold 30 gallons of water before it sinks. If it takes Bob 10 minut
 ## Guided practice
 
 
-- [ ] Tom can paint Mr. Thatcher’s fence in 6 hours, while Huck can paint Mr. Thatcher’s fence in 5 hours. If they work together, then how long will it take them to paint the fence?   
+- [ ] Tom can paint Mr. Thatcher’s fence in 6 hours, while Huck can paint Mr. Thatcher’s fence in 5 hours. If they work together, then how long will it take them to paint the fence?
 - [ ] If 5 woodchucks could chuck 50 cords of wood in 4 days, then how many cords of wood could 7 woodchucks chuck in 6 days?   
 - [ ] Julie wants to give a 45-minute speech, and she speaks 120 words per minute. Her written notes contain 500 words per page. How many pages should she prepare?   
 
