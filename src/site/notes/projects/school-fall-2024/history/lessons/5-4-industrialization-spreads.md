@@ -18,7 +18,7 @@
 
 
 
-- [ ] #hw (hist) Read history  Read section 5.6: Industrialization: Government’s Role pages 317–324 [[2025-02-06\|2025-02-06]] 
+- [x] #hw (hist) Read history  Read section 5.6: Industrialization: Government’s Role pages 317–324 [[2025-02-06\|2025-02-06]]
 
 
 ## Links

@@ -33,4 +33,4 @@ Get your wires hooked up, double check connections and pin numbers, then we're g
 
 
 - [x] #hw (engr) Connect the servos and battery to the arduino  [[2025-02-04\|2025-02-04]]
-- [ ] #hw (engr) Test the drive method, should go forward and backward  [[2025-02-04\|2025-02-04]]
+- [x] #hw (engr) Test the drive method, should go forward and backward  [[2025-02-04\|2025-02-04]]

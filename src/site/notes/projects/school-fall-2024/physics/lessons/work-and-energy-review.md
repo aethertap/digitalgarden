@@ -20,7 +20,7 @@
 - [LOL charts](https://kellyoshea.blog/2012/03/05/energy-bar-charts-lol-diagrams/) 
 - [Work, energy, and system analysis](https://youtu.be/Czpwy4lFit4)  
 - [ ] #hw (science) Read [NASA finds hints of ancient life on Mars](https://www.snexplores.org/article/perseverance-rover-hint-of-life-on-mars). [[2025-02-10\|2025-02-10]]
-
+- [ ] #hw (science) ***In Class***: Write a one-sentence summary of the life on Mars article based on the kernel, "**It found evidence,**" that answers *who*, *when*, *how* [[2025-02-10\|2025-02-10]]
 ### Lightning Round Questions
 
 - [ ] #quiz What is the connection between Work and Energy? 
@@ -30,6 +30,8 @@
 - [ ] #quiz If you drop a brick from the first story window, it hits the ground with a certain speed. How much higher would you have to drop from in order to double the *speed* at the moment of impact? 
 - [ ] #quiz Fill in the blank: Work changes `________` 
 
+- gr10 [lightning:: 3]
+- gr7 [lightning:: 2]
 
 ## Concept summary and connections
 

@@ -74,4 +74,4 @@ Every step needs to include its own revise and feedback part. Always look for wa
 ## Review Questions 
 
 
-- [ ] #hw (lang) Create an essay-writing cheatsheet in your Obsidian vault with the steps from the video ([here's the link](https://www.youtube.com/watch?v=Idb86apbrbY&list=PLY2iGpRrMhnGuZTxNoWT7o-YAlv4hFYsQ&index=26&pp=iAQB)). Make it clear and simple so you can use it for our next book report. [[2025-02-06\|2025-02-06]] 
+- [x] #hw (lang) Create an essay-writing cheatsheet in your Obsidian vault with the steps from the video ([here's the link](https://www.youtube.com/watch?v=Idb86apbrbY&list=PLY2iGpRrMhnGuZTxNoWT7o-YAlv4hFYsQ&index=26&pp=iAQB)). Make it clear and simple so you can use it for our next book report. [[2025-02-06\|2025-02-06]]

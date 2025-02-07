@@ -55,6 +55,6 @@ The AAP says kids should limit their screen time to no more than two hours a day
 
 ## Review Questions 
 
-- [ ] #hw (lang) Exercise: Read [Too Plugged In](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/ace-5-explain-why), then answer the question: "Should kids have limits on their screen time?" [[2025-02-05\|2025-02-05]] 
-- [ ] #hw (lang) Exercise: From the same reading, answer, "Are there negative effects from too much screen time?" [[2025-02-05\|2025-02-05]] 
-- [ ] #hw (lang) Exercise: Answer the question, "How can kids use technology in a positive way?" [[2025-02-05\|2025-02-05]] 
+- [x] #hw (lang) Exercise: Read [Too Plugged In](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/ace-5-explain-why), then answer the question: "Should kids have limits on their screen time?" [[2025-02-05\|2025-02-05]]
+- [x] #hw (lang) Exercise: From the same reading, answer, "Are there negative effects from too much screen time?" [[2025-02-05\|2025-02-05]]
+- [x] #hw (lang) Exercise: Answer the question, "How can kids use technology in a positive way?" [[2025-02-05\|2025-02-05]]

@@ -37,4 +37,4 @@ So today we're going to write a function that will give us the count of all digr
 
 ## Exercises
 
-- [ ] #hw (programming) Add another function to your growing codebreaking library that works like the `letter_frequencies` function, but instead of counting individual letters it counts *pairs* of letters that show up next to each other. It should return a Map with keys for the digram, and values that hold the number of times the digram was seen in the sample. [[2025-02-05\|2025-02-05]]
+- [x] #hw (programming) Add another function to your growing codebreaking library that works like the `letter_frequencies` function, but instead of counting individual letters it counts *pairs* of letters that show up next to each other. It should return a Map with keys for the digram, and values that hold the number of times the digram was seen in the sample. [[2025-02-05\|2025-02-05]]

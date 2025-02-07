@@ -83,11 +83,11 @@ Please create a quiz with six questions that allows my students to practice thei
 ## Quiz [[2025-01-10\|2025-01-10]]
 
 - [ ] #quiz What is the formula for kinetic energy of a moving mass? 
-- [x] #quiz What is the formula for the momentum of a moving mass?
-- [x] #quiz How much gravitational potential energy does a 10 kg mass have if it is 20 meters above the ground?
+- [ ] #quiz What is the formula for the momentum of a moving mass?
+- [ ] #quiz How much gravitational potential energy does a 10 kg mass have if it is 20 meters above the ground?
 - [ ] #quiz Draw a right triangle and label one of the right angles as $\theta$. Which two sides make the ratio called $\cos \theta$?
 - [ ] #quiz What is the magnitude of the vector $12\hat{i}+4\hat{j}$?
 - [ ] #quiz Find the dot product: $3\hat{i}+\hat{j}\cdot 4\hat{ i}+2\hat{j}$
-- [x] #quiz Explain what impulse is.
+- [ ] #quiz Explain what impulse is.
 - [ ] #quiz What is the difference between an *elastic* collision and an *inelastic* collision?
 - [ ] #quiz Why is the idea of a *spring constant* important for weighing things?

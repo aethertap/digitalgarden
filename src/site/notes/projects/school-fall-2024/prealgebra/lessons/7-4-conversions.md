@@ -96,4 +96,4 @@ $\frac{70\text{ miles}}{1\text{ hours}}\times \frac{1\text{ hours}}{3600\text{ s
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 7.4 Conversions (p. 296) [[2025-02-05\|2025-02-05]] 
+- [x] #hw (math) (gr7) 7.4 Conversions (p. 296) [[2025-02-05\|2025-02-05]]
