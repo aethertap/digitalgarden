@@ -7,7 +7,6 @@
 
 - [ ] Physics - make an experiment for springs, show Hooke's law and talk about periodic oscillation.
 - [ ] Robotics - Build a line maze big enough for the gigantic robots we have. Probably needs to be a line of papers taped together with a fat black stripe running down them, laid out all around the workshop.
-- [ ] Robotics - assign task to write most basic sensor and servo loop for bots, where they just implement the "drive toward the sensor that sees the line" algorithm.
 - [ ] Robotics - Have a time-trial race to see whose bot can navigate the track fastest and with the least errors.
 - [ ] Coding - Outline and schedule stuff from Think Like a programmer
 - [ ] Physics - Have kids measure spring constant for different springs.
@@ -21,11 +20,7 @@
 
 ## In progress
 
-- [ ] Physics - outline remainder of textbook with detailed headings and a list of terminology for flashcards
-- [ ] Math - catch up on grading
-    [[projects/school-fall-2024/geometry/geometry-gr10\|geometry-gr10]]
-- [ ] Physics - introduce motion diagrams (Five easy lessons p. 77
-- [x] #teacher Language: Schedule the [How to write an essay](https://www.youtube.com/playlist?list=PLY2iGpRrMhnGuZTxNoWT7o-YAlv4hFYsQ) playlist into our curriculum. [[2025-01-30\|2025-01-30]]
+- [ ] #teacher Decide on what content I want to use from [commonlit.org](https://www.commonlit.org) for literature for both kids [[2025-02-14\|2025-02-14]]
 
 
 ## Assigned
@@ -36,6 +31,12 @@
 
 **Complete**
 - [x] [[projects/school-fall-2024/prealgebra/lessons/equations-and-inequalities\|equations-and-inequalities]] - gr7 needs to practice order of operations with variable expressions. Do problems from section 5.3.
+- [x] Physics - outline remainder of textbook with detailed headings and a list of terminology for flashcards
+- [x] Physics - introduce motion diagrams (Five easy lessons p. 77
+- [x] Math - catch up on grading
+    [[projects/school-fall-2024/geometry/geometry-gr10\|geometry-gr10]]
+- [x] Robotics - assign task to write most basic sensor and servo loop for bots, where they just implement the "drive toward the sensor that sees the line" algorithm.
+- [x] #teacher Language: Schedule the [How to write an essay](https://www.youtube.com/playlist?list=PLY2iGpRrMhnGuZTxNoWT7o-YAlv4hFYsQ) playlist into our curriculum. [[2025-01-30\|2025-01-30]]
 - [x] #teacher  [[projects/school-fall-2024/prealgebra/prealgebra-mixed-numbers\|prealgebra-mixed-numbers]] Make a lesson for helping gr7 do better at mixed number order of operations.  [[2025-01-06\|2025-01-06]]
 - [x] Outline the computer science fat notebook and get it scheduled into a class
 - [x] Teach gr7 Interval notation for section 5.5.

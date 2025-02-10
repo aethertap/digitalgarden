@@ -27,4 +27,4 @@ Read The Catcher in the Rye, chapters 14-20
 
 ## Review Questions , Chapter 14-20
 
-- [ ] #teacher Read catcher chapters 14-20, fill in review questions and other content [[2025-02-10\|2025-02-10]]
+- [x] #teacher Read catcher chapters 14-20, fill in review questions and other content [[2025-02-10\|2025-02-10]]

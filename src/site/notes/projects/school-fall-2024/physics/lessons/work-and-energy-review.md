@@ -19,7 +19,7 @@
 
 - [LOL charts](https://kellyoshea.blog/2012/03/05/energy-bar-charts-lol-diagrams/) 
 - [Work, energy, and system analysis](https://youtu.be/Czpwy4lFit4)  
-- [ ] #hw (science) Read [NASA finds hints of ancient life on Mars](https://www.snexplores.org/article/perseverance-rover-hint-of-life-on-mars). [[2025-02-10\|2025-02-10]]
+- [x] #hw (science) Read [NASA finds hints of ancient life on Mars](https://www.snexplores.org/article/perseverance-rover-hint-of-life-on-mars). [[2025-02-10\|2025-02-10]]
 - [ ] #hw (science) ***In Class***: Write a one-sentence summary of the life on Mars article based on the kernel, "**It found evidence,**" that answers *who*, *when*, *how* [[2025-02-10\|2025-02-10]]
 
 While exploring Cheyava Falls on Mars, the Perseverance rover found possible signs of ancient life.

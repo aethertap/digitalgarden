@@ -58,5 +58,5 @@ $\angle Z = \frac{{b-a}}{2}$
 ## Homework
 
 
-- [ ] #hw (geom-gr10) 12.2 Angles Inside and Outside Circles  (p. 310) (gr10) [[2025-02-10\|2025-02-10]] 
+- [ ] #hw (geom-gr10) 12.2 Angles Inside and Outside Circles  (p. 310) (gr10) [[2025-02-12\|2025-02-12]] 
 

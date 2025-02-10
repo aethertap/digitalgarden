@@ -23,6 +23,8 @@
 - If you drop a brick from the first story window, it hits the ground with a certain speed. How much higher would you have to drop from in order to double the *speed* at the moment of impact? 
 - What are the basic steps of scientific inquiry? 
 
+gr7: [lightning:: 1]
+gr10: [lightning:: 3]
 
 
 - gravity, spring force are conservative 
@@ -53,4 +55,4 @@ When you're making LOL diagrams to represent energy movement at different interv
 
 ## Homework
 
-- [ ] #hw (physics) Complete the roller coaster tasks on your [Physics Classroom](https://www.physicsclassroom.com) account task list. [[2025-02-10\|2025-02-10]]
+- [ ] #hw (physics) Complete the roller coaster tasks on your [Physics Classroom](https://www.physicsclassroom.com) account task list. [[2025-02-12\|2025-02-12]]

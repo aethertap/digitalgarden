@@ -55,6 +55,6 @@ $\angle ZAB = \frac{\text{arc AB}}{2}$
 ## Homework
 
 
-- [ ] #hw (geom-gr10) 12.3 Tangents  (p. 316) (gr10) [[2025-02-10\|2025-02-10]] 
+- [ ] #hw (geom-gr10) 12.3 Tangents  (p. 316) (gr10) [[2025-02-14\|2025-02-14]]
 
 
