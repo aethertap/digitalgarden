@@ -26,6 +26,9 @@
 - What are models, and why are they used in science? 
 - What does *sublimation* mean? 
 
+- gr7: [lightning:: 3]
+- gr10: [lightning:: 2]
+
 ## Designing experiments: variables, controls, and models
 
 Science is all about observing reality in order to build *models* for how things work. Most of the time, "how things work" means "what are the causes and effects that drive changes in this system?" We design experiments that **isolate** variables as much as possible, then measure and analyze the changes in order to build a set of rules called a **model**. The model allows us to **predict** what will happen in other cases that we didn't directly study, so it is useful for practical tasks in the real world. Models are not perfect, however, and they are always subject to improvements as we learn more about how the world works!

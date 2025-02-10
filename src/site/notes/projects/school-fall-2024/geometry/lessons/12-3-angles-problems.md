@@ -25,7 +25,7 @@ Three circles with radius one are drawn tangent to each other, and an equilatera
 ![prob-12-21.png](/img/user/projects/school-fall-2024/geometry/lessons/_resources/prob-12-21.png)
 
 
-XY is tangent to both circle O and P. Find XY if $[OP]=40$ and O has radius 31, and P has radius 7.  
+XY is tangent to both circle O and P. Find XY if $\overline{OP}=40$ and O has radius 31, and P has radius 7.  
 
 ![prob-12-22.png](/img/user/projects/school-fall-2024/geometry/lessons/_resources/prob-12-22.png)
 
