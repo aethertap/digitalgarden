@@ -13,7 +13,7 @@
     - 6 Exercises p. 58-65
 - [x] Verbals (p. 66) [[2025-02-03\|2025-02-03]]
     - 10 Exercises p. 70-81
-- [ ] Defining from Context (p. 82) [[2025-02-10\|2025-02-10]]
+- [x] Defining from Context (p. 82) [[2025-02-10\|2025-02-10]]
     - 5 Exercises p. 85-95
 - [ ] Affixes and Roots (p. 96) [[2025-02-17\|2025-02-17]]
     - 7 Exercises p. 101-111

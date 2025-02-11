@@ -28,4 +28,4 @@ Read The Catcher in the Rye, chapters 21-26
 ## Review Questions , Chapter 21-26
 
 
-- [ ] #teacher Read catcher chapters 21-26, fill in review questions and other content [[2025-02-17\|2025-02-17]]
+- [x] #teacher Read catcher chapters 21-26, fill in review questions and other content [[2025-02-17\|2025-02-17]]

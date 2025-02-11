@@ -108,5 +108,5 @@ In fact, it's so useful that I recommend asking yourself if you can solve a prob
 
 ## Homework
 
-- [ ] #hw (physics) In one sentence, summarize the content of the article we read. [[2025-02-10\|2025-02-10]] 
-- [ ] #hw (physics) Do the tasks assigned to you at [physicsclassroom.com](https://physicsclassroom.com) [[2025-02-10\|2025-02-10]] 
+- [x] #hw (physics) In one sentence, summarize the content of the article we read. [[2025-02-10\|2025-02-10]] 
+- [x] #hw (physics) Do the tasks assigned to you at [physicsclassroom.com](https://physicsclassroom.com) [[2025-02-10\|2025-02-10]] 
