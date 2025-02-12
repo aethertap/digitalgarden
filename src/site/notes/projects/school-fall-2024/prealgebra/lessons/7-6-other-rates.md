@@ -70,4 +70,4 @@ The canoe can hold 30 gallons of water before it sinks. If it takes Bob 10 minut
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 7.6 Other Rates (p. 310) [[2025-02-10\|2025-02-10]] 
+- [x] #hw (math) (gr7) 7.6 Other Rates (p. 310) [[2025-02-10\|2025-02-10]]

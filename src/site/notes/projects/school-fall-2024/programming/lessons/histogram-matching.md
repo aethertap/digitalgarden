@@ -100,4 +100,4 @@ function make_map(pairs:string[][]):Map<string,string> {
 
 ## Exercises
 
-- [ ] #hw (programming) Write a function that takes two strings as arguments. It should find the letter frequencies for each, then sort them in descending order, and finally return a Map that maps letters from the ciphertext into letters from the plaintext model. [[2025-02-10\|2025-02-10]]
+- [x] #hw (programming) Write a function that takes two strings as arguments. It should find the letter frequencies for each, then sort them in descending order, and finally return a Map that maps letters from the ciphertext into letters from the plaintext model. [[2025-02-10\|2025-02-10]]

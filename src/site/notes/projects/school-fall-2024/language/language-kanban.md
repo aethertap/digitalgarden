@@ -9,10 +9,6 @@
 
 ## Scheduled
 
-- [x] Verbs and Mood (p. 55) [[2025-01-27\|2025-01-27]]
-    - 6 Exercises p. 58-65
-- [x] Verbals (p. 66) [[2025-02-03\|2025-02-03]]
-    - 10 Exercises p. 70-81
 - [x] Defining from Context (p. 82) [[2025-02-10\|2025-02-10]]
     - 5 Exercises p. 85-95
 - [ ] Affixes and Roots (p. 96) [[2025-02-17\|2025-02-17]]
@@ -53,6 +49,10 @@
 ## Done
 
 **Complete**
+- [x] Verbals (p. 66) [[2025-02-03\|2025-02-03]]
+    - 10 Exercises p. 70-81
+- [x] Verbs and Mood (p. 55) [[2025-01-27\|2025-01-27]]
+    - 6 Exercises p. 58-65
 - [x] Active and Passive Voice (p. 39) [[2025-01-20\|2025-01-20]]
     - 6 Exercises p. 43-54
 - [x] #hw (lang) Exercises 1.3-1.4 (EVEN Numbers only) [[2025-01-09\|2025-01-09]]

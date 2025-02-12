@@ -15,8 +15,6 @@
 - [IXL prealgebra practice index](https://www.ixl.com/math/grade-7)
 - [OpenSTAX Prealgebra-1 textbook](https://openstax.org/books/prealgebra-2e/pages/1-introduction)
 
-
-
 ## Concept summary and lesson
 
 
@@ -34,11 +32,14 @@
 
 ## Guided practice
 
+[Section 7.5 of prealgebra book](https://artofproblemsolving.com/ebooks/prealgebra-ebook/c7s5)
 
 - [ ] 7.5.3  
 - [ ] 7.5.5  
 - [ ] 7.5.8  
 - [ ] 7.6.4
 - [ ] 7.6.5
-- [ ] 
 
+## Homework
+
+- [ ] #hw (math) 8.2 Word Problems (p. 331) [[2025-02-14\|2025-02-14]]

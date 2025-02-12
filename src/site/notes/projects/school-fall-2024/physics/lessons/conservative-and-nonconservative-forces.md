@@ -55,4 +55,4 @@ When you're making LOL diagrams to represent energy movement at different interv
 
 ## Homework
 
-- [ ] #hw (physics) Complete the roller coaster tasks on your [Physics Classroom](https://www.physicsclassroom.com) account task list. [[2025-02-12\|2025-02-12]]
+- [x] #hw (physics) Complete the roller coaster tasks on your [Physics Classroom](https://www.physicsclassroom.com) account task list. [[2025-02-12\|2025-02-12]]

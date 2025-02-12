@@ -22,6 +22,6 @@ Read BFLAN 82-83
 
 ## Review Questions 
 
-- [ ] #hw (lang) BFLAN 6.1-6.2 evens [[2025-02-11\|2025-02-11]]
+- [x] #hw (lang) BFLAN 6.1-6.2 evens [[2025-02-11\|2025-02-11]]
 - [ ] #hw (lang) BFLAN 6.3-6.4 evens [[2025-02-12\|2025-02-12]]
 - [ ] #hw (lang) BFLAN 6.5 evens [[2025-02-13\|2025-02-13]]

@@ -53,4 +53,4 @@ And your answer will look like this:
 - (From *Catcher in the Rye*) He seems depressed. *Who*, *why*, *where*
 - (Physics) LOL charts show energy. *what*, *how*, *why (is it useful)*
 
-- [ ] #hw (lang) Exercise: Expand the sentence kernels from the lesson([click here to see it](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/sentence-expansions)) [[2025-02-10\|2025-02-10]] 
+- [x] #hw (lang) Exercise: Expand the sentence kernels from the lesson([click here to see it](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/sentence-expansions)) [[2025-02-10\|2025-02-10]]

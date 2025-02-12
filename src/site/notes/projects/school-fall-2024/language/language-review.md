@@ -18,11 +18,11 @@ Schedule assignments on the [[projects/school-fall-2024/language/language-kanban
     - 9 Exercises p. 28-38
 4. [x] Active and Passive Voice (p. 39) [[2025-01-20\|2025-01-20]]
     - 6 Exercises p. 43-54
-5. [ ] Verbs and Mood (p. 55) 
+5. [x] Verbs and Mood (p. 55) 
     - 6 Exercises p. 58-65
-6. [ ] Verbals (p. 66) 
+6. [x] Verbals (p. 66) 
     - 10 Exercises p. 70-81
-7. [ ] Defining from Context (p. 82) 
+7. [x] Defining from Context (p. 82) 
     - 5 Exercises p. 85-95
 8. [ ] Affixes and Roots (p. 96) 
     - 7 Exercises p. 101-111
