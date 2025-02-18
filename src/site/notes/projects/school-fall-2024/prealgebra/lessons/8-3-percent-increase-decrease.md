@@ -55,4 +55,4 @@ That means that an increase will multiply by a number a bit bigger than one, and
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 8.3 Percent Increase and Decrease (p. 337) [[2025-02-17\|2025-02-17]] 
+- [x] #hw (math) (gr7) 8.3 Percent Increase and Decrease (p. 337) [[2025-02-17\|2025-02-17]]

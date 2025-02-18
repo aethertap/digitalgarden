@@ -73,4 +73,4 @@ key.set(cipher_mondo_digrams[0][0], corpus_mondo_digrams[0][0]);
 
 ## Exercises
 
-- [ ] #hw (programming) Write a function that uses *digram* frequency to find the most common letter pairs (maybe the top 5 sets) and assign those to their places, then use single letter frequencies to fill in the rest. [[2025-02-17\|2025-02-17]]
+- [x] #hw (programming) Write a function that uses *digram* frequency to find the most common letter pairs (maybe the top 5 sets) and assign those to their places, then use single letter frequencies to fill in the rest. [[2025-02-17\|2025-02-17]]

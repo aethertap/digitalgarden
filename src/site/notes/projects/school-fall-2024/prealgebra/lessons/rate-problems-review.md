@@ -42,4 +42,4 @@
 
 ## Homework
 
-- [ ] #hw (math) 8.2 Word Problems (p. 331) [[2025-02-14\|2025-02-14]]
+- [x] #hw (math) 8.2 Word Problems (p. 331) [[2025-02-14\|2025-02-14]]

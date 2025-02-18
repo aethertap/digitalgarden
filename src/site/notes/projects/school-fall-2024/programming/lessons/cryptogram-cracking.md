@@ -43,5 +43,5 @@ This is still not going to solve the cryptogram! However, it will get us a lot c
 ## Exercises
 
 - [x] #hw (programming) Write a function that turns your frequency histogram map into a probability distribution function [[2025-02-14\|2025-02-14]]
-- [ ] #hw (programming) Add comments for each function in your crypto library that explain what it's for, what it returns, and what each argument should be. The purpose of the comments is to make it easier for **you to use your own code** so make them descriptive! [[2025-02-14\|2025-02-14]]
+- [x] #hw (programming) Add comments for each function in your crypto library that explain what it's for, what it returns, and what each argument should be. The purpose of the comments is to make it easier for **you to use your own code** so make them descriptive! [[2025-02-14\|2025-02-14]]
 

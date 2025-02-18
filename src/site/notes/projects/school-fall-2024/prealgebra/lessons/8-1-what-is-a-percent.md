@@ -96,4 +96,4 @@ Most of the trouble around percents comes from the language we use when we're ta
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 8.1 What is a Percent? (p. 320) [[2025-02-12\|2025-02-12]] 
+- [x] #hw (math) (gr7) 8.1 What is a Percent? (p. 320) [[2025-02-12\|2025-02-12]]
