@@ -37,13 +37,32 @@ Every step of the way, we have a lot of choices for how we could assign a letter
 
 ### What we're doing today
 
-Today's project is just to build the two-step letter substituter. We want to get the top few entries from our digram analysis and use those to start our solution, then we want to fill in the gaps using the single letter frequencies. That means we'll have to check to make sure we don't add any pairs that conflict, which means that we should *remove the ones we already assigned* (from both the cryptogam and the corpus) before we call the key builder function.
+To get started on this, we're just going to make a key builder that has two stages. First, use your `digram_frequencies` function to pick the top two digrams from both the corpus and the cryptogram. We're working with short text here, so the hope is that at least these ones will be pretty good.
 
-We're going to add a couple of new functions to do this:
+Use those two digrams to insert the first three or four mappings (there may be duplicate letters!) into the key, assuming that they correspond to each other. Later, we'll add some searching to this process, but for now we're just going to assume the first guess is right (how's that for confidence?).
+
+After you have those inserted, use the `letter_frequencies` to fill in the rest of the mappings. Remember that you can't have two things that map to the same result, and you can't have one letter that maps to two different results! You'll need to keep track of which mappings already exist and filter them out of the running while you choose what to use next.
 
 ```typescript
-function add_key_letter(key:Map<string,string>, map_from:string, map_to:string, from_array:any[], to_array:any[]):Map<string,string>{}
-
+let key = new Map();
+let cipher_digram_freq = digram_frequencies(ciphertext);
+let corpus_digram_freq = digram_frequencies(corpus);
+// pick the biggest two from each
+let cipher_mondo_digrams = map2hist(cipher_digram_freq) // this makes our sorted array
+    .slice(0,2); // and this takes the first two elements out of it
+let corpus_mondo_digrams = map2hist(corpus_digram_freq) // make the sorted array
+    .slice(0,2); // get the first two elements
+// We have the top two digrams from the ciphertext and the corpus now. They'll look something like
+//   [["th",17],["es",15]] for the corpus, and [["xp", 5], ["qw", 3]] for the ciphertext.
+//   Now you need to make a map that has entries like this in it: {'x'=>'t','p'=>'h','q'=>'e', 'w'=>'s'}.
+//   We took each letter from the top digrams in the cryptogram and mapped it to the corresponding letter 
+//   from the corpus. Here's one of them for example:
+key.set(cipher_mondo_digrams[0][0], corpus_mondo_digrams[0][0]);
+// Watch out! English has lots of double-letter digrams in it (like 'tt', 'ee', 'll'). For now, try 
+//   to avoid using those in this part. They will be very handy later on though!
+// Now, get the single letter frequencies (your job)
+// Filter out the ones that are already defined
+// Insert the rest of the single letter frequencies in order of best frequency match.
 ```
 
 ## Media resources

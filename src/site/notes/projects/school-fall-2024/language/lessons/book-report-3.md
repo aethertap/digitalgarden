@@ -14,7 +14,7 @@
 - [[projects/school-fall-2024/language/literature-2024\|literature-2024]]
 
 
-Read Begin reading The Catcher in the Rye
+Book: The Catcher in the Rye
 
 ## Topics
 
