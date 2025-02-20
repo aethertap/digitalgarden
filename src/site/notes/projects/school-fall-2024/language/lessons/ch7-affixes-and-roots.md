@@ -54,5 +54,5 @@ ACE Response: Kai is the most interesting character in *Travelers' Gate* because
 
 
 
-- [ ] #hw (lang) ACE Response: Who is the best character in the Cradle Series? Answer using Compare and Contrast (here's a link to the lesson) [[2025-02-21\|2025-02-21]]
+- [ ] #hw (lang) ACE Response: Who is the best character in the Cradle Series? Answer using Compare and Contrast ([here's a link to the lesson](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/ch7-affixes-and-roots))) [[2025-02-21\|2025-02-21]]
 - [ ] #hw (lang) List all of the affixes and roots that you can find in the word Hippopotomonstrosesquippedaliophobia [[2025-02-21\|2025-02-21]]
