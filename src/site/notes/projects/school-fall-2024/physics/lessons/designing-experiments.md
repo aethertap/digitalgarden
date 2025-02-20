@@ -67,6 +67,6 @@ In order to design an experiment, you need to have a clear idea of what you're i
 
 ## Homework
 
-- [ ] #hw (physics) Do the [Fan cart study](https://www.physicsclassroom.com/reasoning/newtonslaws/Fan-Cart-Study/) at physicsclassroom.com [[2025-02-14\|2025-02-14]]
+- [x] #hw (physics) Do the [Fan cart study](https://www.physicsclassroom.com/reasoning/newtonslaws/Fan-Cart-Study/) at physicsclassroom.com [[2025-02-14\|2025-02-14]]
 - [x] #hw Read [Investigating the browning process for fruit](https://www.snexplores.org/article/fresh-fruit-slices-turn-brown). Based on their experimental setup, what effects could they measure? What are the independent and dependent variables? What are the controls? In three sentences, summarize the experiment's design. [[2025-02-12\|2025-02-12]]
 

@@ -71,7 +71,7 @@ Here are some examples of the kinds of words we're talking about:
 ## Review Questions 
 
 
-- [ ] #hw (lang) Do the writing exercises in the [transitions lesson](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/transitions) [[2025-02-14\|2025-02-14]]
+- [x] #hw (lang) Do the writing exercises in the [transitions lesson](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/transitions) [[2025-02-14\|2025-02-14]]
 - [ ] ACE short-answer: Why do we put lemon juice in water and soak apple slices in it when we're making a pie? 
 - [ ] Look at your short answer and identify what types of transition words you used. Answer again, but using different types of transitions. 
 - [ ] Pick your weakest sentence from the answer and strengthen it by answering *why*, *how*, and *what*. 

@@ -3,7 +3,7 @@
 ---
 
 
-#  Uniform circular motion
+# Uniform circular motion
 
 ## Links and useful resources 
 
@@ -24,9 +24,9 @@
 - How much gravitational potential energy does a 10 kg mass have if it is 20 meters above the ground? 
 - What is the formula for calculating work? 
 - Explain the idea of **power** in physics. 
-
-gr7: [lightning:: ]
-gr10: [lightning:: ]
+ 
+gr7: [lightning:: 2]
+gr10: [lightning:: 4]
 
 ## Demonstration
 
@@ -87,6 +87,6 @@ From that, we can figure out a whole bunch of neat stuff.
 
 
 
-- [ ] #hw (physics) Brain teaser: IF $\text{work }=\text{force}\times\text{distance}$, and you tie a tennis ball to a string and spin it in space so it never stops, is the string doing work on the tennis ball? If so, where does the energy come from? [[2025-02-19\|2025-02-19]]
-- [ ] #hw (physics) Do the [centripetal force simulation](https://www.physicsclassroom.com/Physics-Interactives/Circular-and-Satellite-Motion/Uniform-Circular-Motion) [[2025-02-19\|2025-02-19]]
-- [ ] #hw (physics) Do the [uniform circular motion concept checker](https://www.physicsclassroom.com/Concept-Checkers/Interactives/Uniform-Circular-Motion/Concept-Checker) in Sudden Death mode [[2025-02-19\|2025-02-19]]
+- [x] #hw (physics) Brain teaser: IF $\text{work }=\text{force}\times\text{distance}$, and you tie a tennis ball to a string and spin it in space so it never stops, is the string doing work on the tennis ball? If so, where does the energy come from? [[2025-02-19\|2025-02-19]]
+- [x] #hw (physics) Do the [centripetal force simulation](https://www.physicsclassroom.com/Physics-Interactives/Circular-and-Satellite-Motion/Uniform-Circular-Motion) [[2025-02-19\|2025-02-19]]
+- [x] #hw (physics) Do the [uniform circular motion concept checker](https://www.physicsclassroom.com/Concept-Checkers/Interactives/Uniform-Circular-Motion/Concept-Checker) in Sudden Death mode [[2025-02-19\|2025-02-19]]

@@ -50,10 +50,10 @@ The key steps:
 ## Guided practice
 
 
-- [ ] simplify $\sqrt{6^5+6^5+6^5+6^5+6^5+6^5}$$  
+- [ ] simplify $\sqrt{6^5+6^5+6^5+6^5+6^5+6^5}$  
 - [ ] simplify $\sqrt{69696}$  
 
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 9.1 From Squares to Square Roots (p. 351) [[2025-02-20\|2025-02-20]] 
+- [x] #hw (math) (gr7) 9.1 From Squares to Square Roots (p. 351) [[2025-02-20\|2025-02-20]]

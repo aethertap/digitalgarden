@@ -14,7 +14,7 @@
 
  
 - ***[[projects/school-fall-2024/engineering/engineering-projects/differential-steering-bot\|Project index: differential-steering-bot]]*** 
-- [ ] #hw (engr) Work through the problems under **Homework** at this link: [ginosterous engineering](https://school.ginosterous.com/projects/school-fall-2024/engineering/lessons/photogate-review-bot-race) [[2025-02-18\|2025-02-18]]
+- [x] #hw (engr) Work through the problems under **Homework** at this link: [ginosterous engineering](https://school.ginosterous.com/projects/school-fall-2024/engineering/lessons/photogate-review-bot-race) [[2025-02-18\|2025-02-18]]
 - [x] #hw (science) Read [Ancient black holes](https://www.snexplores.org/article/ancient-black-holes-dark-matter) and summarize it in one sentence. [[2025-02-17\|2025-02-17]]
 
 ## Concept summary and connections

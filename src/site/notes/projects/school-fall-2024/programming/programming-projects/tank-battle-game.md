@@ -11,6 +11,7 @@ We're going to use
 - [matter.js](https://brm.io/matter-js/) physics library to start with
 - [quickjs](https://github.com/sebastianwessel/quickjs) javascript sandboxing runtime.
 - maybe add the [p5.js](https://p5js.org/) rendering library if we need it
+- [monaco code editor with the typescript sandbox](https://www.typescriptlang.org/dev/sandbox/)
 
 ## Game concept
 

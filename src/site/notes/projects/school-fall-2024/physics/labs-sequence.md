@@ -15,7 +15,7 @@ There are 20 labs, we should be able to do one a week, possibly skipping a coupl
 3. [ ] Acceleration p. 31 
     1. [ ] Need to make or get photogates 
 4. [x] Newton's Laws p. 42 [[2025-02-03\|2025-02-03]]
-5. [ ] Prep lab for Motion in Two Dimensions p. 60 [[2025-02-03\|2025-02-03]]
+5. [x] Prep lab for Motion in Two Dimensions p. 60 [[2025-02-03\|2025-02-03]]
 6. Circular and Rotational Motion p. 74
 7. Work and Energy p. 88
 8. Linear Momentum p. 105

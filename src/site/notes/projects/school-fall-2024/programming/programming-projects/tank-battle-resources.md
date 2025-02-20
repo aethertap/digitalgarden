@@ -9,3 +9,6 @@
 - [SES hardened javascript for loading untrusted code (safe alternative to eval)](https://github.com/endojs/endo/blob/master/packages/ses/docs/guide.md) - this is the way to do it, but too complex for immediate use
     - [hardenedjs.org](https://hardenedjs.org/#examples) appears to be the up-to-date home of this effort
 
+## Using Localstorage
+
+[Localstorage tutorial on logrocket](https://blog.logrocket.com/localstorage-javascript-complete-guide/)
