@@ -12,3 +12,13 @@
 ## Using Localstorage
 
 [Localstorage tutorial on logrocket](https://blog.logrocket.com/localstorage-javascript-complete-guide/)
+
+## Matter-js
+
+Matter is a pretty powerful javascript physics library, but it has some really strange properties. The biggest one is ***time***:
+
+***IN MATTER-JS, TIME IS MEASURE IN 1/60 SECONDS***
+
+That means that velocity calculations, and anything with a rate of change, is ***not per second***, but rather ***per time step***.
+
+As far as I can tell, this is not officially documented *anywhere*.

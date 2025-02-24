@@ -5,26 +5,28 @@
 
 ## Backlog
 
-- [ ] Add gun controls
-- [ ] Add radar controls
-- [ ] Add radar scanning results to the sensor data.
+- [ ] Shooting
 
 
 ## ready to start
 
-- [ ] Connect the debug output to the html block meant to hold it. I need a toggle there also that keeps only the current iteration's output in view in order to make it easier to see what's happening.
-- [ ] Add a button to reset the tank to its initial position and orientation.
-- [ ] Make a better tank graphic model
+- [ ] Limit the turning speed, with the full track speed available, the turn is too fast.
 
 
 ## in progress
 
+- [ ] Add radar scanning results to the sensor data.
 
 
 ## complete
 
 **Complete**
 - [x] Set up localstorage to keep the entered code across page refreshes
+- [x] Make a better tank graphic model
+- [x] Add radar controls
+- [x] Add gun controls
+- [x] Add a button to reset the tank to its initial position and orientation.
+- [x] Connect the debug output to the html block meant to hold it. I need a toggle there also that keeps only the current iteration's output in view in order to make it easier to see what's happening.
 - [x] Figure out the directions and angle-handedness in matter-js and fix my steering code to match it.
 - [x] Make shipIt reset the tank
 

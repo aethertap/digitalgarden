@@ -43,7 +43,7 @@ So, we're going to have to adjust the angles somehow. We want to end up with our
 
 If you think about turns for a bit, you'll see that there should never be a need to turn by more than $180\degree$, or $\pi$. So if you subtract *target* - *current* and get an angle larger than that, you need to make the adjustment.
 ```typescript
-if(Math.abs(target_angle - current_angle) > 2 * Math.PI) {
+if(Math.abs(target_angle - current_angle) > Math.PI) {
     // make some kind of adjustment to the angles
 }
 ```
@@ -111,6 +111,65 @@ if(turn < delta_t * max_turn_speed) {
 
 This is going to be part of your homework, but it is *very* similar to the section above about knowing when to stop. You can cruise along at max speed right up until your next move at that speed would take you too far, then scale it back so you end up in the right place. Fortunately for us, our tanks don't currently have any inertia to worry about, so they can stop in zero distance!
 
+### Resulting example code
+
+Now that the assignment's done, here's an example of what we came up with:
+
+```typescript
+import { TankAPI, Controls, Sensors } from './tank-api';
+
+const max_speed: number = 10;
+const wheel_base: number = 20;
+var steps: ((api: TankAPI) => boolean)[];
+
+function stop(controls: Controls) {
+  controls.left_track_speed = 0;
+  controls.right_track_speed = 0;
+}
+
+export function setup() {
+  steps = [
+    move_builder(300),
+  ];
+}
+
+export function loop(api: TankAPI) {
+  let controls = api.getControls();
+  console.log(`delta_t = ${api.getDeltaT()}`);
+  if (steps.length > 0) {
+    if (steps[0](api)) {
+      steps.shift();
+    };
+  }
+  api.setControls(controls);
+}
+
+
+function move_builder(distance: number): (api: TankAPI) => boolean {
+  let moved_already = 0;
+  return (api: TankAPI) => {
+    let controls = api.getControls();
+    if (Math.abs(moved_already - distance) < 0.01) {
+      stop(controls);
+      return true;
+    }
+    let speed = (distance - moved_already) / api.getDeltaT();
+    if (speed > max_speed) {
+      speed = max_speed;
+      console.log(`speed limit: ${speed}`)
+    } else {
+      console.log(`no speed limit, speed=${speed}`)
+    }
+    moved_already += speed * api.getDeltaT();
+    controls.left_track_speed = speed;
+    controls.right_track_speed = speed;
+    return false;
+  }
+}
+
+
+```
+
 ## But, what about inertia?
 
 Inertia and slipping are real-world things that we definitely have to deal with in robotics code, but they're also really complicated and difficult to predict. In order to handle this problem, there's an entire discipline called *Control System Engineering* that creates algorithms that *adapt to errors in order to correct them* rather than making perfect predictive movements. 
@@ -132,5 +191,6 @@ This kind of control has problems: it's very slow to converge on the right value
 ## Exercises
 
 - [ ] #hw (programming) Write a function in your tank code that drives your tank forward by a specific distance. You'll need to use some of that vector math  for this! [[2025-02-24\|2025-02-24]]
+- [ ] #hw (programming) Write a comment for your tank driving function that is one sentence long and answers **how**, **when**, and **why** it works and should be used. [[2025-02-24\|2025-02-24]]
 - [ ] #hw (lang) Write a one-sentence explanation about proportional control that answers **what**, **how**, and **why** that's based on the sentence kernel "it controls movement." Outline your sentence first with your answers to the three questions, then write a well-structured sentence that includes your answers. [[2025-02-24\|2025-02-24]]
 
