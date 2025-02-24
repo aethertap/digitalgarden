@@ -14,11 +14,12 @@
 
 ### Lesson-specific resource links
 
-- https://dspace.mit.edu/bitstream/handle/1721.1/119149/16-412j-spring-2005/contents/projects/1aslam_blas_repo.pdf 
-- https://medium.com/machinevision/implement-slam-from-scratch-b1fb599f40c8 
-- https://medium.com/machinevision/overview-of-slam-50b7f49903b7
+- [Overview of SLAM](https://medium.com/machinevision/overview-of-slam-50b7f49903b7)
+- [Implement SLAM from scratch](https://medium.com/machinevision/implement-slam-from-scratch-b1fb599f40c8)
+- [MIT paper about SLAM](https://dspace.mit.edu/bitstream/handle/1721.1/119149/16-412j-spring-2005/contents/projects/1aslam_blas_repo.pdf) 
 
 - ***[[projects/school-fall-2024/programming/programming-projects/tank-battle-game\|Project index: tank-battle-game]]*** 
+
 ## Concept summary and lesson
 
 
