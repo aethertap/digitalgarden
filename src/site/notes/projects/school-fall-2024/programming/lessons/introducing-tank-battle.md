@@ -90,4 +90,4 @@ This is the code that we're currently using to make the stuff you type into the 
 ## Exercises
 
 - [x] #hw (programming) Clone the [tank battle repository](https://github.com/aethertap/tank-battle), write a "drive in a square" script. [[2025-02-19\|2025-02-19]]
-- [ ] #hw (programming) Clone the [tank battle repository](https://github.com/aethertap/tank-battle), write a script to turn the tank to face straight down (90 degrees, or pi/2) [[2025-02-24\|2025-02-24]]
+- [x] #hw (programming) Clone the [tank battle repository](https://github.com/aethertap/tank-battle), write a script to turn the tank to face straight down (90 degrees, or pi/2) [[2025-02-24\|2025-02-24]]

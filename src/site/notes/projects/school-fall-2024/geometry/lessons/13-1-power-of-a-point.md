@@ -61,5 +61,5 @@ In the diagram below, $(PA)^2 = PB\times BC = PD\times DE$
 ## Homework
 
 
-- [ ] #hw (geom-gr10) 13.1 What is Power of a Point?  (p. 340) [[2025-02-26\|2025-02-26]] 
+- [x] #hw (geom-gr10) 13.1 What is Power of a Point?  (p. 340) [[2025-02-26\|2025-02-26]]
 

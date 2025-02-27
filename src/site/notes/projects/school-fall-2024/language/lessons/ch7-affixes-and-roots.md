@@ -56,8 +56,8 @@ ACE Response: Kai is the most interesting character in *Travelers' Gate* because
 
 - [x] #hw (lang) ACE Response: Who is the best character in the Cradle Series? Answer using Compare and Contrast ([here's a link to the lesson](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/ch7-affixes-and-roots))) [[2025-02-21\|2025-02-21]]
 - [x] #hw (lang) List all of the affixes and roots that you can find in the word Hippopotomonstrosesquippedaliophobia [[2025-02-21\|2025-02-21]]
-- [ ] #hw (lang) BFLAN 7.1, 7.2 [[2025-02-24\|2025-02-24]]
-- [ ] #hw (lang) BFLAN 7.3, 7.4 [[2025-02-25\|2025-02-25]]
-- [ ] #hw (lang) BFLAN 7.5, 7.6 [[2025-02-26\|2025-02-26]]
-- [ ] #hw (lang) BFLAN 7.7 [[2025-02-27\|2025-02-27]]
+- [x] #hw (lang) BFLAN 7.1, 7.2 [[2025-02-24\|2025-02-24]]
+- [x] #hw (lang) BFLAN 7.3, 7.4 [[2025-02-25\|2025-02-25]]
+- [x] #hw (lang) BFLAN 7.5, 7.6 [[2025-02-26\|2025-02-26]]
+- [x] #hw (lang) BFLAN 7.7 [[2025-02-27\|2025-02-27]]
 - [ ] #hw (lang) Read [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) for discussion in class [[2025-02-27\|2025-02-27]]

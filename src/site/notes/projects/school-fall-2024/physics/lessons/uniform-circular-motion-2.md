@@ -25,6 +25,9 @@
 - How do you make a new instance of a class in typescript? 
 - Give an example of an equation with no solutions. 
 
+- gr7 [lightning:: 2]
+- gr10 [lightning:: 3]
+
 
 ## Lesson content with examples
 
@@ -54,4 +57,4 @@ $
 
 ## Homework
 
-- [ ] #hw Work on the physics assignment that's due Friday! **Don't wait** [[2025-02-24\|2025-02-24]]
+- [x] #hw Work on the physics assignment that's due Friday! **Don't wait** [[2025-02-24\|2025-02-24]]

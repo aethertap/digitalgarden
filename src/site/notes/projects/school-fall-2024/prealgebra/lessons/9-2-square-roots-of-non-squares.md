@@ -101,4 +101,4 @@ Let our number be $a$, and let the "adjustment" to make easy numbers be $b$.
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 9.2 Square Roots of Non-square Integers (p. 358) [[2025-02-24\|2025-02-24]] 
+- [x] #hw (math) (gr7) 9.2 Square Roots of Non-square Integers (p. 358) [[2025-02-24\|2025-02-24]]

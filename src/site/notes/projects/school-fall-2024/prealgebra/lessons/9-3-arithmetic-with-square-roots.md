@@ -67,10 +67,10 @@ $$
 - [ ] For what integer n is $\sqrt{4}\cdot \!\sqrt{25} = \!\sqrt{n}$  
 - [ ] Is $\sqrt{5^2 + 12^2}=5+12$?  
 - [ ] Is $\sqrt{4} + \sqrt{9} = \sqrt{13}$?   
-- [ ] Prove that $\sqrt{a}+\sqrt{b} \ne \sqrt{a+b}  
+- [ ] Prove that $\sqrt{a}+\sqrt{b} \ne \sqrt{a+b}$ 
 
 
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 9.3 Arithmetic with Square Roots (p. 363) [[2025-02-26\|2025-02-26]] 
+- [x] #hw (math) (gr7) 9.3 Arithmetic with Square Roots (p. 363) [[2025-02-26\|2025-02-26]]

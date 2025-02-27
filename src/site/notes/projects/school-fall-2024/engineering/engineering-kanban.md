@@ -21,11 +21,13 @@
 ## Quick tasks
 
 - [ ] #teacher Add [the engineer guy's youtube channel](https://www.youtube.com/@engineerguyvideo/playlists) to the engineering curriculum [[2025-02-05\|2025-02-05]]
+- [ ] Fix the caster wheel mount so that the screws don't interfere with the turning of the caster.
 
 
 ## In-progress
 
 - [ ] [[projects/school-fall-2024/engineering/engineering-projects/photo-gate-project\|photo-gate-project]] to build a set of photo gates for our physics lessons.
+- [ ] Connect the IR obstacle sensors to the board and add them to the control loop. Write code to test each sensor one at a time to avoid interference.
 
 
 ## Complete

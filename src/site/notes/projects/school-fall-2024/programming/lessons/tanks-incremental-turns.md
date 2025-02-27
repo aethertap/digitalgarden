@@ -190,7 +190,7 @@ This kind of control has problems: it's very slow to converge on the right value
 
 ## Exercises
 
-- [ ] #hw (programming) Write a function in your tank code that drives your tank forward by a specific distance. You'll need to use some of that vector math  for this! [[2025-02-24\|2025-02-24]]
-- [ ] #hw (programming) Write a comment for your tank driving function that is one sentence long and answers **how**, **when**, and **why** it works and should be used. [[2025-02-24\|2025-02-24]]
-- [ ] #hw (lang) Write a one-sentence explanation about proportional control that answers **what**, **how**, and **why** that's based on the sentence kernel "it controls movement." Outline your sentence first with your answers to the three questions, then write a well-structured sentence that includes your answers. [[2025-02-24\|2025-02-24]]
+- [x] #hw (programming) Write a function in your tank code that drives your tank forward by a specific distance. You'll need to use some of that vector math  for this! [[2025-02-24\|2025-02-24]]
+- [x] #hw (programming) Write a comment for your tank driving function that is one sentence long and answers **how**, **when**, and **why** it works and should be used. [[2025-02-24\|2025-02-24]]
+- [x] #hw (lang) Write a one-sentence explanation about proportional control that answers **what**, **how**, and **why** that's based on the sentence kernel "it controls movement." Outline your sentence first with your answers to the three questions, then write a well-structured sentence that includes your answers. [[2025-02-24\|2025-02-24]]
 

@@ -75,4 +75,4 @@ Since we have a tank with sensors now, we might consider having some other kinds
 
 ## Exercises
 
-- [ ] #hw (programming) Make your tank drive around the arena using the radar to sense where the walls are. [[2025-02-26\|2025-02-26]]
+- [x] #hw (programming) Make your tank drive around the arena using the radar to sense where the walls are. [[2025-02-26\|2025-02-26]]
