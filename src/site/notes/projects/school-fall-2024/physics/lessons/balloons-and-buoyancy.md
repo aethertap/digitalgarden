@@ -92,7 +92,7 @@ This shows up all the time when we're working with gases and liquids. We talk ab
 
 ## Homework
 
-
-- [ ] #hw (physics) If a balloon holds 65000 cubit feet of air, and every 100 degree F increase in temperature decreases the density of a cubic foot by 7 grams, how hot does the air in the envelope need to be in order to lift 200 kg? [[2025-03-03\|2025-03-03]]
-- [ ] #hw (physics) How much water would a ship have to displace in order to carry 1000 metric tons of cargo? Water has a density of one gram per cubic centimeter. [[2025-03-03\|2025-03-03]]
-- [ ] #hw (physics) Add answers to *how*, *when*, and *what* to this sentence kernel to make a single, grammatically-correct sentence: "Things float by displacing fluid." [[2025-03-03\|2025-03-03]]
+- [ ] #hw (physics) Do the exercises in our lesson at [balloons-and-buoyancy](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/balloons-and-buoyancy) [[2025-03-03\|2025-03-03]]
+- [ ] #hw (physics) If a balloon holds 65000 cubit feet of air, and every 100 degree F increase in temperature decreases the density of a cubic foot by 7 grams, how hot does the air in the envelope need to be in order to lift 200 kg? 
+- [ ] #hw (physics) How much water would a ship have to displace in order to carry 1000 metric tons of cargo? Water has a density of one gram per cubic centimeter. 
+- [ ] #hw (physics) Add answers to *how*, *when*, and *what* to this sentence kernel to make a single, grammatically-correct sentence: "Things float by displacing fluid." 

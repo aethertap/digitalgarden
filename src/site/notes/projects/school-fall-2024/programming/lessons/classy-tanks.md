@@ -114,4 +114,8 @@ class Gar {
 
 ## Exercises
 
-- [ ] #hw (programming) Wrap your current tank code up inside a class, so that each function is a method and all of the global variables are data members. Make your setup function do nothing more than *create a tank instance and return it*. Take a look at [classy-tanks](https://school.ginosterous.com/projects/school-fall-2024/programming/lessons/classy-tanks) for details on the expected interface. [[2025-03-03\|2025-03-03]]
+- [ ] #hw (programming) Do the code tasks under **Exercises** in our lesson at [classy-tanks](https://school.ginosterous.com/projects/school-fall-2024/programming/lessons/classy-tanks) [[2025-03-03\|2025-03-03]]
+
+1. Wrap your current tank code up inside a class, so that each function is a method and all of the global variables are data members. 
+2. Rename the `loop` function to be called `update` in the new class you made.
+3. Make your setup function do nothing more than *create a tank instance and return it*.

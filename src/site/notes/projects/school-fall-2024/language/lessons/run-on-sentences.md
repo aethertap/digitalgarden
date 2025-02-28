@@ -51,9 +51,10 @@ Fix these:
 - [Youtube search for "comma splice"](https://www.youtube.com/results?search_query=comma%20splice) 
 - [Youtube search for "How to fix run-on sentences."](https://www.youtube.com/results?search_query=How%20to%20fix%20run-on%20sentences.) 
 
-## Review Questions 
+## Homework
 
-- [ ] #hw (lang) I went to the store and I bought milk and I came home. [[2025-03-03\|2025-03-03]]
-- [ ] #hw (lang) I'm in college, I study chemistry. [[2025-03-03\|2025-03-03]]
-- [ ] #hw (lang) I love this new Sinna Night Core album it's like eating a whole loaf of bread. [[2025-03-03\|2025-03-03]]
-- [ ] #hw (lang) Participants could leave the study at any time, they needed to indicate their preference. [[2025-03-03\|2025-03-03]]
+- [ ] #hw (lang) Do the four sentence exercises at [run-on-sentences](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/run-on-sentences) [[2025-03-03\|2025-03-03]]
+- [ ] #hw (lang) I went to the store and I bought milk and I came home. 
+- [ ] #hw (lang) I'm in college, I study chemistry. 
+- [ ] #hw (lang) I love this new Sinna Night Core album it's like eating a whole loaf of bread. 
+- [ ] #hw (lang) Participants could leave the study at any time, they needed to indicate their preference. 
