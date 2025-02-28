@@ -65,8 +65,8 @@ Temperature is just the way we measure the kinetic energy of the particles that 
 Absolute zero is the lowest possible temperature for matter, because temperature measures molecular motion, and all motion stops at zero. We can record this temperature in any scale you like:
 
 - In Kelvins, absolute zero is just zero
-- In Celsius, absolute zero is at -273.15$\degree$
-- In Fahrenheit, absolute zero is at -459.67$\degree$
+- In Celsius, absolute zero is at -273.15$\degree$C
+- In Fahrenheit, absolute zero is at -459.67$\degree$F
 
 ### What is pressure, exactly?
 

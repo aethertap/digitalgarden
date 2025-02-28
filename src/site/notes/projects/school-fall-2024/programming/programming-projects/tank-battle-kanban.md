@@ -11,6 +11,7 @@
 ## ready to start
 
 - [ ] Limit the turning speed, with the full track speed available, the turn is too fast.
+- [ ] Put error messages into the game's output area so they are visible.
 
 
 ## in progress
