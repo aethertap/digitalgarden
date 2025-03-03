@@ -60,4 +60,4 @@ ACE Response: Kai is the most interesting character in *Travelers' Gate* because
 - [x] #hw (lang) BFLAN 7.3, 7.4 [[2025-02-25\|2025-02-25]]
 - [x] #hw (lang) BFLAN 7.5, 7.6 [[2025-02-26\|2025-02-26]]
 - [x] #hw (lang) BFLAN 7.7 [[2025-02-27\|2025-02-27]]
-- [ ] #hw (lang) Read [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) for discussion in class [[2025-02-27\|2025-02-27]]
+- [x] #hw (lang) Read [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) for discussion in class [[2025-02-27\|2025-02-27]]

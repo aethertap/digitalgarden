@@ -9,10 +9,6 @@
 
 ## Scheduled
 
-- [x] Affixes and Roots (p. 96) [[2025-02-17\|2025-02-17]]
-    - 7 Exercises p. 101-111
-- [ ] Reference Materials (p. 112) [[2025-02-24\|2025-02-24]]
-    - 8 Exercises p. 116-130
 - [ ] Figurative Language (p. 131) [[2025-03-03\|2025-03-03]]
     - 10 Exercises p. 136-146
 - [ ] Word Choice (p. 150) [[2025-03-10\|2025-03-10]]
@@ -37,6 +33,8 @@
 
 ## In-progress
 
+- [ ] Reference Materials (p. 112) [[2025-02-24\|2025-02-24]]
+    - 8 Exercises p. 116-130
 
 
 ## To-grade
@@ -47,6 +45,8 @@
 ## Done
 
 **Complete**
+- [x] Affixes and Roots (p. 96) [[2025-02-17\|2025-02-17]]
+    - 7 Exercises p. 101-111
 - [x] Defining from Context (p. 82) [[2025-02-10\|2025-02-10]]
     - 5 Exercises p. 85-95
 - [x] Verbals (p. 66) [[2025-02-03\|2025-02-03]]

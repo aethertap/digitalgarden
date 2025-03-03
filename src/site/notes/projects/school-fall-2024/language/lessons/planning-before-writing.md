@@ -30,7 +30,7 @@ From the ACE book: 8 - Real-world connections
 
 ## Homework 
 
-- [ ] #hw (lang) Do the numbered exercises (1-3) under **Homework** at [planning-before-writing](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/planning-before-writing) [[2025-02-28\|2025-02-28]]
+- [x] #hw (lang) Do the numbered exercises (1-3) under **Homework** at [planning-before-writing](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/planning-before-writing) [[2025-02-28\|2025-02-28]]
 
 1. If you were going to write a paragraph for a kindergarten class about the industrial revolution, how would it be different from one written for a college entrance exam?
 2. You've been asked to present some of your work at a job interview by writing a short summary of it. What is your purpose for this piece of writing? How is that going to change what you write from what you'd write for technical documentation of the same work?

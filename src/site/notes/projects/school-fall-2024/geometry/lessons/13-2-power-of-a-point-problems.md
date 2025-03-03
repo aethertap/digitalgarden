@@ -42,6 +42,6 @@
 ## Homework
 
 
-- [ ] #hw (geom-gr10) 13.2 Power of a Point Problems  (p. 345) (gr10) [[2025-02-28\|2025-02-28]] 
+- [x] #hw (geom-gr10) 13.2 Power of a Point Problems  (p. 345) (gr10) [[2025-02-28\|2025-02-28]]
 
 

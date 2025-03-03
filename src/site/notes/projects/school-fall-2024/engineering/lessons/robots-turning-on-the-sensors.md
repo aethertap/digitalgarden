@@ -51,4 +51,4 @@ Let's get these bots driving around on some lines! It's about time!
 ## Practice
 
 - [ ] #hw (lang) Think about how you would make a shroud for the IR sensor to prevent scattered light interference. Use an ACE response format to explain why shrouds would be hard to use in real-life.
-- [ ] #hw (engr) Write a function to scan through your sensors so that only one is on at a time. Experiment with the timing to see how fast you can go.  [[2025-02-27\|2025-02-27]]
+- [x] #hw (engr) Write a function to scan through your sensors so that only one is on at a time. Experiment with the timing to see how fast you can go.  [[2025-02-27\|2025-02-27]]

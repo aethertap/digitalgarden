@@ -17,7 +17,7 @@
 
 
 
-- [ ] #hw (hist) Read history  Read section 5.7: Economic Developments and Innovations pages 325–331 [[2025-02-27\|2025-02-27]] 
+- [x] #hw (hist) Read history  Read section 5.7: Economic Developments and Innovations pages 325–331 [[2025-02-27\|2025-02-27]]
 
 ### Lesson-specific resource links
 

@@ -94,4 +94,4 @@ The common mistakes are:
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 10.1 Measuring Angles (p. 378) [[2025-02-28\|2025-02-28]] 
+- [x] #hw (math) (gr7) 10.1 Measuring Angles (p. 378) [[2025-02-28\|2025-02-28]]

@@ -90,5 +90,5 @@ From that, we can figure out a whole bunch of neat stuff.
 - [x] #hw (physics) Brain teaser: IF $\text{work }=\text{force}\times\text{distance}$, and you tie a tennis ball to a string and spin it in space so it never stops, is the string doing work on the tennis ball? If so, where does the energy come from? [[2025-02-19\|2025-02-19]]
 - [x] #hw (physics) Do the [centripetal force simulation](https://www.physicsclassroom.com/Physics-Interactives/Circular-and-Satellite-Motion/Uniform-Circular-Motion) [[2025-02-19\|2025-02-19]]
 - [x] #hw (physics) Do the [uniform circular motion concept checker](https://www.physicsclassroom.com/Concept-Checkers/Interactives/Uniform-Circular-Motion/Concept-Checker) in Sudden Death mode [[2025-02-19\|2025-02-19]]
-- [ ] #hw (physics) [CG5 mission - circular motion](https://www.physicsclassroom.com/mop/Circular-and-Satellite-Motion/Mathematical-Analysis) [[2025-02-28\|2025-02-28]]
+- [x] #hw (physics) [CG5 mission - circular motion](https://www.physicsclassroom.com/mop/Circular-and-Satellite-Motion/Mathematical-Analysis) [[2025-02-28\|2025-02-28]]
 - [x] #hw (physics) [Forces and Free body diagrams for circular motion](https://www.physicsclassroom.com/Concept-Builders/Circular-and-Satellite-Motion/Forces-In-Circles) [[2025-02-26\|2025-02-26]]
