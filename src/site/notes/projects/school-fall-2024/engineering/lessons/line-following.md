@@ -136,9 +136,9 @@ public:
 
 ## Homework
 
-- [ ] #hw Do the homework tasks in [the line-following lesson](https://school.ginosterous.com/projects/school-fall-2024/engineering/lessons/line-following) [[2025-03-06\|2025-03-06]]
+- [ ] #hw Do the homework tasks in [the line-following lesson](https://school.ginosterous.com/projects/school-fall-2024/engineering/lessons/line-following) [[2025-03-11\|2025-03-11]]
 
 1. Write code to implement the simple 4-step steering algorithm from the lesson
-2. Add code to keep track of which side the track was on when it was lost. You'll need to have a default direction to spin also, in case the side sensors just didn't pick it up at all.
+2. Implement a state machine as described above to control your robot's movements.
 3. Experiment with your bot's speed controls until you find the slowest speed you can use and still have reliable control.
 4. Make a track with electrical tape and pieces of paper and try to get your bot to follow it. You'll want your bot to move *slowly* because it's very easy to lose the track at the speeds they've been moving.
