@@ -77,6 +77,6 @@ Now we have three linear terms adding to a constant. In 3d, the plane is what we
 ## Homework
 
 
-- [ ] #hw (geom-gr10) 14.1 Planes  (p. 356) (gr10) [[2025-03-03\|2025-03-03]] 
+- [x] #hw (geom-gr10) 14.1 Planes  (p. 356) (gr10) [[2025-03-03\|2025-03-03]]
 
 

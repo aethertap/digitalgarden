@@ -114,7 +114,7 @@ class Gar {
 
 ## Exercises
 
-- [ ] #hw (programming) Do the code tasks under **Exercises** in our lesson at [classy-tanks](https://school.ginosterous.com/projects/school-fall-2024/programming/lessons/classy-tanks) [[2025-03-03\|2025-03-03]]
+- [x] #hw (programming) Do the code tasks under **Exercises** in our lesson at [classy-tanks](https://school.ginosterous.com/projects/school-fall-2024/programming/lessons/classy-tanks) [[2025-03-03\|2025-03-03]]
 
 1. Wrap your current tank code up inside a class, so that each function is a method and all of the global variables are data members. 
 2. Rename the `loop` function to be called `update` in the new class you made.

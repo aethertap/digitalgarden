@@ -5,11 +5,8 @@
 
 ## Planned
 
-- [ ] Physics - make an experiment for springs, show Hooke's law and talk about periodic oscillation.
-- [ ] Robotics - Build a line maze big enough for the gigantic robots we have. Probably needs to be a line of papers taped together with a fat black stripe running down them, laid out all around the workshop.
 - [ ] Robotics - Have a time-trial race to see whose bot can navigate the track fastest and with the least errors.
 - [ ] Coding - Outline and schedule stuff from Think Like a programmer
-- [ ] Physics - Have kids measure spring constant for different springs.
 
 
 ## Ready to start
@@ -20,16 +17,15 @@
 
 ## In progress
 
-- [ ] #teacher Decide on what content I want to use from [commonlit.org](https://www.commonlit.org) for literature for both kids [[2025-02-14\|2025-02-14]]
-
-
-## Assigned
-
+- [ ] Robotics - Build a line maze big enough for the gigantic robots we have. Probably needs to be a line of papers taped together with a fat black stripe running down them, laid out all around the workshop.
 
 
 ## Complete
 
 **Complete**
+- [x] #teacher Decide on what content I want to use from [commonlit.org](https://www.commonlit.org) for literature for both kids [[2025-02-14\|2025-02-14]]
+- [x] Physics - Have kids measure spring constant for different springs.
+- [x] Physics - make an experiment for springs, show Hooke's law and talk about periodic oscillation.
 - [x] [[projects/school-fall-2024/prealgebra/lessons/equations-and-inequalities\|equations-and-inequalities]] - gr7 needs to practice order of operations with variable expressions. Do problems from section 5.3.
 - [x] Physics - outline remainder of textbook with detailed headings and a list of terminology for flashcards
 - [x] Physics - introduce motion diagrams (Five easy lessons p. 77

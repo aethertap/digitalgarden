@@ -53,7 +53,7 @@ Fix these:
 
 ## Homework
 
-- [ ] #hw (lang) Do the four sentence exercises at [run-on-sentences](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/run-on-sentences) [[2025-03-03\|2025-03-03]]
+- [x] #hw (lang) Do the four sentence exercises at [run-on-sentences](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/run-on-sentences) [[2025-03-03\|2025-03-03]]
 - [ ] #hw (lang) I went to the store and I bought milk and I came home. 
 - [ ] #hw (lang) I'm in college, I study chemistry. 
 - [ ] #hw (lang) I love this new Enema Night Core album it's like eating a whole loaf of bread. 

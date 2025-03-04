@@ -48,4 +48,4 @@ When you're dealing with problems involving angles and lines, *adding extra para
 
 ## Homework
 
-- [ ] #hw (math) (gr7) 10.2 Parallel Lines (p. 392) [[2025-03-03\|2025-03-03]] 
+- [x] #hw (math) (gr7) 10.2 Parallel Lines (p. 392) [[2025-03-03\|2025-03-03]]

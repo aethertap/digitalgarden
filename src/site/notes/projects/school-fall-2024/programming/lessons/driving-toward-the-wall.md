@@ -36,4 +36,4 @@ You can either just take note of the direction and distance and move directly th
 
 ## Exercises
 
-- [ ] #hw (programming) Update your tank code so that it uses a Tank class that gets created in the setup function. Then change the code so that it drives toward the first wall it sees on the radar, and stops when it's 30 units away. [[2025-03-03\|2025-03-03]]
+- [x] #hw (programming) Update your tank code so that it uses a Tank class that gets created in the setup function. Then change the code so that it drives toward the first wall it sees on the radar, and stops when it's 30 units away. [[2025-03-03\|2025-03-03]]

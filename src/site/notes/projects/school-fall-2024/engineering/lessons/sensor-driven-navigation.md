@@ -41,5 +41,5 @@ The software approach would use a few lines of arduino code to decide when to tu
 ## Practice
 
 
-- [ ] #hw (engr) Add a pair of output LEDs to your bot, one green and one red. The red is on when the line is not detected, and the green is on when any sensor detects the line.  [[2025-03-04\|2025-03-04]]
-- [ ] #hw (engr) Write the code to control the output LEDs  [[2025-03-04\|2025-03-04]]
+- [x] #hw (engr) Add a pair of output LEDs to your bot, one green and one red. The red is on when the line is not detected, and the green is on when any sensor detects the line.  [[2025-03-04\|2025-03-04]]
+- [x] #hw (engr) Write the code to control the output LEDs  [[2025-03-04\|2025-03-04]]

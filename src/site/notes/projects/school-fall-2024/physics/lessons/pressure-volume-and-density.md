@@ -25,6 +25,8 @@
 - What is the SI prefix for *hundredth*? 
 - What is absolute zero in degrees Celsius? 
 
+- gr7: [lightning:: 1]
+- gr10: [lightning:: 4]
 
 ## Demonstration
 
@@ -37,6 +39,8 @@
 - thermal energy 
 - Temperature - measure of the average internal kinetic energy of each particle of matter 
 - Celsius, Fahrenheit, and Kelvin conversions 
+
+- [ ] #hw (physics) https://www.snexplores.org/article/brain-computer-implant-voice-ai [[2025-03-05\|2025-03-05]]
 
 ## Lesson content with examples
 
