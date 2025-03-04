@@ -51,6 +51,89 @@ A few of the states probably require some explanation:
 - **Stop**: A state with no exit. This is for when we have lost the line and want the bot to give up and wait for help
 - **Spin360**: This is for when we've lost the line and we don't know which side to look on - just spin a full revolution and follow any line you find. It might be backwards, but what can you do?
 
+### Managing states in c++
+
+We want our `Robot` to be the state machine. It should have all of the states that it needs, and the state instances should just tell which one to change to when necessary. One complication in C++ is that memory is NOT freed up automatically - if you keep calling `new`, you'll run out. So, let's avoid that.
+
+We can name and index our states using an  `enum`:
+
+```c++
+enum StateName {
+    WaitToStart=0,
+    DriveStraight,
+    VeerLeft,
+    VeerRight,
+    SpinLeft,
+    SpinRight,
+    Spin,
+    Stop,
+    NumberOfStates
+};
+```
+
+Then, those are just names for increasing integer counting numbers: For example, `WaitToStart` is 0, `VeerLeft` is 2, and the rest are numbered according to where they show up in the list. So now we can use them for indexes into an array of State objects:
+
+```c++
+class Robot {
+public:
+
+    State* my_states[NumberOfStates];
+    StateName current_state;
+    Robot() {
+        this->setup();
+    }
+
+    void setup(){
+        this->current_state = StateName::WaitToStart;
+        my_states[WaitToStart] = new WaitToStartState(5000 /*delay*/);
+        my_states[DriveStraight] = new DriveStraightState(0.3 /*speed*/);
+        my_states[VeerLeft] = new VeerLeftState(0.1 /*turn rate*/);
+        my_states[VeerRight] = new VeerRightState(0.1 /*turn rate*/);
+        // ... do the rest of the states
+    }
+
+    void update() {
+        StateName next_state = this->my_states[this->current_state]->update(this);
+        if(next_state != this->current_state) {
+            this->states[this->current_state]->leave();
+            this->states[next_state]->enter();   
+            this->current_state = next_state;
+        }
+    }
+```
+
+But, what are all of those `DoSomethingStates`? They would be subclasses of a `State` class that has a simple interface.
+
+```c++
+class State {
+    // I want a function that will update the current state of my bot, and return the name of a new state if a change is needed.
+    virtual StateName update(Robot*) = 0;
+}
+
+class WaitToStartState: public State {
+public:
+    int start_ms;
+    int delay_ms;
+    WaitToStartState(int delay_ms) {
+        this->delay_ms = delay_ms;
+        this->start_ms = -1;
+    }        
+    
+    StateName update(Robot* _robot) {
+        if(this->start_ms < 0) { // we haven't initialized it yet!
+            start_ms = millis();
+        }
+        if(millis() - this->start_ms >= delay_ms) {
+            return StateName::DriveStraight;
+        } else {
+            return StateName::WaitToStart;
+        }
+    }
+}
+```
+
+
+
 ## Homework
 
 - [ ] #hw Do the homework tasks in [the line-following lesson](https://school.ginosterous.com/projects/school-fall-2024/engineering/lessons/line-following) [[2025-03-06\|2025-03-06]]
