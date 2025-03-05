@@ -33,7 +33,7 @@
 
 ## In-progress
 
-- [ ] Reference Materials (p. 112) [[2025-02-24\|2025-02-24]]
+- [x] Reference Materials (p. 112) [[2025-02-24\|2025-02-24]]
     - 8 Exercises p. 116-130
 
 

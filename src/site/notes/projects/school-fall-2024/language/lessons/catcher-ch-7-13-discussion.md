@@ -50,4 +50,4 @@ We have an essay coming up, so it's time to start thinking about topics and maki
 
 - [x] #teacher Read catcher chapters 1-6, fill in review questions and other content [[2025-02-03\|2025-02-03]]
 - [x] #teacher Read catcher chapterss 14-20 and fill in [[projects/school-fall-2024/language/lessons/catcher-ch-14-20-discussion\|catcher-ch-14-20-discussion]] [[2025-02-10\|2025-02-10]]
-- [ ] #teacher Read catcher chapters 21-end and fill in [[projects/school-fall-2024/language/lessons/catcher-ch-21-26-discussion\|catcher-ch-21-26-discussion]] [[2025-02-17\|2025-02-17]]
+- [x] #teacher Read catcher chapters 21-end and fill in [[projects/school-fall-2024/language/lessons/catcher-ch-21-26-discussion\|catcher-ch-21-26-discussion]] [[2025-02-17\|2025-02-17]]

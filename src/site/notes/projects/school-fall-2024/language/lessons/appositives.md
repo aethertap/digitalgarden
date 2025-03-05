@@ -39,4 +39,4 @@ An appositive is a noun, or a phrase or clause that works like a noun, that is u
 - [x] #hw (lang) What is the appositive in this sentence? Marcus Aurelius, a Roman Emperor, wrote much of what we use in stoic philosophy. [[2025-02-27\|2025-02-27]]
 - [x] #hw (lang) Appositive or relative clause? Gus, whom everyone knows is a good boy, loves his broccoli. [[2025-02-27\|2025-02-27]]
 - [x] #hw (lang) Add an appositive to improve the sentence by explaining more about Louis XIV: Louis XIV built the palace of Versailles as a symbol of royal power. [[2025-02-27\|2025-02-27]]
-- [ ] #hw (lang) Brainstorm three different appositives that you might use in a sentence about the Triangular Trade. [[2025-03-04\|2025-03-04]]
+- [x] #hw (lang) Brainstorm three different appositives that you might use in a sentence about the Triangular Trade. [[2025-03-04\|2025-03-04]]

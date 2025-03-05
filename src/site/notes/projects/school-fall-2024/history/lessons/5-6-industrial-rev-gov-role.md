@@ -17,8 +17,8 @@
 
 
 
-- [ ] #hw (hist) Read history  Read section 5.7: Economic Developments and Innovations pages 325–331 [[2025-03-04\|2025-03-04]] 
-- [ ] #hw (hist) Read history  Read section 5.8: Reactions to the Industrial Economy pages 332–342 [[2025-03-04\|2025-03-04]] 
+- [x] #hw (hist) Read history  Read section 5.7: Economic Developments and Innovations pages 325–331 [[2025-03-04\|2025-03-04]]
+- [x] #hw (hist) Read history  Read section 5.8: Reactions to the Industrial Economy pages 332–342 [[2025-03-04\|2025-03-04]]
 
 ### Lesson-specific resource links
 

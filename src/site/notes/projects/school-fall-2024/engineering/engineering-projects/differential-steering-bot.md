@@ -43,6 +43,11 @@ We are building a pair of line-following robots starting from scratch. The goal 
 - Redesign required on wheel attachment due to impossibility of assembly initially (no way to reach the screws)
 - Through-hole mounts for servos are difficult to 3D print due to large bridging requirements over top of hole, had to make big adjustment to account for that
 - Several problems due to poor bed adhesion on the printer, cause isn't certain but flipping PEI plate has resolved it for now.
+- We seem to have a problem with either the quality of the fitech fs90r continuous rotation servos
+    - They are not still at any value near 90
+    - Their rotation is inconsistent
+    - According to the docs, they should have no motion if the pulse width is 1.5 ms, so maybe we should try servo.writeMicroseconds(1500), and use our map function to manually map the -1...1 interval of speed into the 1000 ... 2000 range of microsecond timings.
+    - I am wondering if continuously writing the value with the servo is causing it to reset its internal timing and messing up the pulse interval and width
 
 ## Next steps
 

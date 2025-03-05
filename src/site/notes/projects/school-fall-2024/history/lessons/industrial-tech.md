@@ -48,4 +48,4 @@
     - Development of interior regions: The areas of land far from major rivers and seaports could now be reached and developed, opening much more space 
     - Increased trade and migration: Goods could be moved farther, faster, and into new places. People moved to make their lives better (more money, opportunities, etc).
 
-- [ ] #hw (hist) Write a one-paragraph overview of the changes in technology and living conditions during the first and second industrial revolutions.  [[2025-03-04\|2025-03-04]]
+- [x] #hw (hist) Write a one-paragraph overview of the changes in technology and living conditions during the first and second industrial revolutions.  [[2025-03-04\|2025-03-04]]
