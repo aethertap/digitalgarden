@@ -15,7 +15,7 @@
 - [APWorld Timeline (fiveable)](https://library.fiveable.me/ap-world/faqs/ultimate-ap-world-timeline/blog/7wbnilPDIokeXB7TZ9e3)
 
 
-- [ ] #hw (hist) Read history  Read section 5.9: Society and the Industrial Age pages 343–350 [[2025-03-06\|2025-03-06]] 
+- [x] #hw (hist) Read history  Read section 5.9: Society and the Industrial Age pages 343–350 [[2025-03-06\|2025-03-06]]
 
 ### Lesson-specific resource links
 
@@ -39,5 +39,5 @@
 
 ## Homework
 
-- [ ] #hw (hist) ACE Response: What made communism attractive to people of the late 19th and early 20th century? [[2025-03-06\|2025-03-06]]
-- [ ] #hw (hist) Because, But, So: "Socialism changed the way people thought of property, ..." {because ..., but ...., so ....} [[2025-03-06\|2025-03-06]]
+- [x] #hw (hist) ACE Response: What made communism attractive to people of the late 19th and early 20th century? [[2025-03-06\|2025-03-06]]
+- [ ] #hw (hist) Because, But, So: "Socialism changed the way people thought of property, ..." {because ..., but ...., so ....} [[2025-03-10\|2025-03-10]]
