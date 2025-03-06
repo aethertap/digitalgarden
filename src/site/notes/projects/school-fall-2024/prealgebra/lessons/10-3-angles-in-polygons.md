@@ -56,4 +56,4 @@ Polygons are composed of *vertices* (singular: *vertex*), and *sides*. Each pair
 
 ## Homework
 
-- [ ] #hw (math) 10.3 Angles in Polygons (p. 397) [[2025-03-05\|2025-03-05]]
+- [x] #hw (math) 10.3 Angles in Polygons (p. 397) [[2025-03-05\|2025-03-05]]

@@ -25,7 +25,8 @@
 - Draw a circuit that uses a *pull-up* resistor to determine whether a switch is closed or open. 
 - What is the ideal gas law? 
 
-
+gr7: [lightning:: 5]
+gr10: [lightning::2]
 
 ## Concept summary and connections
 

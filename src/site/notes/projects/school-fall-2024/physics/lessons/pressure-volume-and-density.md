@@ -40,7 +40,7 @@
 - Temperature - measure of the average internal kinetic energy of each particle of matter 
 - Celsius, Fahrenheit, and Kelvin conversions 
 
-- [ ] #hw (physics) https://www.snexplores.org/article/brain-computer-implant-voice-ai [[2025-03-05\|2025-03-05]]
+- [x] #hw (physics) https://www.snexplores.org/article/brain-computer-implant-voice-ai [[2025-03-05\|2025-03-05]]
 
 ## Lesson content with examples
 

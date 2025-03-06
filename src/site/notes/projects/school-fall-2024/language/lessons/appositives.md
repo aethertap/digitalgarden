@@ -19,10 +19,6 @@
 - Strategies for topic and conclusion sentences
 - Appositive vs relative clauses
 
-## Lesson, Readings, and Examples
-
-
-
 ### Appositives 
 
 An appositive is a noun, or a phrase or clause that works like a noun, that is used to further explain another noun. The only complication you'll likely run into is recognizing the difference between an appositive and a *relative clause*. So, here's the quick explanation:
@@ -31,6 +27,12 @@ An appositive is a noun, or a phrase or clause that works like a noun, that is u
 - An appositive is almost always set off with commas and comes after the noun.
 - A relative clause starts with a *relative pronoun*: who, which, that, whose whom. Appositives do *not*
 - A relative clause has a verb, appositives usually don't.
+
+### Examples:
+
+- Marcus Aurelius, **a Roman Emperor famous for his writings on stoic philosophy**, ruled from A.D 161 to 180.
+- Gus, **the greatest of all dogs**, is not feeling well.
+- **As the largest commercial bottle**, a Magnum wine bottle is as tall and heavy as a person!
 
 ## Review Questions 
 

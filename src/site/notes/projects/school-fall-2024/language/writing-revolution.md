@@ -27,6 +27,18 @@ Instead of working on detailed syntactic knowledge of parts of speech, this appr
     - Convert a string of sentences into a preposterous run-on and put it on the board every day. 
     - Students split it into independent sentences to correct the run-on
     - Try to ID the typical joining syntax they use and have them search for that (comma, "and", etc) to try to self-correct run-ons
+
+## Sentence Types
+
+Make sure students can use and identify all four sentence types:
+
+- Declarative
+- Imperative
+- Interrogative
+- Exclamatory
+
+Varying the sentence types among these four will help add interest to a piece of writing, and possibly generate some new ideas for how to convey the intended message.  
+ 
 ## Sentence expansion
 
 In this class of exercise, you give them a *kernel sentence*, which is a technically complete sentence that's stripped to the bare essence of what's required. You also give them a few *question words* (who, what, where, when, why, how). Their job is to turn the sentence kernel into a much more developed sentence that answers the question provided question words for the reader.

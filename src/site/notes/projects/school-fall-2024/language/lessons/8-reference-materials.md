@@ -66,10 +66,10 @@ These are quick tutorial videos about how to write citations in various styles. 
 
 - [x] #hw (lang) Watch the three youtube videos linked under "Writing Citations" on our lesson page: [8-reference-materials](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/8-reference-materials) [[2025-03-04\|2025-03-04]]
 - [x] #hw (lang) (gr10) Use Chicago style to cite the March second entry from *The Daily Stoic* [[2025-03-04\|2025-03-04]]
-- [ ] #hw (lang) (gr10) Use MLA format to cite a Wikipedia article you find that discusses World War I [[2025-03-05\|2025-03-05]]
+- [x] #hw (lang) (gr10) Use MLA format to cite a Wikipedia article you find that discusses World War I [[2025-03-05\|2025-03-05]]
 - [ ] #hw (lang) (gr10) Use APA format to cite the section in your physics textbook that describes Uniform Circular Motion. [[2025-03-06\|2025-03-06]]
 - [x] #hw (lang) (gr7) BFLAN 8.1-8.2 [[2025-03-04\|2025-03-04]]
-- [ ] #hw (lang) (gr7) BFLAN 8.3-8.4 [[2025-03-05\|2025-03-05]]
+- [x] #hw (lang) (gr7) BFLAN 8.3-8.4 [[2025-03-05\|2025-03-05]]
 - [ ] #hw (lang) (gr7) BFLAN 8.5-8.6 [[2025-03-06\|2025-03-06]]
 - [ ] #hw (lang) BFLAN 8.7 [[2025-03-07\|2025-03-07]]
 - [ ] #hw (lang) BFLAN 8.8 [[2025-03-08\|2025-03-08]]

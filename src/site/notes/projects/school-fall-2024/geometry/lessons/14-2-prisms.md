@@ -69,6 +69,6 @@ Think of a prism as a stack of pennies - shifting them around while maintaining 
 ## Homework
 
 
-- [ ] #hw (geom-gr10) 14.2 Prisms ([lesson link](https://school.ginosterous.com/projects/school-fall-2024/geometry/lessons/14-2-prisms)) (p. 360) (gr10) [[2025-03-05\|2025-03-05]] 
+- [x] #hw (geom-gr10) 14.2 Prisms ([lesson link](https://school.ginosterous.com/projects/school-fall-2024/geometry/lessons/14-2-prisms)) (p. 360) (gr10) [[2025-03-05\|2025-03-05]]
 
 
