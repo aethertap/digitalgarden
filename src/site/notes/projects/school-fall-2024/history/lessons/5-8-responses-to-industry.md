@@ -40,4 +40,4 @@
 ## Homework
 
 - [x] #hw (hist) ACE Response: What made communism attractive to people of the late 19th and early 20th century? [[2025-03-06\|2025-03-06]]
-- [ ] #hw (hist) Because, But, So: "Socialism changed the way people thought of property, ..." {because ..., but ...., so ....} [[2025-03-10\|2025-03-10]]
+- [ ] #hw (hist) Because, But, So ([(instructions here)](https://school.ginosterous.com/projects/school-fall-2024/language/language-review/because-but-so-exercises)): "Socialism changed the way people thought of property, ..." {because ..., but ...., so ....} [[2025-03-10\|2025-03-10]]
