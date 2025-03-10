@@ -25,8 +25,11 @@
 - What is the buoyant force on a 10cm x 10cm x 10cm block of aluminum when it is under water? 
 - What is the SI unit meaning of "a Pascal"? 
 
-gr7: [lightning:: ]
-gr10: [lightning:: ]
+- [ ] #quiz What is the density of water?
+- [ ] #quiz How many cubic centimeters are in a liter?
+
+gr7: [lightning:: 2]
+gr10: [lightning:: 3]
 
 ## Demonstration
 

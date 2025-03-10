@@ -5,23 +5,27 @@
 
 ## Backlog
 
-- [ ] Shooting
+- [ ] make the appearance more attractive
 
 
 ## ready to start
 
-- [ ] Limit the turning speed, with the full track speed available, the turn is too fast.
 - [ ] Put error messages into the game's output area so they are visible.
+- [ ] Add multiple tanks and check that the radar and collisions work properly
 
 
 ## in progress
 
-- [ ] Add radar scanning results to the sensor data.
+- [ ] Shooting - make the bullets cause damage and disappear when they collide with something.
 
 
 ## complete
 
 **Complete**
+- [x] Make the gun track its shot energy, and make the bullet's damage depend on the shot energy.
+- [x] Add radar scanning results to the sensor data.
+- [x] Limit the turning speed, with the full track speed available, the turn is too fast.
+- [x] Bullets should have the tank's velocity added to their initial velocity.
 - [x] Set up localstorage to keep the entered code across page refreshes
 - [x] Make a better tank graphic model
 - [x] Add radar controls

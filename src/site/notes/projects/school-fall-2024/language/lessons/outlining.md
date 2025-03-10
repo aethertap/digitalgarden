@@ -116,5 +116,5 @@ Purpose:
 
 ## Homework
 
-- [ ] #hw (lang) Make a Single Paragraph Outline ([outlining lesson is here](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/outlining)) for a paragraph that describes your favorite game mechanic from Minecraft. [[2025-03-11\|2025-03-11]]
+- [ ] #hw (lang) Make a Single Paragraph Outline ([outlining lesson is here](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/outlining)) that you can use in your essay [[2025-03-11\|2025-03-11]]
 - [ ] #hw (lang) Make a single paragraph outline ([outlining lesson is here](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/outlining)) that tries to persuade politicians that kids should be paid for their work at school. [[2025-03-11\|2025-03-11]]
