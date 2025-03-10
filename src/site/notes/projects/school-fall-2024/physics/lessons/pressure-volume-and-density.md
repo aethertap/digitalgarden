@@ -66,4 +66,4 @@
 
 
 
-- [ ] #hw (physics) *How things work* exercises 5.1-5.6, problems 5.1-5.3 [[2025-03-07\|2025-03-07]]
+- [x] #hw (physics) *How things work* exercises 5.1-5.6, problems 5.1-5.3 [[2025-03-07\|2025-03-07]]

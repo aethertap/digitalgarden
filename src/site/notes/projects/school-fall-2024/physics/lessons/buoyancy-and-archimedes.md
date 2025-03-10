@@ -108,4 +108,4 @@ This value is ***constant along a streamline***, and it **assumes there are no f
 
 
 
-- [ ] #hw (physics) Why do bottles for carbonated drinks always have small caps? [[2025-03-07\|2025-03-07]]
+- [x] #hw (physics) Why do bottles for carbonated drinks always have small caps? [[2025-03-07\|2025-03-07]]

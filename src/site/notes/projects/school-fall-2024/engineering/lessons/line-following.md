@@ -140,5 +140,3 @@ public:
 
 1. Write code to implement the simple 4-step steering algorithm from the lesson
 2. Implement a state machine as described above to control your robot's movements.
-3. Experiment with your bot's speed controls until you find the slowest speed you can use and still have reliable control.
-4. Make a track with electrical tape and pieces of paper and try to get your bot to follow it. You'll want your bot to move *slowly* because it's very easy to lose the track at the speeds they've been moving.

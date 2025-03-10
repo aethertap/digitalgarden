@@ -45,4 +45,4 @@ In this diagram, $\overline{ZX} \cong \overline{WY}$ and $\overline{XM} \cong \o
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 11.1 Measuring Segments (p. 415) [[2025-03-07\|2025-03-07]] 
+- [x] #hw (math) (gr7) 11.1 Measuring Segments (p. 415) [[2025-03-07\|2025-03-07]]
