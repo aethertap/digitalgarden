@@ -20,7 +20,7 @@
 
 ## Quick tasks
 
-- [ ] #teacher Add [the engineer guy's youtube channel](https://www.youtube.com/@engineerguyvideo/playlists) to the engineering curriculum [[2025-02-05\|2025-02-05]]
+- [x] #teacher Add [the engineer guy's youtube channel](https://www.youtube.com/@engineerguyvideo/playlists) to the engineering curriculum [[2025-02-05\|2025-02-05]]
 - [ ] Fix the caster wheel mount so that the screws don't interfere with the turning of the caster.
 
 

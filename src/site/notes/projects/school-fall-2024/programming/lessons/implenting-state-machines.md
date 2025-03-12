@@ -12,9 +12,12 @@
 - [Arduino Language Reference](https://docs.arduino.cc/language-reference/)
 
 
-- ***[[projects/school-fall-2024/programming/programming-projects/tank-battle-game\|Project index: tank-battle-game]]*** 
-## Concept summary and lesson
+### Relevant projects
 
+- [[projects/school-fall-2024/programming/programming-projects/tank-battle-game\|Project index: tank-battle-game]]
+- [[projects/school-fall-2024/engineering/engineering-projects/differential-steering-bot\|differential-steering-bot]]
+
+## Concept summary and lesson
 
 - Class hierarchies 
 - typescript vs c++ 
@@ -71,7 +74,7 @@ In this version of the state machine, we make `class`es for:
 
 The state machine keeps track of the currently-active state, and it has the list of possible states that could be active. The active state is always an *instance* of the `State` base class, and it always has functions that you can call to `enter`, `update`, and `leave`. The state machine also has a way to let the active state tell it to switch to a *different* state. This might be a return value from the `update` function, or it might be a message sent, or the state machine can just pass a reference to itself into the state's update function so the state can tell it when something has to happen. The third option is the most frequently used, but it has some problems with strict languages like `rust`.
 
-There is an example of a c++ state machine in the [Implementing State Machines](https://school.ginosterous.com/projects/school-fall-2024/engineering/lessons/implementing-state-machines-cpp) lesson.
+There is an example of a c++ state machine in the [[projects/school-fall-2024/engineering/lessons/line-following\|Line Following]] lesson.
 
 The class hierarchy approach is good for more complex state machines, where having all of the state code in a single file is just not practical. In this case, splitting it up into state classes makes the code a lot easier to understand, and it gives you some extra powers:
 - `enter` and `leave` are easy to implement. In the switch version, you have to make *separate states* for the enter and leave phases of each state that requires them.
