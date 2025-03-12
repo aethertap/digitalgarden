@@ -51,4 +51,4 @@ How weird is it that there would be some arbitrary finite number of these things
 
 ## Homework
 
-- [ ] #hw (geom-gr10) 14.4 Regular Polyhedra  (p. 370) (gr10) [[2025-03-10\|2025-03-10]] 
+- [x] #hw (geom-gr10) 14.4 Regular Polyhedra  (p. 370) (gr10) [[2025-03-10\|2025-03-10]]

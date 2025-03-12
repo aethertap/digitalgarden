@@ -71,6 +71,6 @@ These are quick tutorial videos about how to write citations in various styles. 
 - [x] #hw (lang) (gr7) BFLAN 8.1-8.2 [[2025-03-04\|2025-03-04]]
 - [x] #hw (lang) (gr7) BFLAN 8.3-8.4 [[2025-03-05\|2025-03-05]]
 - [x] #hw (lang) (gr7) BFLAN 8.5-8.6 [[2025-03-06\|2025-03-06]]
-- [ ] #hw (lang) (gr7) BFLAN 8.5 **odd numbers only** [[2025-03-10\|2025-03-10]]
+- [x] #hw (lang) (gr7) BFLAN 8.5 **odd numbers only** [[2025-03-10\|2025-03-10]]
 - [x] #hw (lang) BFLAN 8.7 [[2025-03-07\|2025-03-07]]
-- [ ] #hw (lang) BFLAN 8.8 [[2025-03-10\|2025-03-10]]
+- [x] #hw (lang) BFLAN 8.8 [[2025-03-10\|2025-03-10]]

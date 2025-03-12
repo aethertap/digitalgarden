@@ -33,6 +33,8 @@
 
 ## Quick tasks
 
+- [ ] Read https://www.snexplores.org/article/ai-double-digital-clone-benefits-risks
+- [ ] Read https://www.snexplores.org/article/lasers-long-data-storage-inside-glass
 
 
 ## Current/ongoing

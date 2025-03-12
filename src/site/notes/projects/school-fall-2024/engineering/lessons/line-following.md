@@ -139,4 +139,3 @@ public:
 - [ ] #hw Do the homework tasks in [the line-following lesson](https://school.ginosterous.com/projects/school-fall-2024/engineering/lessons/line-following) [[2025-03-11\|2025-03-11]]
 
 1. Write code to implement the simple 4-step steering algorithm from the lesson
-2. Implement a state machine as described above to control your robot's movements.

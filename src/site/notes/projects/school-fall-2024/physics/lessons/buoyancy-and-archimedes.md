@@ -74,21 +74,41 @@ If you were to somehow mark a particle of fluid and trace its path as it flows, 
 
 In steady state flow, **a drop's ordered energy remains constant as it travels along its streamline**. Since all drops in a fluid are identical, the ordered energy per drop along a streamline is *constant*.
 
-**Ordered energy** can take three forms for a drop of fluid: Kinetic energy, pressure potential energy, and gravitational potential energy. We'll ignore gravitational for now, and just look at pipes that are all at the same level. The total ordered energy is thus:
+## Bernoulli's Equation
+
+**Ordered energy** can take three forms for a drop of fluid: Kinetic energy, pressure potential energy, and gravitational potential energy. The total ordered energy is thus:
 
 $$
 \begin{align}
 
-\text{ordered energy} &= \text{pressure potential energy} + \text{kinetic energy} \\
-&= \text{pressure}\cdot\text{volume} + \frac{1}{2} \text{density}\cdot\text{volume}\cdot\text{speed}^2
+\text{ordered energy} &= \text{pressure potential energy} + \text{kinetic energy} +\text{gravitational potential energy}\\
+&= \text{pressure}\cdot\text{volume} + \frac{1}{2} \text{density}\cdot\text{volume}\cdot\text{speed}^2 + mgh
 \end{align}
 $$
+For the gravitational potential energy, notice that $m = \rho \cdot \text{volume}$, so we can change the equation to be:
+$$
+\text{ordered energy} = \text{pressure}\cdot\text{volume} + \frac{1}{2} \text{density}\cdot\text{volume}\cdot\text{speed}^2 + \text{density}\cdot\text{volume}\cdot \text{accel\_gravity}\cdot \text{height} 
+$$
+
 
 Dividing both sides by volume gives **Bernoulli's Equation**:
 
+
+
 $$
-\frac{\text{ordered energy}}{\text{volume}} = \text{pressure} + \frac{1}{2} \text{density}\cdot\text{speed}^2
+\begin{align}
+
+\frac{\text{ordered energy}}{\text{volume}} &= \text{pressure} + \frac{1}{2} \text{density}\cdot\text{speed}^2+ \text{density}\cdot \text{accel\_gravity}\cdot \text{height} \\
+&= P + \frac{1}{2}\rho v^2 + \rho g h \\
+\text{where} \\
+\rho &= \text{density} \\ 
+P &= \text{pressure} \\
+v &= \text{velocity} \\
+g &= \text{acceleration due to gravity} \\
+h &= \text{height}
+\end{align}
 $$
+
 This value is ***constant along a streamline***, and it **assumes there are no friction-like effects** that would remove energy from the system.
 
 
@@ -100,9 +120,6 @@ This value is ***constant along a streamline***, and it **assumes there are no f
 - [Youtube search for "steady-state flow"](https://www.youtube.com/results?search_query=steady-state%20flow) 
 - [Youtube search for "streamlines"](https://www.youtube.com/results?search_query=streamlines) 
 - [Youtube search for "Bernoulli's equation"](https://www.youtube.com/results?search_query=Bernoulli's%20equation) 
-
-## Guided practice
-
 
 ## Homework
 

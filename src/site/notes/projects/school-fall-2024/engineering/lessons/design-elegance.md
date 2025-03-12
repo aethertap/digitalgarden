@@ -40,4 +40,4 @@ Basically, you want to capture dependencies that matter, and not introduce any n
 
 ## Homework
 
-- [ ] #hw (engr) Finish robot chassis redesign, make sure you include a way to attach additional sensor modules [[2025-03-11\|2025-03-11]]
+- [x] #hw (engr) Finish robot chassis redesign, make sure you include a way to attach additional sensor modules [[2025-03-11\|2025-03-11]]

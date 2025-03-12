@@ -17,8 +17,8 @@
 
 
 
-- [ ] #hw (hist) Read history  Read section 6.1: Rationales for Imperialism pages 367–374 [[2025-03-11\|2025-03-11]] 
-- [ ] #hw (hist) Read history  Read section 6.2: State Expansion pages 375–387 [[2025-03-11\|2025-03-11]] 
+- [x] #hw (hist) Read history  Read section 6.1: Rationales for Imperialism pages 367–374 [[2025-03-11\|2025-03-11]]
+- [x] #hw (hist) Read history  Read section 6.2: State Expansion pages 375–387 [[2025-03-11\|2025-03-11]]
 
 ## Topics
 

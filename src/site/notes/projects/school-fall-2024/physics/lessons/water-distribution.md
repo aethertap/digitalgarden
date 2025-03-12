@@ -113,5 +113,5 @@ Let's say you have a big lake of water way up high, and a pipe running down to s
 
 ## Homework
 
-- [ ] #hw (physics) Do problems 5.7-5.11 [[2025-03-10\|2025-03-10]]
-- [ ] #hw (physics) Read and take notes on section 5.2 of *How Things Work* [[2025-03-10\|2025-03-10]]
+- [x] #hw (physics) Do problems 5.7-5.11 [[2025-03-10\|2025-03-10]]
+- [x] #hw (physics) Read and take notes on section 5.2 of *How Things Work* [[2025-03-10\|2025-03-10]]

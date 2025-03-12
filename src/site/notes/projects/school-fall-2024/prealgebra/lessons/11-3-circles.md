@@ -65,4 +65,4 @@ $c = 2\pi r$, so $2c = 2\pi \cdot2r$
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 11.3 Circles (p. 432) [[2025-03-12\|2025-03-12]] 
+- [x] #hw (math) (gr7) 11.3 Circles (p. 432) [[2025-03-12\|2025-03-12]]

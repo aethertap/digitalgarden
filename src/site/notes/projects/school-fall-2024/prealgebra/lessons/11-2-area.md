@@ -44,4 +44,4 @@ You can do this as many times as you need in order to find the total area.
 
 ## Homework
 
-- [ ] #hw (math) (gr7) 11.2 Area (p. 422) [[2025-03-10\|2025-03-10]] 
+- [x] #hw (math) (gr7) 11.2 Area (p. 422) [[2025-03-10\|2025-03-10]]

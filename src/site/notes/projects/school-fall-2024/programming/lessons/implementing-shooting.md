@@ -35,4 +35,4 @@
 
 ## Homework
 
-- [ ] #hw (programming) Write code to aim your gun in the direction of the radar when it detects a wall, and shoot the wall! [[2025-03-10\|2025-03-10]]
+- [x] #hw (programming) Write code to aim your gun in the direction of the radar when it detects a wall, and shoot the wall! [[2025-03-10\|2025-03-10]]
