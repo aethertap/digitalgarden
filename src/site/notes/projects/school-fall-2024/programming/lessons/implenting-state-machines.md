@@ -93,4 +93,3 @@ When you're comfortable with the class hierarchy version of this, it's probably 
 
 ## Homework
 
-- [ ] #hw (programming) Implement the remaining [[2025-03-19\|2025-03-19]]

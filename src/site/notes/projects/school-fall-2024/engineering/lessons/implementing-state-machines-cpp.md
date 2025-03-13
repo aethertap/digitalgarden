@@ -149,11 +149,320 @@ int main() {
 }
 ```
 
+Now, all we have to do is compile it. To do that, use either `clang` or `g++`. Those are both c++ language *compilers*, which means that they translate your source code into machine code.
+
+### Using g++
+```bash
+# Compile the source cpp into an executable called state_machine
+> g++ switch_state_machine.cpp -o state_machine
+# We can run it like this:
+> ./state_machine
+```
+
+### Using clang
+
+```bash
+# Compile the source cpp into an executable called state_machine
+> clang++ switch_state_machine.cpp -o state_machine
+# We can run it like this:
+> ./state_machine
+```
+
 ### Now Classify it, please.
 
 The state machine switch statement is a useful pattern for very simple machines, but it breaks down when your states start to manage more data. When that happens, we can switch to using a class hierarchy.
 
+```c++
 
+// Today: We will write classes to implement the state machine for the jump pack strategem code.
+// There are three *kinds* of class we need:
+// - A StateMachine
+// - A Generic State
+// - A bunch of specific states
+//
+//  The StateMachine keeps track of all of the states, and takes the place of the while-loop from our switch statement version.
+//  The Generic State serves as a way to describe the things that *all* states have to do.
+//  The specific states each have a small behavior that does the job of the individual parts of our switch statement (updates the behavior according to the state).
+// The strategem code is swwsw (Down, Up, Up, Down, Up)
+// We can use states like this: S SW SWW SWWS SWWSW
+#include <cstdio>
+#include <string>
+#include<iostream>
+
+using namespace std;
+
+namespace Names {
+    // These are all the states that we have \/
+    enum StateName{
+        Init,
+        S,
+        SW,
+        SWW,
+        SWWS,
+        SWWSW,
+        Finished,
+        Error,
+        NumStates,
+        NoChange,
+    };
+}
+
+
+
+/// This is a pure-virtual class, because it can never be instantiated. All it does is describe what **all** actual states must be able to do.
+/// We mark things are "pure-virtual" by putting "virtual" before the function and "=0" after them in the declaration.
+class State {
+    public:
+    // Pure virtual functions mean that a class that inherits from here MUST implement this function
+    virtual Names::StateName update(std::string input) = 0;
+
+    // Initialize the state data and run anything that should be happening while the state is active
+    virtual void enter(){}
+
+    // This function will execute any last-minute code before leaving the current state, so that it
+    // can clean up resources and stop any ongoing processes.
+    virtual void leave(){}
+
+    // this gives the state a chance to cause ANOTHER transition without waiting for input first.
+    virtual Names::StateName epsilon() {
+        return Names::StateName::NoChange;
+    }
+
+    // this function just checks to see if the input is what we're expecting, and goes to the correct state if it is. If not, it goes to the failure state.
+    static Names::StateName expect(string input, string expected_input, Names::StateName on_success, Names::StateName on_failure = Names::StateName::Error) {
+        if (input == expected_input){
+            return on_success;
+        }else{
+            return on_failure;
+        }
+    }
+};
+
+
+
+class Init : public State {
+public:
+    Init() {
+        cout << "Created State: Init" << endl;
+    }
+
+    ~Init() {
+        cout << "State Init DYING" << endl;
+    }
+
+    // Pure virtual functions mean that a class that inherits from here MUST implement this function
+    Names::StateName update(std::string input){
+        return State::expect(input, "s", Names::StateName::S, Names::StateName::Init);
+    }
+
+    // Initialize the state data and run anything that should be happening while the state is active
+    void enter(){
+        cout << "Entering State: Init" << endl;
+    }
+
+    // This function will execute any last-minute code before leaving the current state, so that it
+    // can clean up resources and stop any ongoing processes.
+    void leave(){
+        cout << "Leaving State: Init" << endl;
+    }
+};
+
+class S :public State{
+    public:
+    S() {
+        cout << "Creating State: S" << endl;
+    }
+
+    Names::StateName update(std::string input){
+        if (input == "s"){
+            return Names::StateName::S;
+        } else {
+            return State::expect(input,"w",Names::StateName::SW,Names::StateName::Error);
+        }
+    }
+
+    void enter(){
+        cout << "Entering State: S" << endl;
+    }
+
+    void leave(){
+        cout << "Leaving State: S" << endl;
+    }
+};
+
+class SW :public State{
+    public:
+    SW(){
+        cout << "Creating State: SW" << endl;
+    }
+
+    Names::StateName update(string input){
+        return State::expect(input, "w", Names::StateName::SWW);
+
+    }
+
+    void enter(){
+        cout << "Entering State: SW" << endl;
+    }
+    void leave(){
+        cout << "Leaving State: SW" << endl;
+    }
+};
+
+
+class SWW : public State{
+  public:
+
+  SWW(){
+      cout << "Creating State: SWW" << endl;
+  }
+
+  Names::StateName update(string input){
+      return State::expect(input, "s", Names::StateName::SWWS, Names::StateName::Error);
+  }
+
+  void enter(){
+      cout << "Entering State: SWW" << endl;
+  }
+
+  void leave(){
+      cout << "Leaving State: SWW" << endl;
+  }
+};
+
+class SWWS : public State{
+  public:
+
+  SWWS(){
+      cout << "Creating State: SWWS" << endl;
+  }
+
+  Names::StateName update(string input){
+      return State::expect(input, "w", Names::StateName::SWWSW, Names::StateName::Error);
+  }
+
+  void enter(){
+      cout << "Entering State: SWWS" << endl;
+  }
+
+  void leave(){
+      cout << "Leaving State: SWWS" << endl;
+  }
+};
+
+class SWWSW : public State {
+    public:
+
+    SWWSW(){
+        cout<< "Creating State: Finished" << endl;
+    }
+
+    Names::StateName update(string _input) {
+        cout << "WHOAH HORSE. you can't update me" << endl;
+        return Names::StateName::Error;
+    }
+
+    // but wait... there's no input needed here...
+    // So, we use a function that requires so input.
+    Names::StateName epsilon(){
+        cout << "Ur toe touched grass and ur dead :O" << endl;
+        cout << "Noooooo T^T" << endl;
+        return Names::StateName::Finished;
+    }
+
+    void enter(){
+        cout << "Entering State: SWWSW" << endl;
+    }
+    void leave(){
+        cout << "Leaving State: SWWSW" << endl;
+    }
+};
+
+class Error : public State{
+    public:
+    Error(){
+        cout << "Created Error State"<< endl;
+    }
+    void enter(){
+        cout << "Entering Error State" << endl;
+    }
+    void leave(){
+        cout << "Leaving State Error" << endl;
+    }
+    Names::StateName update(string _input){
+        cout << "Error! Wrong Code" << endl;
+        return Names::Finished;
+
+    }
+    Names::StateName epsilon(){
+        cout << "wrong" << endl;
+        return Names::Finished;
+    }
+
+};
+
+class Finished : public State {
+public:
+    Names::StateName update(string _input) {
+        return Names::NoChange;
+    }
+    void enter() {
+        cout << "Entered Finished state" << endl;
+    }
+    void leave() {
+        cout << "Left Finished State" << endl;
+    }
+};
+
+// This class is in charge of switching from state to state.
+class StateMachine {
+    public:
+    StateMachine(){
+        current_state = Names::Init;
+        all_states[Names::Init] = new Init();
+        all_states[Names::S] = new S();
+        all_states[Names::SW] = new SW();
+        all_states[Names::SWW] = new SWW();
+        all_states[Names::SWWS] = new SWWS();
+        all_states[Names::SWWSW] = new SWWSW();
+        all_states[Names::Finished] = new Finished();
+        all_states[Names::Error] = new Error();
+    }
+
+    void run() {
+        while(current_state != Names::StateName::Finished) {
+            string input = "";
+            cout << "Enter a code letter: " ;
+            cout.flush();
+            cin >> input;
+            Names::StateName next_state = all_states[current_state]->update(input);
+            switchTo(next_state);
+        }
+    }
+
+    void switchTo(Names::StateName new_state){
+        if(new_state == Names::StateName::NoChange) {
+            return;
+        }
+        all_states[current_state]->leave();
+        current_state = new_state;
+        all_states[current_state]->enter();
+        Names::StateName epsilon_change = all_states[current_state]->epsilon();
+        switchTo(epsilon_change);
+    }
+
+    Names::StateName current_state;
+
+    State* all_states[Names::NumStates];
+};
+
+
+int main() {
+    StateMachine machine;
+    machine.run();
+    return 0;
+}
+```
 
 ## Media resources
 
