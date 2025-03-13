@@ -31,20 +31,33 @@ gr10: [lightning:: ]
 
 Today, we're setting our course for the rest of the school year.
 
-## Media resources
-
-- [Youtube search for "Looking over the rest of the book, let's find what seems exciting!"](https://www.youtube.com/results?search_query=Looking%20over%20the%20rest%20of%20the%20book,%20let's%20find%20what%20seems%20exciting!) 
-
 ## Guided practice
 
 - [ ] Survey the physics text and prioritize the remainder by interest.  
 
 ### Results:
 
-1. Optics and electromagnetics
+1. Optics (ch. 34 - Ray Optics) and electromagnetics (Ch. 29-31 - magnetic fields, electromagnetic induction, electromagnetic fields)
 2. Nuclear physics
 3. Vortex cannons and fluid movement
 4. Resonance
+
+### The rest of the school year
+
+| week | date           | Topic                                                                                               |
+| ---- | -------------- | --------------------------------------------------------------------------------------------------- |
+| 1    | [[2025-03-19\|2025-03-19]] | Ray optics - light rays, wave/particle duality, diffraction, refraction, reflection, pinhole camera |
+| 2    | [[2025-03-26\|2025-03-26]] | Ray Optics - mirror and lenses, angles of incidence and reflection, curved mirrors, Snell's Law     |
+| 3    | [[2025-04-02\|2025-04-02]] | Ray Optics - Optical devices, microscopes, telescopes, cameras, projectors                          |
+| 4    | [[2025-04-09\|2025-04-09]] | Ray Optics - Experimenting and goofing off |
+| 5    | [[2025-04-16\|2025-04-16]] | Magnetic fields - what is magnetism, moving charges, field of a current, magnetic forces           |
+| 6    | [[2025-04-23\|2025-04-23]] | Electromagnetic field - induced current, Magnetic flux, Lenz, Faraday, Induced Fields and currents |
+| 7    | [[2025-04-30\|2025-04-30]] | Maxwell's Equations, Electromagnetic waves                                                                                                                                                            |
+| 8    | [[2025-05-07\|2025-05-07]] |                                                                                                     |
+| 9    | [[2025-05-14\|2025-05-14]] |                                                                                                     |
+| 10   | [[2025-05-21\|2025-05-21]] |                                                                                                     |
+| 11   | [[2025-05-28\|2025-05-28]] |                                                                                                     |
+
 
 ## Homework
 
