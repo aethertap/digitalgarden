@@ -46,4 +46,4 @@
 
 ## Homework
 
-- [ ] #hw (math) (gr7) [IXL circles word problems](https://www.ixl.com/math/grade-8/circles-word-problems) [[2025-03-14\|2025-03-14]]
+- [x] #hw (math) (gr7) [IXL circles word problems](https://www.ixl.com/math/grade-8/circles-word-problems) [[2025-03-14\|2025-03-14]]

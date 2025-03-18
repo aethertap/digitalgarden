@@ -18,7 +18,7 @@
 - [ ] [Heimler history 6.1 - ideas that justified imperialism](https://www.youtube.com/watch?v=DrjQ1dir1SI&list=PLEHRHjICEfDUcEYepeOH1x30epqrxfHoW&index=1&pp=iAQB)
 - [ ] [Heimler 6.2 - how empires expanded](https://www.youtube.com/watch?v=r06Dub-CmD8&list=PLEHRHjICEfDUcEYepeOH1x30epqrxfHoW&index=2&pp=iAQB)
 - [ ] [East India Company documentary](https://www.youtube.com/watch?v=ut4eWW-UElA&pp=ygUaZWFzdCBpbmRpYSBjb21wYW55IGhpc3Rvcnk%3D)
-- [ ] #hw (hist) Read history  Read section 6.3: Indigenous Responses to State Expansion pages 388–398 [[2025-03-13\|2025-03-13]] 
+- [x] #hw (hist) Read history  Read section 6.3: Indigenous Responses to State Expansion pages 388–398 [[2025-03-13\|2025-03-13]]
 
 ## Topics
 
@@ -36,5 +36,5 @@ People of the past were just as intelligent as people of the present. How can we
 
 ## Homework
 
-- [ ] #hw (hist) [Because, But, So:](https://school.ginosterous.com/projects/school-fall-2024/language/language-review/because-but-so-exercises) "Imperialism was a major source of turmoil from 1700-1900, {because..., but..., so...} [[2025-03-13\|2025-03-13]]
+- [x] #hw (hist) [Because, But, So:](https://school.ginosterous.com/projects/school-fall-2024/language/language-review/because-but-so-exercises) "Imperialism was a major source of turmoil from 1700-1900, {because..., but..., so...} [[2025-03-13\|2025-03-13]]
 - [ ] #hw (hist) ACE response: What made Japan's nationalism strong around the time of the Meiji Restoration, and why? [[2025-03-18\|2025-03-18]]

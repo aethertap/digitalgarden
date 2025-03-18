@@ -25,7 +25,7 @@ From the ACE book: none
 
 ## Homework
 
-- [ ] #hw (lang) Write a topic sentence for each of the topics listed in [the homework section of this lesson](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/generating-topic-sentences). Use different [[projects/school-fall-2024/language/language-review/sentence-types\|sentence-types]] and strategies for making them more interesting. [[2025-03-13\|2025-03-13]]
+- [x] #hw (lang) Write a topic sentence for each of the topics listed in [the homework section of this lesson](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/generating-topic-sentences). Use different [[projects/school-fall-2024/language/language-review/sentence-types\|sentence-types]] and strategies for making them more interesting. [[2025-03-13\|2025-03-13]]
 
 1. Bernoulli's Principle
 2. Virtual Reality

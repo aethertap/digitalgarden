@@ -29,6 +29,6 @@ At the end of the reading, you'll have a week to write a book report. The rough 
 - [x] #hw (lit) Read *The Catcher in the Rye* chapters 7-13, and do the [weekly discussion prep](https://school.ginosterous.com/projects/school-fall-2024/language/catcher-in-the-rye) [[2025-02-04\|2025-02-04]]
 - [x] #hw (lit) Read *The Catcher in the Rye* chapters 14-20, and do the [weekly discussion prep](https://school.ginosterous.com/projects/school-fall-2024/language/catcher-in-the-rye) [[2025-02-11\|2025-02-11]]
 - [x] #hw (lit) Read *The Catcher in the Rye* chapters 21-26, and do the [weekly discussion prep](https://school.ginosterous.com/projects/school-fall-2024/language/catcher-in-the-rye) [[2025-03-04\|2025-03-04]]
-- [ ] #hw (lit) (gr10) Outline ([outlining lesson](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/outlining)) for essay on The Catcher in the Rye due [[2025-03-13\|2025-03-13]]
-- [ ] #hw (lit) (gr7) Outline ([outlining lesson](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/outlining)) for essay on the question of whether or not video game violence triggers real-world violence in teens [[2025-03-13\|2025-03-13]]
+- [x] #hw (lit) (gr10) Outline ([outlining lesson](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/outlining)) for essay on The Catcher in the Rye due [[2025-03-13\|2025-03-13]]
+- [x] #hw (lit) (gr7) Outline ([outlining lesson](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/outlining)) for essay on the question of whether or not video game violence triggers real-world violence in teens [[2025-03-13\|2025-03-13]]
 

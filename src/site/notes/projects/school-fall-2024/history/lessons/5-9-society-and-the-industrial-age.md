@@ -37,4 +37,4 @@
 
 ## Homework
 
-- [ ] #hw (hist) Read Charles Dickens' [The Wreck of the Golden Mary](https://www.dickens-online.info/the-wreck-of-the-golden-mary.html) (there are 20 pages, you have to click through them) and take notes on three things that illustrate what it was like to live during those times. We will discuss them in class. [[2025-03-13\|2025-03-13]] 
+- [x] #hw (hist) Read Charles Dickens' [The Wreck of the Golden Mary](https://www.dickens-online.info/the-wreck-of-the-golden-mary.html) (there are 20 pages, you have to click through them) and take notes on three things that illustrate what it was like to live during those times. We will discuss them in class. [[2025-03-13\|2025-03-13]]

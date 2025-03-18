@@ -58,9 +58,15 @@ Today, we're setting our course for the rest of the school year.
 | 10   | [[2025-05-21\|2025-05-21]] |                                                                                                     |
 | 11   | [[2025-05-28\|2025-05-28]] |                                                                                                     |
 
+### Optics Resources
+
+- [Geometic optical simulator](https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html)
+- [Basic optics experiments list](https://www.pasco.com/resources/lab-experiments/collection/116)
+- [3d printable optics instruments](https://printedlabs.uni-bayreuth.de/en)
+- 
 
 ## Homework
 
 
-- [ ] #hw (physics) Write a one-paragraph opinion (using the [Single Paragraph Outline method](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/outlining))on whether robotic enhancement (like the piano-playing glove in the article) is beneficial for humankind. [[2025-03-14\|2025-03-14]]
+- [x] #hw (physics) Write a one-paragraph opinion (using the [Single Paragraph Outline method](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/outlining)) on whether robotic enhancement (like the piano-playing glove in the article) is beneficial for humankind. [[2025-03-14\|2025-03-14]]
 - [ ] #hw (physics) Write a brief explanation of what **ordered energy** in a fluid is. Make sure it explains the four parts of[Bernoulli's Law](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/buoyancy-and-archimedes) 
