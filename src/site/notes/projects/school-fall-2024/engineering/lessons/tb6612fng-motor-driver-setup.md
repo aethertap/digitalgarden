@@ -73,6 +73,8 @@ Our power supply for this is the LiFePo4 battery pack,  which outputs either 4.5
 
 Put the arduino and the TB6612 across the ditch on your breadboard and wire everything up, then program the arduino to spin the motors!
 
+![tb6612-example-circuit.png](/img/user/projects/school-fall-2024/engineering/lessons/_resources/tb6612fng-motor-driver-setup/tb6612-example-circuit.png)
+
 ## Media resources
 
 - [Youtube - Dronebot workshop TB6612FNG overview](https://www.youtube.com/watch?v=JPPTRj0KWbg)
