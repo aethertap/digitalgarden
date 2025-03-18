@@ -26,16 +26,6 @@
 - Great circles 
 - Intersecting a plane and a sphere. 
 
-## Lesson and worked examples
-
-
-
-## Media resources
-
-- [Youtube search for "Volume of a sphere: $\frac{4}{3}\pi r^3$"](https://www.youtube.com/results?search_query=Volume%20of%20a%20sphere:%20$%5Cfrac%7B4%7D%7B3%7D%5Cpi%20r%5E3$) 
-- [Youtube search for "Surface area of a sphere: $\pi r^2$"](https://www.youtube.com/results?search_query=Surface%20area%20of%20a%20sphere:%20$%5Cpi%20r%5E2$) 
-- [Youtube search for "Great circles"](https://www.youtube.com/results?search_query=Great%20circles) 
-- [Youtube search for "Intersecting a plane and a sphere."](https://www.youtube.com/results?search_query=Intersecting%20a%20plane%20and%20a%20sphere.) 
 
 ## Guided practice
 
