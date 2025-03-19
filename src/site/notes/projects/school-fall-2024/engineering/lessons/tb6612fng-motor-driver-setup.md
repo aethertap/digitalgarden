@@ -81,5 +81,5 @@ Put the arduino and the TB6612 across the ditch on your breadboard and wire ever
 
 ## Homework
 
-- [ ] #hw (engr) in class: Solder the headers onto the TB6612 boards  [[2025-03-18\|2025-03-18]]
-- [ ] #hw (engr) in class: Hook the TB6612 boards up to an arduino nano and get two motors to spin in both directions  [[2025-03-18\|2025-03-18]]
+- [x] #hw (engr) in class: Solder the headers onto the TB6612 boards  [[2025-03-18\|2025-03-18]]
+- [x] #hw (engr) in class: Hook the TB6612 boards up to an arduino nano and get two motors to spin in both directions  [[2025-03-18\|2025-03-18]]
