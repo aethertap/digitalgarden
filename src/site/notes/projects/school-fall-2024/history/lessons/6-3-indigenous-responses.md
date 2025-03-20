@@ -17,8 +17,8 @@
 
 
 
-- [ ] #hw (hist) Read history  Read section 6.4: Global Economic Development pages 399–406 [[2025-03-18\|2025-03-18]] 
-- [ ] #hw (hist) Read history  Read section 6.5: Economic Imperialism pages 407–416 [[2025-03-18\|2025-03-18]] 
+- [x] #hw (hist) Read history  Read section 6.4: Global Economic Development pages 399–406 [[2025-03-18\|2025-03-18]]
+- [x] #hw (hist) Read history  Read section 6.5: Economic Imperialism pages 407–416 [[2025-03-18\|2025-03-18]]
 
 ## Topics
 

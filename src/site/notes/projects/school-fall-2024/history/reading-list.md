@@ -37,15 +37,15 @@
 - [x] #hw (hist) Read section 5.4: Industrialization Spreads pages 304–309 
 - [x] #hw (hist) Read section 5.5: Technology in the Industrial Age pages 310–316 
 - [x] #hw (hist) Read section 5.6: Industrialization: Government’s Role pages 317–324 
-- [ ] #hw (hist) Read section 5.7: Economic Developments and Innovations pages 325–331 
-- [ ] #hw (hist) Read section 5.8: Reactions to the Industrial Economy pages 332–342 
-- [ ] #hw (hist) Read section 5.9: Society and the Industrial Age pages 343–350 
-- [ ] #hw (hist) Read section 5.10: Continuity and Change in the Industrial Age pages 351–356 
-- [ ] #hw (hist) Read section 6.1: Rationales for Imperialism pages 367–374 
-- [ ] #hw (hist) Read section 6.2: State Expansion pages 375–387
-- [ ] #hw (hist) Read section 6.3: Indigenous Responses to State Expansion pages 388–398
-- [ ] #hw (hist) Read section 6.4: Global Economic Development pages 399–406
-- [ ] #hw (hist) Read section 6.5: Economic Imperialism pages 407–416
+- [x] #hw (hist) Read section 5.7: Economic Developments and Innovations pages 325–331 
+- [x] #hw (hist) Read section 5.8: Reactions to the Industrial Economy pages 332–342 
+- [x] #hw (hist) Read section 5.9: Society and the Industrial Age pages 343–350 
+- [x] #hw (hist) Read section 5.10: Continuity and Change in the Industrial Age pages 351–356 
+- [x] #hw (hist) Read section 6.1: Rationales for Imperialism pages 367–374 
+- [x] #hw (hist) Read section 6.2: State Expansion pages 375–387
+- [x] #hw (hist) Read section 6.3: Indigenous Responses to State Expansion pages 388–398
+- [x] #hw (hist) Read section 6.4: Global Economic Development pages 399–406
+- [x] #hw (hist) Read section 6.5: Economic Imperialism pages 407–416
 - [ ] #hw (hist) Read section 6.6: Causes of Migration in an Interconnected World pages 417–428
 - [ ] #hw (hist) Read section 6.7: Effects of Migration pages 429–438
 - [ ] #hw (hist) Read section 6.8: Causation in the Imperial Age pages 439–442

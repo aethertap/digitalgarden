@@ -473,4 +473,4 @@ int main() {
 
 - [ ] #hw Finish implementing a simple state machine to control your robot's movement. [Example code and lesson link](https://school.ginosterous.com/projects/school-fall-2024/engineering/lessons/implementing-state-machines-cpp) [[2025-03-18\|2025-03-18]]
 - [x] #hw Export and slice chassis models, get parts laid out on a build plate ready to print [[2025-03-13\|2025-03-13]]
-- [ ] #hw Create a simple state machine for the robot in C++ using classes for `StateMachine`, `State`, and all of the particular states you can be in. [[2025-03-18\|2025-03-18]]
+- [x] #hw Create a simple state machine for the robot in C++ using classes for `StateMachine`, `State`, and all of the particular states you can be in. [[2025-03-18\|2025-03-18]]

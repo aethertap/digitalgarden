@@ -18,10 +18,7 @@
 ### Lesson-specific resource links
 
 - https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html  
-- [ ] #hw (science) Read https://www.snexplores.org/article/light-delay. [[2025-03-21\|2025-03-21]]
-
-
-
+- [ ] #hw (science) Read https://www.snexplores.org/article/light-delay. [[2025-03-24\|2025-03-24]]
 
 ### Lightning Round Questions
 
@@ -32,8 +29,8 @@
 - What is the formula for the gravitational force of attraction between any two masses? 
 - Give an example of a physical model, a computer model, and a mathematical model.  
 
-gr7: [lightning:: ]
-gr10: [lightning:: ]
+gr7: [lightning:: 1]
+gr10: [lightning:: 3]
 ## Demonstration
 
 - Green laser
@@ -90,5 +87,5 @@ To really start to understand this, we'd have to learn a lot about quantum mecha
 
 
 
-- [ ] #hw (physics) (in class) Make a foil pinhole, single slit, and double slit experimental setup and investigate what green and red lasers do when shined through them. [[2025-03-21\|2025-03-21]]
-- [ ] #hw (physics) (in class) Use a pair of lenses to broaden the lasers' beams and repeat the experiment with slits spaced farther apart. What changes? [[2025-03-21\|2025-03-21]]
+- [x] #hw (physics) (in class) Make a foil pinhole, single slit, and double slit experimental setup and investigate what green and red lasers do when shined through them. [[2025-03-21\|2025-03-21]]
+- [ ] #hw (physics) (in class) Use a pair of lenses to broaden the lasers' beams and repeat the experiment with slits spaced farther apart. What changes? [[2025-03-24\|2025-03-24]]
