@@ -5,19 +5,29 @@
 
 ## Planned
 
-- [ ] Robotics - Have a time-trial race to see whose bot can navigate the track fastest and with the least errors.
-- [ ] Coding - Outline and schedule stuff from Think Like a programmer
 
 
 ## Ready to start
 
-- [ ] Physics - Find questions from Thinking Physics that correspond with chapter sections from textbook and note them in the outline
-- [ ] Work the AI at [ck12.org](https://www.ck12.org/flexi/) into my set of resources
+- [ ] Schedule reading time into the day, 1 hour a day total, 45 minutes of reading and 15 minutes of writing for now.
+- [ ] Create prompts for the reading journal to help ideas flow. 
+    - what questions did it raise?
+    - What does it remind you of (other reading, or anything else)?
+    - What ideas did you have as a result?
+    - Can you elaborate on a previous journal now? If so, do it.
+    - Capture the best quote from today's reading
+- [ ] Make the script for synchronizing the kids' writing submissions with my grading folder. It needs to:
+    1. pull their submissions to my machine
+    2. run pandoc on them to make something I can grade and mark up
+    3. send my graded copies back to them
+    4. Prompt me to enter a score on the grading page for that assignment.
+    5. Add the score to the frontmatter for their submission, with a link to the comments.
 
 
 ## In progress
 
-- [ ] Robotics - Build a line maze big enough for the gigantic robots we have. Probably needs to be a line of papers taped together with a fat black stripe running down them, laid out all around the workshop.
+- [ ] Define a reading-journal directory format for all of us to use.
+- [ ] Come up with a [[projects/school-fall-2024/school-plan\|school-plan]]
 
 
 ## Complete
@@ -65,6 +75,12 @@
 - [x] Make a weekly grammar quiz to refresh them on parts of speech, comma usage, quotation usage, and other common mistakes. (the fat notebook does this)
 - [x] General - update [[projects/school-fall-2024/school-dashboard\|school-dashboard]] and [[projects/school-fall-2024/school-day-fall-2024\|school-day-fall-2024]] for spring semester. Give larger blocks of time for engineering, and less for math (it's mostly homework these days). History discussion needs to be increased, and we need some in-class grammar review.
 - [x] Robotics - help gr10 do final assembly of her bot. Need to drill out the screw holes a bit and get replacement screws in
+
+
+## Maybe in the future...
+
+- [ ] Work the AI at [ck12.org](https://www.ck12.org/flexi/) into my set of resources
+- [ ] Coding - Outline and schedule stuff from Think Like a programmer
 
 
 

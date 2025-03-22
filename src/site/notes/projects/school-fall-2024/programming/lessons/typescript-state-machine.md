@@ -145,4 +145,4 @@ You can also do a `switch`-style state machine in typescript, and it looks very 
 
 ## Homework
 
-- [ ] #hw (programming) Implement your driving in a square navigation as a state machine in typescript. [[2025-03-24\|2025-03-24]]
+- [ ] #hw (programming) Implement your driving in a square  navigation as a state machine in typescript. [Example code here](https://school.ginosterous.com/projects/school-fall-2024/programming/lessons/typescript-state-machine) [[2025-03-24\|2025-03-24]]

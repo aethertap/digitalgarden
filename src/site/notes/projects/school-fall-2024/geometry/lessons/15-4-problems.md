@@ -32,7 +32,7 @@
 
 - [ ] The areas of three of the faces of a rectangular prism are 24, 32, and 36. Find the volume of the prism.   
 - [ ] My company produces 6 inch tall cans of paint. The cans have a radius of 15 inches. (Yes, these are very oddly shaped cans!) We want to offer a super-size can of paint. Toby wants to leave the can just as wide as it is, but increase the height by $x$ inches. Maryanna thinks the fat cans sell better, so she wants to make them even wider. She wants to increase the radius by $x$ inches. After arguing for a while, they decide to go with the design that produces the greatest increase in paint volume. They reach for their scratch paper and figure out how much more paint is needed to fill their new can designs. They both use the same value of $x$, and they find that both designs require the same increase in paint volume! What value of $x$ did they use?   
-- [ ] A ball with radius 6 inches is tangent to the wall and the floor in my house. Given that the wall is perpendicular to floor, what is the radius of the largest ball I can slide into the space between the ball and the corner where the wall meets the floor?   
+- [ ] A ball with radius 6 inches is tangent to the wall and the floor in my house. Given that the wall is perpendicular to floor, what is the radius of the largest ball I can slide into the space between the ball and the corner where the wall meets the floor?
 
 
 ## Homework

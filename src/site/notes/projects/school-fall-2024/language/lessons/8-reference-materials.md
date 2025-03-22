@@ -74,3 +74,4 @@ These are quick tutorial videos about how to write citations in various styles. 
 - [x] #hw (lang) (gr7) BFLAN 8.5 **odd numbers only** [[2025-03-10\|2025-03-10]]
 - [x] #hw (lang) BFLAN 8.7 [[2025-03-07\|2025-03-07]]
 - [x] #hw (lang) BFLAN 8.8 [[2025-03-10\|2025-03-10]]
+

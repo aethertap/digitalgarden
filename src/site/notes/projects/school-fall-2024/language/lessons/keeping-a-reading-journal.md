@@ -38,7 +38,7 @@ The genre histogram is here to make sure you don't neglect things that you might
 | ------- | --------- | ------------------ | -------------- | --------------- | ------------------ | ----------------- | ----- |
 |         | Breathe   | The Odyssey        | Unsouled       | The War of Art  |                    |                   |       |
 
-The idea is that when you read a book, you put it in the column for it's best-match genre, and you try to keep the height of the stacks pretty even. In particular, you have to keep your tallest stack within three of your shortest stack.
+The idea is that when you read a book, you put it in the column for its best-match genre, and you try to keep the height of the stacks pretty even. In particular, you have to keep your tallest stack within three of your shortest stack.
 
 If you're using obsidian, you can make the book names into page links that take you to your notes page for that book. This table can then serve you as a nice index for seeing what you've done. If you're using a paper notebook, put the page number for the book's section into the table along with the title.
 
