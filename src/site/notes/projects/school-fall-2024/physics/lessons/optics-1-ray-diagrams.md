@@ -26,8 +26,8 @@
 - What is the density of water? 
 - What is the acceleration due to gravity on the moon as a fraction of Earth's?  
 
-gr7: [lightning:: ]
-gr10: [lightning:: ]
+gr7: [lightning:: 3]
+gr10: [lightning:: 1]
 
 ## Lesson content with examples
 
@@ -61,14 +61,16 @@ This is what we did with the small mirror during the eclipse, and it's why all o
 
 
 - [ ] Draw the light rays passing through a pinhole camera. Why does it always form an image? Why does a larger hole *not* form an image like that?
-- [ ] In treasure hunter movies, sometimes the heros enter a dark chamber where the treasure is, and they angle a mirror that suddenly hits a dozen other mirrors and lights the entire space up like it's daylight. Why is this ridiculous?
-- [ ] Why is it silly to think that you'd see a laser beam shining in space if you aren't in its direct path (like the laser guns in Star Wars, for example)?
+- [ ] Light hits a mirror at a 30-degree angle. What angle does the reflected light make with the mirror's surface?
+- [ ] Two people are standing 10 feet apart with their backs to the same wall. A mirror is mounted to the opposite wall so that each person can see the other person in the mirror. Where is the mirror relative to the people?
 
 
 ## Homework
 
-- [ ] You made a pinhole camera with a 15-cm long chamber. You want to take a photo of your friend, who is 2 m tall. How far should they be from the aperture of the camera in order to make a 5 cm image?
-- [ ] Light hits a mirror at a 30-degree angle. What angle does the reflected light make with the mirror's surface?
-- [ ] Two people are standing 10 feet apart with their backs to the same wall. A mirror is mounted to the opposite wall so that each person can see the other person in the mirror. Where is the mirror relative to the people?
+- [ ] #hw (phys) Three question on [the lesson page about rays](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/optics-1-ray-diagrams) [[2025-03-26\|2025-03-26]]
+
+1. You made a pinhole camera with a 15-cm long chamber. You want to take a photo of your friend, who is 2 m tall. How far should they be from the aperture of the camera in order to make a 5 cm image?
+2. In treasure hunter movies, sometimes the heros enter a dark chamber where the treasure is, and they angle a mirror that suddenly hits a dozen other mirrors and lights the entire space up like it's daylight. Why is this ridiculous?
+3. Why is it silly to think that you'd see a laser beam shining in space if you aren't in its direct path (like the laser guns in Star Wars, for example)?
 
 

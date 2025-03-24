@@ -10,7 +10,7 @@
 - [CoGrader Essay Grading AI](https://v2.cograder.com/app)
 - [[projects/school-fall-2024/language/book-report-rubric\|book-report-rubric]]
 - [[projects/school-fall-2024/language/literature-2024\|literature-2024]]
-
+`
 ## Lesson
 
 - [[projects/school-fall-2024/language/lessons/outlining\|Outlining]] requirements for a good essay
