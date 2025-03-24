@@ -77,24 +77,45 @@ Somehow, this works with the LSP in nvim, but I have no idea how.
 
 ## Multiple tanks on-screen
 
-- Goal: multiple tanks driving on the screen at the same time
-- Goal: Collisions work with physical simulation of effects
+- [x] Goal: multiple tanks driving on the screen at the same time
+- [x] Goal: Collisions work with physical simulation of effects
 ## Tanks with turrets
 
-- Goal: The turret has a graphical representation that can point in the right direction
-- Requirement: The turret is a child of the tank, so it inherits the tank's rotation
-- 
+- [x] Goal: The turret has a graphical representation that can point in the right direction
+- [x] Requirement: The turret is a child of the tank, so it inherits the tank's rotation
+
 ## Tanks can shoot
+
+- [x] Tanks can fire bullets with varying levels of power
 
 ## Tanks have radar
 
+- [x] Tank radar can detect the presence of walls, bullets, and other tanks, and it reports position and velocity for all hits.
+
 ## Energy and damage
+
+- [ ] The tanks have an energy reserve that they use for boosting to temporarily higher speeds
+- [ ] Tanks can be damaged by bullets and by collisions
+    - [ ] Collisions do less damage when the front of the tank is what gets hit (so ramming can work).
 
 ## Keeping score
 
+- [ ] Define a scoring system for games that end in a timeout instead of decisive victory. Ideas (maybe, one point each?):
+    - Most damage dealt
+    - Most durability left
+    - Most damage per shot
+    - Fewest collisions with terrain
+    - Fastest first kill
+
 ## Game UI
 
+- [ ] Create an overlay to show tank health, current stats, time left, and any debug output
+- [ ] Allow the user to select a tank for focus to see debug messages
+- [ ] Allow a rewind? Roll back time for debugging purposes. The simulation should be deterministic, so this should be possible.
+
 ## Larger maps with different terrain types
+
+
 
 ## Transition to 2.5D graphics
 

@@ -88,4 +88,3 @@ To really start to understand this, we'd have to learn a lot about quantum mecha
 
 
 - [x] #hw (physics) (in class) Make a foil pinhole, single slit, and double slit experimental setup and investigate what green and red lasers do when shined through them. [[2025-03-21\|2025-03-21]]
-- [ ] #hw (physics) (in class) Use a pair of lenses to broaden the lasers' beams and repeat the experiment with slits spaced farther apart. What changes? [[2025-03-24\|2025-03-24]]

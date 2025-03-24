@@ -53,7 +53,8 @@ We are building a pair of line-following robots starting from scratch. The goal 
 
 - [[2025-02-04\|2025-02-04]] Assemble bots, wire and connect battery, and test the drive method.
 - Add methods for turning
-- Evaluate servo design, determine whether we need to switch to L298 motor drive board with gear motors.
-    - Do we need to use a power transistor to drive the servos? Arduino has pretty small current limit...
-- Add methods for sensing line marker
+- [x] Evaluate servo design, determine whether we need to switch to L298 motor drive board with gear motors.
+    - [x] Do we need to use a power transistor to drive the servos? Arduino has pretty small current limit... Answer: yes, separate power
+    - [ ] Servos were too unsteady and the control was really bad, switching to motors with the [[projects/school-fall-2024/engineering/lessons/tb6612fng-motor-driver-setup\|tb6612fng-motor-driver-setup]]
+- [x] Add methods for sensing line marker
 - Add method for steering to follow line

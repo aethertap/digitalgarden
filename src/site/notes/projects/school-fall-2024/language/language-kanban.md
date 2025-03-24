@@ -5,15 +5,16 @@
 
 ## Unscheduled
 
+- [ ] #hw [Win three million bucks!](https://dailygalaxy.com/2025/03/nasa-is-offering-3-million-to-those-who-can-help-fix-this-problem/) - We need to write up a proposal for how to deal with waste management on moon missions. [[2025-03-28\|2025-03-28]]
 
 
 ## Scheduled
 
-- [ ] Figurative Language (p. 131) [[2025-03-03\|2025-03-03]]
+- [x] Figurative Language (p. 131) [[2025-03-03\|2025-03-03]]
     - 10 Exercises p. 136-146
-- [ ] Word Choice (p. 150) [[2025-03-10\|2025-03-10]]
+- [x] Word Choice (p. 150) [[2025-03-10\|2025-03-10]]
     - 6 Exercises p. 153-165
-- [ ] Tone (p. 166) [[2025-03-17\|2025-03-17]]
+- [x] Tone (p. 166) [[2025-03-17\|2025-03-17]]
     - 6 Exercises p. 170-177
 - [ ] Textual Analysis (p. 178) [[2025-03-24\|2025-03-24]]
     - 7 Exercises p. 184-196
@@ -33,18 +34,20 @@
 
 ## In-progress
 
-- [x] Reference Materials (p. 112) [[2025-02-24\|2025-02-24]]
-    - 8 Exercises p. 116-130
+- [ ] #hw (lang) (gr7) Write a 500-word essay explaining your viewpoint on violence in video games, and what you think should be done to make sure kids are safe [[2025-03-31\|2025-03-31]]
+- [ ] #hw (lang) (gr10) Write a 1000-word essay about what you feel is the most important theme in *The Catcher in the Rye* [[2025-03-31\|2025-03-31]]
 
 
 ## To-grade
 
-- [x] #hw Extreme Ownership final draft [[2025-01-27\|2025-01-27]]
 
 
 ## Done
 
 **Complete**
+- [x] Reference Materials (p. 112) [[2025-02-24\|2025-02-24]]
+    - 8 Exercises p. 116-130
+- [x] #hw Extreme Ownership final draft [[2025-01-27\|2025-01-27]]
 - [x] Affixes and Roots (p. 96) [[2025-02-17\|2025-02-17]]
     - 7 Exercises p. 101-111
 - [x] Defining from Context (p. 82) [[2025-02-10\|2025-02-10]]

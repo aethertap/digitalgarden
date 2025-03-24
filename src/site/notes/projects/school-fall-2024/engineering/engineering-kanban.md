@@ -3,19 +3,32 @@
 ---
 
 
-## Planned Tasks
+## Project Ideas
 
+- [ ] Tethered balloon wildfire observer platform. It would float up hundreds of feet into the air, then use a simple computer vision setup to look for fires and report their location back to the ground wirelessly.
+- [ ] AI assisted tool-path generation for CAM. If an open source AI model could be created that would generate a tool path for machining an object given a 3d model of it.
+- [ ] Make an autonomous vehicle simulation using the [CARLA simulator](https://carla.org/)
+
+
+## Engineering Skills
+
+- [ ] Watch this [motors video](https://www.youtube.com/watch?v=-PCuDnpgiew) with the kids
 - [ ] #hw (robotics) Make a test track for your robot with sheets of paper and black electrical tape. The bots are big, so the track will need to be very large (it should probably be laid out all over the floor of the workshop).
-- [ ] #hw (robotics) Analyze what the biggest speed bottleneck is for your robot. What could you change about its behavior to make it follow the track faster? Write a technical report of 200-500 words that describes the problems you identified and proposes a step you can take to improve performance. It must be specific, measurable,  and achievable in a reasonable amount of time.
+- [ ] #hw (robotics) Analyze what the biggest speed bottleneck is for your robot. What could you change about its behavior to make it follow the track faster? Write a technical report of 200-500 words that describes the problems you identified and proposes a step you can take to improve performance. It must be specific, measurable, and achievable in a reasonable amount of time.
 - [ ] #hw (robotics) Implement your proposed speedup changes.
 
 
-## On-deck (ready)
+## Bot features
 
-- [ ] #hw (robotics) Create `pivot_left` and `pivot_right` methods for the `Robot` class that will cause it to turn in place to the left or right.
-- [ ] #hw (robotics) Write a `follow_line` function that always pivots toward the sensor that last sensed the line. If no sensor sees the line (or if the center sensor sees it), it should drive forward.
-- [ ] #hw (robotics) Analyze your robot's mechanical structure to see where it's weak points are. How could those be strengthened without overcomplicating your bot's build? What kind of forces are present and what kind of mechanical advantage is amplifiying them?
-- [ ] Watch this [motors video](https://www.youtube.com/watch?v=-PCuDnpgiew) with the kids
+- [ ] #hw Final assembly of v2 [[projects/school-fall-2024/engineering/engineering-projects/differential-steering-bot\|differential-steering-bot]], and test the state machine implementation with all parts active. [[2025-03-25\|2025-03-25]]
+- [ ] #hw Drive the bots around on a simple oval track, two straight sections, two semicircles. Debug and optimize the line-following code [[2025-03-27\|2025-03-27]]
+- [ ] #hw Oval track time trials, two laps in each direction around the track, 30 minutes to work on code, then repeat. Winner picks dinner! [[2025-04-01\|2025-04-01]]
+- [ ] #hw Introducing a 6-axis IMU - [MPU6050](https://components101.com/sensors/mpu6050-module) [HowtoMech tutorial](https://howtomechatronics.com/tutorials/arduino/arduino-and-mpu6050-accelerometer-and-gyroscope-tutorial/) Prototype a circuit that reads data from the mpu6050 and displays it to the serial port [[2025-04-03\|2025-04-03]]
+- [ ] #hw Create a class to interface with the mpu6050. You'll need to look at the [I2C serial interconnect protocol tutorial](https://learn.sparkfun.com/tutorials/i2c/all) to see how to use it [[2025-04-08\|2025-04-08]]
+- [ ] #hw Use the IMU to implement a `turn_by` function that takes an angle and turns the bot by that angle. [[2025-04-10\|2025-04-10]]
+- [ ] #hw Use the IMU to implement a `move_by` function that drives a set distance in the current direction [[2025-04-15\|2025-04-15]]
+- [ ] #hw Use the `turn_by` and `move_by` to implement `drive_to`, which takes an x, y coordinate relative to the current position at angle 0 (set when bot started) and drives there. [[2025-04-22\|2025-04-22]]
+- [ ] #hw Add an [[ultrasonic-range-sensor\|ultrasonic-range-sensor]] to your bot. [[2025-04-24\|2025-04-24]]
 
 
 ## Quick tasks
@@ -27,11 +40,12 @@
 ## In-progress
 
 - [ ] [[projects/school-fall-2024/engineering/engineering-projects/photo-gate-project\|photo-gate-project]] to build a set of photo gates for our physics lessons.
-- [ ] Connect the IR obstacle sensors to the board and add them to the control loop. Write code to test each sensor one at a time to avoid interference.
+- [ ] [[projects/school-fall-2024/engineering/engineering-projects/differential-steering-bot\|differential-steering-bot]]: Connect the IR obstacle sensors to the board and add them to the control loop. Write code to test each sensor one at a time to avoid interference.
 
 
 ## Complete
 
+- [ ] #hw (robotics) Create `pivot_left` and `pivot_right` methods for the `Robot` class that will cause it to turn in place to the left or right.
 - [x] #hw (robotics) Install IR sensors and do remaning bot assembly [[2024-12-10\|2024-12-10]]
 - [ ] #hw (robotics) Create a Robot class with a drive_forward method that turns both servos in a way that will make your bot move forward.
 - [ ] Make the photogate code use analogRead instead of digitalRead so that we can make it a bit more sensitive, since the phototransistor has a much higher internal resistance than I expected.
