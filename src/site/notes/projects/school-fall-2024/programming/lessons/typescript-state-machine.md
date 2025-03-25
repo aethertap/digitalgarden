@@ -57,7 +57,7 @@ class Robot {
     // indicate that it should do nothing, so don't name any of your states
     // "no-change"!
 
-    swichTo(new_state_name: string,api:TankAPI) {
+    switchTo(new_state_name: string,api:TankAPI) {
         if(new_state_name == "no-change") { 
         // if the state wants to stay active, 
         //this is the "new state" it should return.

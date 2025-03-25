@@ -46,8 +46,8 @@
 - [x] #hw (hist) Read section 6.3: Indigenous Responses to State Expansion pages 388–398
 - [x] #hw (hist) Read section 6.4: Global Economic Development pages 399–406
 - [x] #hw (hist) Read section 6.5: Economic Imperialism pages 407–416
-- [ ] #hw (hist) Read section 6.6: Causes of Migration in an Interconnected World pages 417–428
-- [ ] #hw (hist) Read section 6.7: Effects of Migration pages 429–438
+- [x] #hw (hist) Read section 6.6: Causes of Migration in an Interconnected World pages 417–428
+- [x] #hw (hist) Read section 6.7: Effects of Migration pages 429–438
 - [ ] #hw (hist) Read section 6.8: Causation in the Imperial Age pages 439–442
 - [ ] #hw (hist) Read section 7.1: Shifting Power pages 453–460
 - [ ] #hw (hist) Read section 7.2: Causes of World War I pages 461–468
