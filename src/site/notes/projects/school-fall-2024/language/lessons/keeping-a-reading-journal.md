@@ -54,4 +54,4 @@ You'll be building up a repository of powerful quotes, analysis, and broad exper
 - 
 ## Homework
 
-- [ ] #hw (lang) Pick five books, all with different genres, that you will read with your daily reading time. [Set up your reading journal according to these instructions](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/keeping-a-reading-journal)  [[2025-03-20\|2025-03-20]]
+- [x] #hw (lang) Pick five books, all with different genres, that you will read with your daily reading time. [Set up your reading journal according to these instructions](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/keeping-a-reading-journal)  [[2025-03-20\|2025-03-20]]

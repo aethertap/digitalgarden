@@ -52,6 +52,6 @@ Anything you can prove about the internal properties of a diagram (i.e. only rel
 ## Homework
 
 
-- [ ] #hw (geom-gr10) 16.1 Translations  (p. 408) (gr10) [[2025-03-26\|2025-03-26]] 
+- [x] #hw (geom-gr10) 16.1 Translations  (p. 408) (gr10) [[2025-03-26\|2025-03-26]]
 
 

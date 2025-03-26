@@ -42,4 +42,4 @@
 
 ## Homework
 
-- [ ] #hw (math) (gr7) Read section 12.1 The Pythagorean Theorem (p. 442) and do problems [[2025-03-20\|2025-03-20]] 
+- [x] #hw (math) (gr7) Read section 12.1 The Pythagorean Theorem (p. 442) and do problems [[2025-03-20\|2025-03-20]]

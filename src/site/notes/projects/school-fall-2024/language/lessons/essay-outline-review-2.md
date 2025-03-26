@@ -19,6 +19,6 @@
 
 ## Homework
 
-- [ ] #hw (lang) Spend 45 minutes reading a book from your list, then spend 15 minutes reflecting on it and writing down your reflections in your reading journal. [[2025-03-25\|2025-03-25]]
-- [ ] #hw (lang) [Reading Journal](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/keeping-a-reading-journal) 45 minutes [[2025-03-26\|2025-03-26]]
-- [ ] #hw (lang) Get your reading journal directory structure set up like mine, and get your writing submissions area ready. [[2025-03-26\|2025-03-26]]
+- [x] #hw (lang) Spend 45 minutes reading a book from your list, then spend 15 minutes reflecting on it and writing down your reflections in your reading journal. [[2025-03-25\|2025-03-25]]
+- [ ] #hw (lang) [Reading Journal](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/keeping-a-reading-journal) 45 minutes [[2025-03-27\|2025-03-27]]
+- [x] #hw (lang) Get your reading journal directory structure set up like mine, and get your writing submissions area ready. [[2025-03-26\|2025-03-26]]

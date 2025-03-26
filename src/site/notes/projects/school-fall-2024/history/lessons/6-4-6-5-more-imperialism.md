@@ -16,8 +16,8 @@
 
 
 
-- [ ] #hw (hist) Read history  Read section 6.6: Causes of Migration in an Interconnected World pages 417–428 [[2025-03-25\|2025-03-25]] 
-- [ ] #hw (hist) Read history  Read section 6.7: Effects of Migration pages 429–438 [[2025-03-25\|2025-03-25]] 
+- [x] #hw (hist) Read history  Read section 6.6: Causes of Migration in an Interconnected World pages 417–428 [[2025-03-25\|2025-03-25]]
+- [x] #hw (hist) Read history  Read section 6.7: Effects of Migration pages 429–438 [[2025-03-25\|2025-03-25]]
 
 ## Topics
 

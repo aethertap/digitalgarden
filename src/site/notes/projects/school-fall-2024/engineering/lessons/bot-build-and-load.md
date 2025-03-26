@@ -66,4 +66,4 @@ Remember that you'll use this code as the basic *interface*, but your actual cla
 ## Homework
 
 
-- [ ] #hw (engr) Write a class like the ContinuousServo, but for a PWM-controlled motor using the tb6612fng control board. It should implement the [MotorPWM API](https://school.ginosterous.com/projects/school-fall-2024/engineering/lessons/bot-build-and-load) from the lesson.  [[2025-03-25\|2025-03-25]]
+- [x] #hw (engr) Write a class like the ContinuousServo, but for a PWM-controlled motor using the tb6612fng control board. It should implement the [MotorPWM API](https://school.ginosterous.com/projects/school-fall-2024/engineering/lessons/bot-build-and-load) from the lesson.  [[2025-03-25\|2025-03-25]]

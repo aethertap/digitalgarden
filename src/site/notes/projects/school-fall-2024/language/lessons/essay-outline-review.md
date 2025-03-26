@@ -33,5 +33,5 @@
 
 ## Homework
 
-- [ ] #hw (lang) Make sure you have a full, [single paragraph outline](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/outlining) for every paragraph of your essay. [[2025-03-19\|2025-03-19]]
+- [x] #hw (lang) Make sure you have a full, [single paragraph outline](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/outlining) for every paragraph of your essay. [[2025-03-19\|2025-03-19]]
 - [x] #hw (lang) Review the [Essay Writing](https://school.ginosterous.com/projects/school-fall-2024/language/lessons/how-to-write-an-essay-pt1) lesson to see what needs to be in each paragraph. [[2025-03-19\|2025-03-19]]

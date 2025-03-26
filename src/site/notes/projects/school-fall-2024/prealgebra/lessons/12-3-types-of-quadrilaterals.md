@@ -89,4 +89,4 @@ For other quadrilaterals, the best strategy is usually to cut them into pieces t
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 12.3 Types of Quadrilaterals (p. 457) [[2025-03-26\|2025-03-26]] 
+- [x] #hw (math) (gr7) 12.3 Types of Quadrilaterals (p. 457) [[2025-03-26\|2025-03-26]]

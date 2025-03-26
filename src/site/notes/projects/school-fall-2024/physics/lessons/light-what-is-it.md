@@ -18,7 +18,7 @@
 ### Lesson-specific resource links
 
 - https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html  
-- [ ] #hw (science) Read https://www.snexplores.org/article/light-delay. [[2025-03-24\|2025-03-24]]
+- [x] #hw (science) Read https://www.snexplores.org/article/light-delay. [[2025-03-24\|2025-03-24]]
 
 ### Lightning Round Questions
 

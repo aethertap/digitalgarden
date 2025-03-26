@@ -58,3 +58,7 @@ We are building a pair of line-following robots starting from scratch. The goal 
     - [ ] Servos were too unsteady and the control was really bad, switching to motors with the [[projects/school-fall-2024/engineering/lessons/tb6612fng-motor-driver-setup\|tb6612fng-motor-driver-setup]]
 - [x] Add methods for sensing line marker
 - Add method for steering to follow line
+- [ ] #hw (gr7) Move power switch to back of chassis [[2025-03-27\|2025-03-27]]
+- [ ] #hw (gr7) Extend front of chassis to ensure clearance for caster behind IR sensors [[2025-03-27\|2025-03-27]]
+- [ ] #hw (gr7) Reorient arduino mounting holes for standoffs. [[2025-03-27\|2025-03-27]]
+- [ ]  

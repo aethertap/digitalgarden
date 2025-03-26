@@ -40,5 +40,5 @@
 
 ## Homework
 
-- [ ] #hw (math) 12.2 Some Special Triangles (p. 451) [[2025-03-24\|2025-03-24]]
-- [ ] #hw (math) 12.3 Types of Quadrilaterals (p. 457) [[2025-03-26\|2025-03-26]]
+- [x] #hw (math) 12.2 Some Special Triangles (p. 451) [[2025-03-24\|2025-03-24]]
+- [x] #hw (math) 12.3 Types of Quadrilaterals (p. 457) [[2025-03-26\|2025-03-26]]

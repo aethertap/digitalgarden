@@ -38,7 +38,7 @@
 ## In-progress
 
 - [ ] [[projects/school-fall-2024/engineering/engineering-projects/differential-steering-bot\|differential-steering-bot]]: Connect the IR obstacle sensors to the board and add them to the control loop. Write code to test each sensor one at a time to avoid interference.
-- [ ] #hw Final assembly of v2 [[projects/school-fall-2024/engineering/engineering-projects/differential-steering-bot\|differential-steering-bot]], and test the state machine implementation with all parts active. [[2025-03-27\|2025-03-27]]
+- [x] #hw Final assembly of v2 [[projects/school-fall-2024/engineering/engineering-projects/differential-steering-bot\|differential-steering-bot]], and test the state machine implementation with all parts active. [[2025-03-27\|2025-03-27]]
 
 
 ## Complete

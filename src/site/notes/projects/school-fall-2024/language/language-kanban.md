@@ -5,7 +5,7 @@
 
 ## Unscheduled
 
-- [ ] #hw [Win three million bucks!](https://dailygalaxy.com/2025/03/nasa-is-offering-3-million-to-those-who-can-help-fix-this-problem/) - We need to write up a proposal for how to deal with waste management on moon missions. [[2025-03-28\|2025-03-28]]
+- [ ] #hw [Win three million bucks!](https://dailygalaxy.com/2025/03/nasa-is-offering-3-million-to-those-who-can-help-fix-this-problem/) - We need to write up a proposal for how to deal with waste management on moon missions.
 
 
 ## Scheduled
@@ -28,7 +28,7 @@
     - 8 Exercises p. 255-269
 - [ ] Expository Writing (p. 270) [[2025-04-28\|2025-04-28]]
     - 7 Exercises p. 276-289
-- [ ] Writing Arguments (pl 290) [[2025-05-05\|2025-05-05]]
+- [ ] Writing Arguments (p. 290) [[2025-05-05\|2025-05-05]]
     - 10 Exercises p. 296-312
 
 
