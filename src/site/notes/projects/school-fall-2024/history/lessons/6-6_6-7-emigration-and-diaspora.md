@@ -33,7 +33,7 @@
 
 ## Homework
 
-- [ ] #hw (hist) Follow the [instructions in the lesson](https://school.ginosterous.com/projects/school-fall-2024/history/lessons/6-6_6-7-emigration-and-diaspora) to write a paragraph about migration [[2025-03-27\|2025-03-27]]
+- [ ] #hw (hist) Follow the [instructions in the lesson](https://school.ginosterous.com/projects/school-fall-2024/history/lessons/6-6-6-7-emigration-and-diaspora) to write a paragraph about migration [[2025-03-27\|2025-03-27]]
 
 1. Write a [[projects/school-fall-2024/language/lessons/outlining\|Single Paragraph Outline]] for a paragraph about the causes and effects of the mass migrations that resulted from changes brought by imperialism and industrialism. 
 2. Use your outline to write the paragraph. 
