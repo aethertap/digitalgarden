@@ -15,7 +15,6 @@
 - [AP Physics 1 Dan Fullerton videos](https://www.youtube.com/playlist?list=PLd2HWlWc-MsysWuL9ksneEM8cl5bk3bHH)
 
 
-
 ### Lightning Round Questions
 
 - (lang) What is a subordinate clause? 
@@ -27,8 +26,6 @@
 
 gr7: [lightning:: ]
 gr10: [lightning:: ]
-## Demonstration
-
 
 ## Concept summary and connections
 

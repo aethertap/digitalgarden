@@ -17,7 +17,7 @@
 
 
 
-- [ ] #hw (hist) Read history  Read section 6.8: Causation in the Imperial Age pages 439–442 [[2025-03-27\|2025-03-27]] 
+- [x] #hw (hist) Read history  Read section 6.8: Causation in the Imperial Age pages 439–442 [[2025-03-27\|2025-03-27]]
 
 ## Topics
 

@@ -34,7 +34,6 @@
 
 ## Scheduled
 
-- [ ] Fiber optics, total internal reflection, p 969 [[2025-03-28\|2025-03-28]]
 
 
 ## Quick tasks
@@ -43,11 +42,12 @@
 
 ## Current/ongoing
 
-- [ ] Refraction, p. 966 [[2025-03-26\|2025-03-26]]
+- [ ] Fiber optics, total internal reflection, p 969 [[2025-03-28\|2025-03-28]]
 
 
 ## Completed
 
+- [ ] Refraction, p. 966 [[2025-03-26\|2025-03-26]]
 - [x] Ray diagrams, apertures, reflection p. 961 [[2025-03-24\|2025-03-24]]
 - [x] [[projects/school-fall-2024/physics/lessons/measurement-precision-accuracy-lab\|measurement-precision-accuracy-lab]] [[2025-01-09\|2025-01-09]]
 - [ ] Read https://www.snexplores.org/article/lasers-long-data-storage-inside-glass
