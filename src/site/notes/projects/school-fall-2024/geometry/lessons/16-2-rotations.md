@@ -43,6 +43,6 @@ Rotations always have a center point and an angle, and in 2D can be either clock
 ## Homework
 
 
-- [ ] #hw (geom-gr10) 16.2 Rotations  (p. 411) (gr10) [[2025-03-28\|2025-03-28]] 
+- [x] #hw (geom-gr10) 16.2 Rotations  (p. 411) (gr10) [[2025-03-28\|2025-03-28]]
 
 

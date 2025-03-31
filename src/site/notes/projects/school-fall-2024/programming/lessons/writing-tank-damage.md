@@ -40,6 +40,7 @@ When a tank's hit points are zero or less, the tank is destroyed. At that point,
 ### Bullet damage
 
 The bullets already have a damage function, so we just need to call that when a bullet hits a tank, and apply the result to the tank. If we plan ahead for different armor types, we want to know not only the bullet's damage, but also where it came from (in case armor is unequally distributed on the tank). The tank's damage function should take a number and a direction.
+- May be fun to add some knockback: higher power bullets apply larger impulse.
 
 ### Collision damage
 

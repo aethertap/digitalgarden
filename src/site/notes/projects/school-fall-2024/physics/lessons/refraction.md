@@ -74,4 +74,4 @@ One easy way to remember this is to use *two* rays of light that are close to ea
 ## Homework
 
 
-- [ ] #hw (physics) [physics classroom refraction](https://www.physicsclassroom.com/Concept-Builders/Reflection-and-Refraction/Refraction-Law-Enforcement/Concept-Builder) Do the beginner level (first one) [[2025-03-28\|2025-03-28]]
+- [x] #hw (physics) [physics classroom refraction](https://www.physicsclassroom.com/Concept-Builders/Reflection-and-Refraction/Refraction-Law-Enforcement/Concept-Builder) Do the beginner level (first one) [[2025-03-28\|2025-03-28]]

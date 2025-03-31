@@ -7,6 +7,11 @@
 
 You will be graded on four criteria, and each one has four levels of proficiency possible. A perfect score is 16 points, and a dismal score is 4 points.
 
+Self-grading:
+1. Grade each paragraph for all four criteria first
+2. Your score is the median value from the paragraph values.
+3. Try to see your weakest and strongest paragraphs by these measurements so you can see how you might improve
+4. 
 
 ## Clarity and Focus
 

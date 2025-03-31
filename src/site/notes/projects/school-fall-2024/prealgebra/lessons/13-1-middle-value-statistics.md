@@ -34,4 +34,4 @@
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 13.1 Basic Statistics (p. 476) [[2025-03-28\|2025-03-28]] 
+- [x] #hw (math) (gr7) 13.1 Basic Statistics (p. 476) [[2025-03-28\|2025-03-28]]

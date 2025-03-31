@@ -31,8 +31,8 @@
 - Why does light "bend" when it hits new materials? 
 - What is the speed of light in a vacuum?  
 
-gr7: [lightning:: ]
-gr10: [lightning:: ]
+gr7: [lightning:: 3]
+gr10: [lightning:: 3]
 
 ## Lesson content with examples
 
@@ -48,7 +48,7 @@ gr10: [lightning:: ]
 
 ## Checking homework
 
-<div><ul class="contains-task-list"><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a href="#hw" class="tag" target="_blank" rel="noopener nofollow">#hw</a> (phys) Three question on <a data-tooltip-position="top" aria-label="https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/optics-1-ray-diagrams" rel="noopener nofollow" class="external-link" href="https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/optics-1-ray-diagrams" target="_blank">the lesson page about rays</a> <a data-href="2025-03-26" href="2025-03-26" class="internal-link" target="_blank" rel="noopener nofollow">2025-03-26</a></span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a href="#hw" class="tag" target="_blank" rel="noopener nofollow">#hw</a> (physics) <a data-tooltip-position="top" aria-label="https://www.physicsclassroom.com/Concept-Builders/Reflection-and-Refraction/Refraction-Law-Enforcement/Concept-Builder" rel="noopener nofollow" class="external-link" href="https://www.physicsclassroom.com/Concept-Builders/Reflection-and-Refraction/Refraction-Law-Enforcement/Concept-Builder" target="_blank">physics classroom refraction</a> Do the beginner level (first one) <a data-href="2025-03-28" href="2025-03-28" class="internal-link" target="_blank" rel="noopener nofollow">2025-03-28</a></span></li></ul></div>
+<div><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for task query.</p></div></div>
 
 ## Guided practice
 
@@ -60,4 +60,4 @@ gr10: [lightning:: ]
 
 ## Homework
 
-- [ ] #hw (physics) [Total Internal Reflection concept checker](https://www.physicsclassroom.com/Concept-Checkers/Interactives/Total-Internal-Reflection/Concept-Checker) [[2025-03-31\|2025-03-31]]
+- [x] #hw (physics) [Total Internal Reflection concept checker](https://www.physicsclassroom.com/Concept-Checkers/Interactives/Total-Internal-Reflection/Concept-Checker) [[2025-03-31\|2025-03-31]]

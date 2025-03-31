@@ -67,7 +67,7 @@ This is what we did with the small mirror during the eclipse, and it's why all o
 
 ## Homework
 
-- [ ] #hw (phys) Three question on [the lesson page about rays](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/optics-1-ray-diagrams) [[2025-03-26\|2025-03-26]]
+- [x] #hw (phys) Three question on [the lesson page about rays](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/optics-1-ray-diagrams) [[2025-03-26\|2025-03-26]]
 
 1. You made a pinhole camera with a 15-cm long chamber. You want to take a photo of your friend, who is 2 m tall. How far should they be from the aperture of the camera in order to make a 5 cm image?
 2. In treasure hunter movies, sometimes the heros enter a dark chamber where the treasure is, and they angle a mirror that suddenly hits a dozen other mirrors and lights the entire space up like it's daylight. Why is this ridiculous?

@@ -34,12 +34,13 @@
 
 ## In-progress
 
-- [ ] #hw (lang) (gr7) Write a 500-word essay explaining your viewpoint on violence in video games, and what you think should be done to make sure kids are safe [[2025-03-31\|2025-03-31]]
-- [ ] #hw (lang) (gr10) Write a 1000-word essay about what you feel is the most important theme in *The Catcher in the Rye* [[2025-03-31\|2025-03-31]]
+- [ ] #hw (lang) Revise your essay to address the things you saw as weaknesses so that you feel good turning it in. [[2025-04-02\|2025-04-02]]
 
 
 ## To-grade
 
+- [x] #hw (lang) (gr7) Write a 500-word essay explaining your viewpoint on violence in video games, and what you think should be done to make sure kids are safe [[2025-03-31\|2025-03-31]]
+- [x] #hw (lang) (gr10) Write a 1000-word essay about what you feel is the most important theme in *The Catcher in the Rye* [[2025-03-31\|2025-03-31]]
 
 
 ## Done

@@ -36,7 +36,7 @@
     - 
 ## Homework
 
-- [ ] #hw (hist) [Questions from the lesson (2 sentences, 2 questions)](https://school.ginosterous.com/projects/school-fall-2024/history/lessons/6-3-indigenous-responses) [[2025-03-18\|2025-03-18]]
+- [x] #hw (hist) [Questions from the lesson (2 sentences, 2 questions)](https://school.ginosterous.com/projects/school-fall-2024/history/lessons/6-3-indigenous-responses) [[2025-03-18\|2025-03-18]]
 
 1. [Because, But, So](https://school.ginosterous.com/projects/school-fall-2024/language/language-review/because-but-so-exercises) - "Indigenous people all around the world rebelled to throw out imperialists, ..."
 2. Edit the sentences from (1) to make sure they answer *who*, *when*, and *why* with clear, specific details. 

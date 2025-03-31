@@ -47,7 +47,7 @@
     - Suppose a person with $\$1,\!000,\!000$ and 4 people who have $\$0$ move into Richville. Will the average wealth of Richville go up or down? 
 
 - [ ] The median wealth of a person in Goldtown is $\$150,\!000$ and the median wealth of a person in Tintown is $\$20,\!000$. Each town has $8000$ people. 
-    - Suppose a town qualifies for special government subsidies if each of at least half of its residents has less than ![$\color[rgb]{0.11,0.21,0.37}\$60{,}000$](https://latex.artofproblemsolving.com/a/0/a/a0abb51084c25b1aedcfa5e2f179c0ac1e870e34.png). Does either town necessarily qualify for the subsidies?
+    - Suppose a town qualifies for special government subsidies if each of at least half of its residents has less than $\color[rgb]{0.11,0.21,0.37}\$60{,}000$. Does either town necessarily qualify for the subsidies?
     - Can we tell which town has the higher average wealth?
     - Suppose a person with $1,000,000,000 and four people with $0 move into town. Will the median wealth go up or down?
 
