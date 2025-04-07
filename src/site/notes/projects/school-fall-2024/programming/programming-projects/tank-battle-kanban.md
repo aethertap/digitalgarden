@@ -11,17 +11,18 @@
 ## ready to start
 
 - [ ] Put error messages into the game's output area so they are visible.
-- [ ] Add multiple tanks and check that the radar and collisions work properly
 
 
 ## in progress
 
-- [ ] Shooting - make the bullets cause damage and disappear when they collide with something.
+- [ ] Add a way to have the game fetch a tank source file from a URL (i.e. github). It should keep a local copy, but refresh every time it reloads.
 
 
 ## complete
 
 **Complete**
+- [x] Shooting - make the bullets cause damage and disappear when they collide with something.
+- [x] Add multiple tanks and check that the radar and collisions work properly
 - [x] Make the gun track its shot energy, and make the bullet's damage depend on the shot energy.
 - [x] Add radar scanning results to the sensor data.
 - [x] Limit the turning speed, with the full track speed available, the turn is too fast.

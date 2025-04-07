@@ -18,22 +18,8 @@
 
 
 
-## Concept summary and connections
 
 
-- TBD 
-
-## Lesson and worked examples
-
-
-
-## Media resources
-
-- [Youtube search for "TBD"](https://www.youtube.com/results?search_query=TBD) 
-
-## Guided practice
-
+- Content TBD based on grading results
 
 - [ ] Correct all mistakes on the whiteboard together.  
-
-

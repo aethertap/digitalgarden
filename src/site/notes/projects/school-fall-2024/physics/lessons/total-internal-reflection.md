@@ -19,7 +19,7 @@
 
 - [The Critical Angle (youtube)](https://www.youtube.com/watch?v=heoC97Z8ipg)  
 
-- [ ] #hw (science) Read [Bumblebees and pesticide](https://www.snexplores.org/article/pesticides-impact-bumblebee-learning) and write a single sentence summary that answers *what*, *why*, and *who* with information from the article. [[2025-03-31\|2025-03-31]]
+- [x] #hw (science) Read [Bumblebees and pesticide](https://www.snexplores.org/article/pesticides-impact-bumblebee-learning) and write a single sentence summary that answers *what*, *why*, and *who* with information from the article. [[2025-03-31\|2025-03-31]]
 
 ### Lightning Round Questions
 

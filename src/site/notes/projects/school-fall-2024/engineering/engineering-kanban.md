@@ -21,7 +21,7 @@
 ## Bot features
 
 - [ ] #hw Drive the bots around on a simple oval track, two straight sections, two semicircles. Debug and optimize the line-following code [[2025-04-01\|2025-04-01]]
-- [ ] #hw Oval track time trials, two laps in each direction around the track, 30 minutes to work on code, then repeat. Winner picks dinner! [[2025-04-03\|2025-04-03]]
+- [x] #hw Oval track time trials, two laps in each direction around the track, 30 minutes to work on code, then repeat. Winner picks dinner! [[2025-04-03\|2025-04-03]]
 - [ ] #hw Introducing a 6-axis IMU - [MPU6050](https://components101.com/sensors/mpu6050-module) [HowtoMech tutorial](https://howtomechatronics.com/tutorials/arduino/arduino-and-mpu6050-accelerometer-and-gyroscope-tutorial/) Prototype a circuit that reads data from the mpu6050 and displays it to the serial port [[2025-04-08\|2025-04-08]]
 - [ ] #hw Create a class to interface with the mpu6050. You'll need to look at the [I2C serial interconnect protocol tutorial](https://learn.sparkfun.com/tutorials/i2c/all) to see how to use it [[2025-04-10\|2025-04-10]]
 - [ ] #hw Use the IMU to implement an `angle` function that measures the current orientation and returns it as an angle. [[2025-04-15\|2025-04-15]]

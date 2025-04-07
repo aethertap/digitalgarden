@@ -37,4 +37,4 @@ People of the past were just as intelligent as people of the present. How can we
 ## Homework
 
 - [x] #hw (hist) [Because, But, So:](https://school.ginosterous.com/projects/school-fall-2024/language/language-review/because-but-so-exercises) "Imperialism was a major source of turmoil from 1700-1900, {because..., but..., so...} [[2025-03-13\|2025-03-13]]
-- [ ] #hw (hist) ACE response: What made Japan's nationalism strong around the time of the Meiji Restoration, and why? [[2025-03-18\|2025-03-18]]
+- [x] #hw (hist) ACE response: What made Japan's nationalism strong around the time of the Meiji Restoration, and why? [[2025-03-18\|2025-03-18]]

@@ -16,9 +16,9 @@
     - 6 Exercises p. 153-165
 - [x] Tone (p. 166) [[2025-03-17\|2025-03-17]]
     - 6 Exercises p. 170-177
-- [ ] Textual Analysis (p. 178) [[2025-03-24\|2025-03-24]]
+- [x] Textual Analysis (p. 178) [[2025-03-24\|2025-03-24]]
     - 7 Exercises p. 184-196
-- [ ] Writing Narratives (p. 197) [[2025-03-31\|2025-03-31]]
+- [x] Writing Narratives (p. 197) [[2025-03-31\|2025-03-31]]
     - 7 Exercises p. 204-217
 - [ ] The Writing Process (p. 218) [[2025-04-07\|2025-04-07]]
     - 8 Exercises p. 224-235

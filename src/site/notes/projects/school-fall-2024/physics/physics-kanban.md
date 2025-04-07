@@ -5,8 +5,6 @@
 
 ## Unscheduled
 
-- [ ] Thin lenses, converging lens, diverging lens, thin lens equation (p. 981) [[2025-04-02\|2025-04-02]]
-- [ ] Curved mirrors (p. 983) [[2025-04-04\|2025-04-04]]
 - [ ] Combinations of lenses (p. 996) [[2025-04-07\|2025-04-07]]
 - [ ] Focus and zoom in camera lenses, using the lens equation (p. 998) [[2025-04-09\|2025-04-09]]
 - [ ] Exposure, iris, f-number (999) [[2025-04-11\|2025-04-11]]
@@ -41,12 +39,14 @@
 
 ## Current/ongoing
 
-- [x] Image formation, real and virtual images, p. 971 [[2025-03-31\|2025-03-31]]
+- [ ] Thin lenses, converging lens, diverging lens, thin lens equation (p. 981) [[2025-04-02\|2025-04-02]]
+- [ ] Curved mirrors (p. 983) [[2025-04-04\|2025-04-04]]
 
 
 ## Completed
 
 - [x] Fiber optics, total internal reflection, p 969 [[2025-03-28\|2025-03-28]]
+- [x] Image formation, real and virtual images, p. 971 [[2025-03-31\|2025-03-31]]
 - [x] Refraction, p. 966 [[2025-03-26\|2025-03-26]]
 - [x] Ray diagrams, apertures, reflection p. 961 [[2025-03-24\|2025-03-24]]
 - [x] [[projects/school-fall-2024/physics/lessons/measurement-precision-accuracy-lab\|measurement-precision-accuracy-lab]] [[2025-01-09\|2025-01-09]]

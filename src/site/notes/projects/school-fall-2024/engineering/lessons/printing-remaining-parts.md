@@ -55,4 +55,4 @@ Make notes to yourself about what kinds of things don't work so that you can cat
 - [ ] (engr) Cut axle for gr7's caster. We will have to shim it with tape.  
 - [ ] (engr) Print the remaining parts *first thing in the morning* so they are ready for us this afternoon.  
 - [ ] (engr) State machine code review and final (hopefully) build.  
-- [ ] #hw (engr) Assemble and program your bot. It should be ready for testing at the start of class.  [[2025-03-27\|2025-03-27]]
+- #hw (engr) Assemble and program your bot. It should be ready for testing at the start of class.  [[2025-04-01\|2025-04-01]]
