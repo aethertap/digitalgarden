@@ -96,7 +96,7 @@ Mirrors can also make real or virtual images. In a concave mirror, a real image 
 - Let's compute the focal lengths of our magnifying glasses. How could we do that?
 
 ## Checking homework
-<div><ul class="contains-task-list"><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a href="#hw" class="tag" target="_blank" rel="noopener nofollow">#hw</a> (science) Read <a rel="noopener nofollow" class="external-link" href="https://www.snexplores.org/article/ionosphere-smartphone-data-gps" target="_blank">https://www.snexplores.org/article/ionosphere-smartphone-data-gps</a>. <a data-href="2025-04-02" href="2025-04-02" class="internal-link" target="_blank" rel="noopener nofollow">2025-04-02</a></span></li></ul></div>
+<div><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for task query.</p></div></div>
 
 ## Guided practice
 
@@ -111,4 +111,4 @@ Mirrors can also make real or virtual images. In a concave mirror, a real image 
 3. What happens to the image you see if you move the lens *past* the focal point? [[2025-04-09\|2025-04-09]]
 
 
-- [ ] #hw (physics) Three problems, [see the lesson page under "Homework"](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/curved-mirrors-and-thin-lenses)
+- [ ] #hw (physics) Three problems, [see the lesson page under "Homework"](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/curved-mirrors-and-thin-lenses) [[2025-04-09\|2025-04-09]]

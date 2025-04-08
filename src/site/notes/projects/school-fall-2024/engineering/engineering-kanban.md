@@ -20,13 +20,12 @@
 
 ## Bot features
 
-- [ ] #hw Drive the bots around on a simple oval track, two straight sections, two semicircles. Debug and optimize the line-following code [[2025-04-01\|2025-04-01]]
 - [x] #hw Oval track time trials, two laps in each direction around the track, 30 minutes to work on code, then repeat. Winner picks dinner! [[2025-04-03\|2025-04-03]]
-- [ ] #hw Introducing a 6-axis IMU - [MPU6050](https://components101.com/sensors/mpu6050-module) [HowtoMech tutorial](https://howtomechatronics.com/tutorials/arduino/arduino-and-mpu6050-accelerometer-and-gyroscope-tutorial/) Prototype a circuit that reads data from the mpu6050 and displays it to the serial port [[2025-04-08\|2025-04-08]]
-- [ ] #hw Create a class to interface with the mpu6050. You'll need to look at the [I2C serial interconnect protocol tutorial](https://learn.sparkfun.com/tutorials/i2c/all) to see how to use it [[2025-04-10\|2025-04-10]]
-- [ ] #hw Use the IMU to implement an `angle` function that measures the current orientation and returns it as an angle. [[2025-04-15\|2025-04-15]]
-- [ ] #hw Use the IMU to implement `move_by` and `turn_by`, which each take a number and either move that far or turn by that amount.  [[2025-04-22\|2025-04-22]]
-- [ ] #hw Use the `turn_by` and `move_by` to implement `drive_to`, which takes an x, y coordinate relative to the current position at angle 0 (set when bot started) and drives there. [[2025-04-24\|2025-04-24]]
+- [ ] #hw Introducing a 6-axis IMU - [MPU6050](https://components101.com/sensors/mpu6050-module) [HowtoMech tutorial](https://howtomechatronics.com/tutorials/arduino/arduino-and-mpu6050-accelerometer-and-gyroscope-tutorial/) Prototype a circuit that reads data from the mpu6050 and displays it to the serial port
+- [ ] #hw Create a class to interface with the mpu6050. You'll need to look at the [I2C serial interconnect protocol tutorial](https://learn.sparkfun.com/tutorials/i2c/all) to see how to use it
+- [ ] #hw Use the IMU to implement an `angle` function that measures the current orientation and returns it as an angle.
+- [ ] #hw Use the IMU to implement `move_by` and `turn_by`, which each take a number and either move that far or turn by that amount.
+- [ ] #hw Use the `turn_by` and `move_by` to implement `drive_to`, which takes an x, y coordinate relative to the current position at angle 0 (set when bot started) and drives there.
 - [ ] #hw Add an [[ultrasonic-range-sensor\|ultrasonic-range-sensor]] to your bot.
 
 
@@ -37,13 +36,15 @@
 
 ## In-progress
 
-- [ ] [[projects/school-fall-2024/engineering/engineering-projects/differential-steering-bot\|differential-steering-bot]]: Connect the IR obstacle sensors to the board and add them to the control loop. Write code to test each sensor one at a time to avoid interference.
-- [x] #hw Final assembly of v2 [[projects/school-fall-2024/engineering/engineering-projects/differential-steering-bot\|differential-steering-bot]], and test the state machine implementation with all parts active. [[2025-03-27\|2025-03-27]]
+- [ ] #hw Drive the bots around on a simple oval track, two straight sections, two semicircles. Debug and optimize the line-following code [[2025-04-01\|2025-04-01]]
+- [ ] Debug the movement controls, do an in-depth code review and provide suggestions for improvements in code structure. Pay special attention to repetitive or misplaced functions (state funcs in the state machine or robot class, etc).
 
 
 ## Complete
 
 **Complete**
+- [x] #hw Final assembly of v2 [[projects/school-fall-2024/engineering/engineering-projects/differential-steering-bot\|differential-steering-bot]], and test the state machine implementation with all parts active. [[2025-03-27\|2025-03-27]]
+- [x] [[projects/school-fall-2024/engineering/engineering-projects/differential-steering-bot\|differential-steering-bot]]: Connect the IR obstacle sensors to the board and add them to the control loop. Write code to test each sensor one at a time to avoid interference.
 - [x] Fix the caster wheel mount so that the screws don't interfere with the turning of the caster.
 - [x] [[projects/school-fall-2024/engineering/engineering-projects/photo-gate-project\|photo-gate-project]] to build a set of photo gates for our physics lessons.
 - [x] #hw (robotics) Create `pivot_left` and `pivot_right` methods for the `Robot` class that will cause it to turn in place to the left or right.

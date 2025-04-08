@@ -55,4 +55,4 @@
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 13.2 Limits of Basic Statistics (p. 486) [[2025-03-31\|2025-03-31]] 
+- [x] #hw (math) (gr7) 13.2 Limits of Basic Statistics (p. 486) [[2025-03-31\|2025-03-31]]

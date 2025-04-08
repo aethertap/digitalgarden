@@ -48,6 +48,7 @@ We are building a pair of line-following robots starting from scratch. The goal 
     - Their rotation is inconsistent
     - According to the docs, they should have no motion if the pulse width is 1.5 ms, so maybe we should try servo.writeMicroseconds(1500), and use our map function to manually map the -1...1 interval of speed into the 1000 ... 2000 range of microsecond timings.
     - I am wondering if continuously writing the value with the servo is causing it to reset its internal timing and messing up the pulse interval and width
+![Pasted image 20250408100121.jpg](/img/user/projects/school-fall-2024/engineering/engineering-projects/_resources/Pasted%20image%2020250408100121.jpg)
 
 ## Next steps
 

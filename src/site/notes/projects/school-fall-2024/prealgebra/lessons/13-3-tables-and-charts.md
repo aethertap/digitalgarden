@@ -70,4 +70,4 @@
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 13.3 Tables, Graphs, and Charts (p. 494) [[2025-04-02\|2025-04-02]] 
+- [x] #hw (math) (gr7) 13.3 Tables, Graphs, and Charts (p. 494) [[2025-04-02\|2025-04-02]]

@@ -43,4 +43,4 @@ When the reflection of a diagram concides with the original diagram, then the re
 ## Homework
 
 
-- [ ] #hw (geom-gr10) 16.3 Reflections  (p. 413) (gr10) [[2025-03-31\|2025-03-31]] 
+- [x] #hw (geom-gr10) 16.3 Reflections  (p. 413) (gr10) [[2025-03-31\|2025-03-31]]

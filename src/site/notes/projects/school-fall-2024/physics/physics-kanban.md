@@ -39,8 +39,8 @@
 
 ## Current/ongoing
 
-- [ ] Thin lenses, converging lens, diverging lens, thin lens equation (p. 981) [[2025-04-02\|2025-04-02]]
-- [ ] Curved mirrors (p. 983) [[2025-04-04\|2025-04-04]]
+- [x] Thin lenses, converging lens, diverging lens, thin lens equation (p. 981) [[2025-04-02\|2025-04-02]]
+- [x] Curved mirrors (p. 983) [[2025-04-04\|2025-04-04]]
 
 
 ## Completed

@@ -19,7 +19,7 @@
 
 - [The mirascope illusion](https://www.physics.wisc.edu/ingersollmuseum/exhibits/opticscolor/parabolicmirrorillusion/) 
 - [Bozeman science converging/diverging lenses](https://www.youtube.com/watch?v=mfytZxM8lho)  
-- [ ] #hw (science) Read https://www.snexplores.org/article/ionosphere-smartphone-data-gps. [[2025-04-02\|2025-04-02]]
+- [x] #hw (science) Read https://www.snexplores.org/article/ionosphere-smartphone-data-gps. [[2025-04-02\|2025-04-02]]
 
 
 
