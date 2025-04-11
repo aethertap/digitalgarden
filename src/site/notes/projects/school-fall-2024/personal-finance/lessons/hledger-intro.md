@@ -13,6 +13,7 @@
 2. Create a file in that folder called `2025.journal`: `cd ~/Documents/records/finance; touch 2025.journal`
 3. Create a *symlink* to that file in your home directory, with the name `.hledger.journal`: `cd; ln -s ~/Documents/records/finance/2025.journal .hledger.journal`
 4. Now, set up your initial accounts. Put this into your journal file:
+
 ```ledger
 account assets:bank:savings        ; type:A,
 account assets:investment:roth        ; type:A,
