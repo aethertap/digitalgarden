@@ -19,4 +19,4 @@ You have both spent some money on things recently. Let's record those transactio
 
 `hledger add` a transaction that puts a *negative* amount in your `assets:cash` account, and the balancing positive amount in `expenses:spending`. If you want to be more detailed with the spending, you can add another category below that, like `expenses:spending:steam` or `expenses:spending:gifts`
 
-- [ ] #hw Use `hledger` to add transactions for things you've done to earn and spend money over the last few months. [[2025-04-14\|2025-04-14]]
+- [x] #hw Use `hledger` to add transactions for things you've done to earn and spend money over the last few months. [[2025-04-14\|2025-04-14]]

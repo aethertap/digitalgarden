@@ -74,4 +74,4 @@ Whatever you think of is valid as long as you keep track of all of the list item
 
 ## Homework
 
-- [ ] #hw (math) (gr7) 14.1 Counting with Addition and Subtraction (p. 510) [[2025-04-09\|2025-04-09]] 
+- [x] #hw (math) (gr7) 14.1 Counting with Addition and Subtraction (p. 510) [[2025-04-09\|2025-04-09]]

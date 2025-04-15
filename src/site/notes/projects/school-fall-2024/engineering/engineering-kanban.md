@@ -13,8 +13,6 @@
 ## Engineering Skills
 
 - [ ] Watch this [motors video](https://www.youtube.com/watch?v=-PCuDnpgiew) with the kids
-- [ ] #hw (robotics) Make a test track for your robot with sheets of paper and black electrical tape. The bots are big, so the track will need to be very large (it should probably be laid out all over the floor of the workshop).
-- [ ] #hw (robotics) Analyze what the biggest speed bottleneck is for your robot. What could you change about its behavior to make it follow the track faster? Write a technical report of 200-500 words that describes the problems you identified and proposes a step you can take to improve performance. It must be specific, measurable, and achievable in a reasonable amount of time.
 - [ ] #hw (robotics) Implement your proposed speedup changes.
 
 
@@ -36,13 +34,15 @@
 
 ## In-progress
 
-- [ ] #hw Drive the bots around on a simple oval track, two straight sections, two semicircles. Debug and optimize the line-following code [[2025-04-01\|2025-04-01]]
-- [ ] Debug the movement controls, do an in-depth code review and provide suggestions for improvements in code structure. Pay special attention to repetitive or misplaced functions (state funcs in the state machine or robot class, etc).
+- [x] #hw Drive the bots around on a simple oval track, two straight sections, two semicircles. Debug and optimize the line-following code [[2025-04-01\|2025-04-01]]
+- [ ] #hw (robotics, gr10) Analyze what the biggest speed bottleneck is for your robot. What could you change about its behavior to make it follow the track faster? Write a technical report of 200-500 words that describes the problems you identified and proposes a step you can take to improve performance. It must be specific, measurable, and achievable in a reasonable amount of time. [[2025-04-24\|2025-04-24]]
 
 
 ## Complete
 
 **Complete**
+- [x] #hw (robotics) Make a test track for your robot with sheets of paper and black electrical tape. The bots are big, so the track will need to be very large (it should probably be laid out all over the floor of the workshop).
+- [x] Debug the movement controls, do an in-depth code review and provide suggestions for improvements in code structure. Pay special attention to repetitive or misplaced functions (state funcs in the state machine or robot class, etc).
 - [x] #hw Final assembly of v2 [[projects/school-fall-2024/engineering/engineering-projects/differential-steering-bot\|differential-steering-bot]], and test the state machine implementation with all parts active. [[2025-03-27\|2025-03-27]]
 - [x] [[projects/school-fall-2024/engineering/engineering-projects/differential-steering-bot\|differential-steering-bot]]: Connect the IR obstacle sensors to the board and add them to the control loop. Write code to test each sensor one at a time to avoid interference.
 - [x] Fix the caster wheel mount so that the screws don't interfere with the turning of the caster.

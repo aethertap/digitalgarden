@@ -68,3 +68,19 @@ When it's done, the stock buy transation should look like this:
     assets:investments:roth     3 VTI @ $244.88
     assets:bank:savings
 ```
+
+### Paying Employees
+
+You have somebody doing work for you, and you want to keep track of how much they should be paid at the next pay period. Their work creates a debt that you owe, which you periodically pay off from an asset account.
+
+```hledger
+P mow_field $50
+
+2025-04-11 gr10 mowed west field
+    assets:work_received:gr10  1 mow_field
+    liabilities:wages:gr10  
+
+2025-04-11 Paid gr10
+    liabilities:wages:gr10     $50
+    assets:cash
+```

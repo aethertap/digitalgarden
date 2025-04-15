@@ -34,7 +34,7 @@
 
 ## In-progress
 
-- [ ] #hw (lang) Revise your essay to address the things you saw as weaknesses so that you feel good turning it in. [[2025-04-02\|2025-04-02]]
+- [x] #hw (lang) Revise your essay to address the things you saw as weaknesses so that you feel good turning it in. [[2025-04-02\|2025-04-02]]
 
 
 ## To-grade

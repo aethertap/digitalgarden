@@ -59,4 +59,4 @@ The whole trick of counting in this way is to figure out what the **settings** a
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 14.2 The Multiplication Principle (p. 519) [[2025-04-14\|2025-04-14]] 
+- [x] #hw (math) (gr7) 14.2 The Multiplication Principle (p. 519) [[2025-04-14\|2025-04-14]]

@@ -31,6 +31,6 @@ Given are parallel lines $m$ and $n$ and point $P$ between the lines. Construct 
 ## Homework
 
 
-- [ ] #hw (geom-gr10) 16.6 Construction: Transformations  (p. 427) (gr10) [[2025-04-14\|2025-04-14]] 
+- [x] #hw (geom-gr10) 16.6 Construction: Transformations  (p. 427) (gr10) [[2025-04-14\|2025-04-14]]
 
 

@@ -11,6 +11,11 @@ We are building a pair of line-following robots starting from scratch. The goal 
 - The line sensor is an IR obstacle detector board (or multiple)
 - The chassis will be 3d-printed based on your own design
 
+## Resources
+
+- [PCA9535 GPIO pin expander via I2C](https://www.nxp.com/docs/en/data-sheet/PCA9535_PCA9535C.pdf)
+- [PCF8591 Analog pin expandier via I2C](https://www.nxp.com/docs/en/data-sheet/PCF8591.pdf)
+
 ## Designs
 
 - [gr7's chassis](https://cad.onshape.com/documents/d9c6e6e8b980254d1cd213e0/w/5bf74cf46dc59c707ecd62c0/e/2fe41bc957e6303d07efb8ef)
@@ -48,6 +53,12 @@ We are building a pair of line-following robots starting from scratch. The goal 
     - Their rotation is inconsistent
     - According to the docs, they should have no motion if the pulse width is 1.5 ms, so maybe we should try servo.writeMicroseconds(1500), and use our map function to manually map the -1...1 interval of speed into the 1000 ... 2000 range of microsecond timings.
     - I am wondering if continuously writing the value with the servo is causing it to reset its internal timing and messing up the pulse interval and width
+    - **Resolution**: The servos themselves are the problem. They just don't work well, because they're cheap. We switched to plain DC motors with PWM control and all is well.
+- We have learned that using pin 13 as the input from the IR sensor is not a good idea.
+    - The IR sensor seems to put out an analog voltage rather than a digital signal as we expected
+    - Pin 13 has a resistor and LED attached to it *on the board*, so it has some voltage drop built in
+    - When we're working with signals close to the threshold anyway, it's too hard to tune the IR sensor board with that extra LED load applied.
+- 
 ![Pasted image 20250408100121.jpg](/img/user/projects/school-fall-2024/engineering/engineering-projects/_resources/Pasted%20image%2020250408100121.jpg)
 
 ## Next steps

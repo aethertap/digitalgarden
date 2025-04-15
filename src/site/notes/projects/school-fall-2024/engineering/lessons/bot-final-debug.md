@@ -15,7 +15,7 @@
 
 ### Lesson-specific resource links
 
-- [ ] #hw Read [Dire wolves brought back from extinction](https://interestingengineering.com/innovation/dire-wolves-return-after-13000-years) and write an ACE response to the question: Should humans bring extinct animals back to life? [[2025-04-17\|2025-04-17]]
+- [ ] #hw Read [Dire wolves brought back from extinction](https://interestingengineering.com/innovation/dire-wolves-return-after-13000-years) and write an ACE response to the question: Should humans bring extinct animals back to life? [[2025-04-16\|2025-04-16]]
 
  [[projects/school-fall-2024/engineering/engineering-projects/differential-steering-bot\|differential-steering-bot]] project
 

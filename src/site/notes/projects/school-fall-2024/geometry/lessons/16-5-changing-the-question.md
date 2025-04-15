@@ -50,4 +50,4 @@ In geometry in particular, we work with diagrams that can be very complex. Anoth
 ## Homework
 
 
-- [ ] #hw (geom-gr10) 16.5 Changing the Question  (p. 422) (gr10) [[2025-04-09\|2025-04-09]] 
+- [x] #hw (geom-gr10) 16.5 Changing the Question  (p. 422) (gr10) [[2025-04-09\|2025-04-09]]

@@ -26,8 +26,8 @@
  
 - What is the formula for calculating *impulse* from force?  
 
-gr7: [lightning:: ]
-gr10: [lightning:: ]
+gr7: [lightning:: 3]
+gr10: [lightning:: 5]
 
 ## Lesson content with examples
 
@@ -39,7 +39,7 @@ gr10: [lightning:: ]
 
 - [Youtube search for "Springs and pendulums, harmonic motion."](https://www.youtube.com/results?search_query=Springs%20and%20pendulums,%20harmonic%20motion.) 
 ## Checking homework
-<div><ul class="contains-task-list"><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a href="#hw" class="tag" target="_blank" rel="noopener nofollow">#hw</a> (physics) Three problems, <a data-tooltip-position="top" aria-label="https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/curved-mirrors-and-thin-lenses" rel="noopener nofollow" class="external-link" href="https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/curved-mirrors-and-thin-lenses" target="_blank">see the lesson page under "Homework"</a> <a data-href="2025-04-09" href="2025-04-09" class="internal-link" target="_blank" rel="noopener nofollow">2025-04-09</a></span></li></ul></div>
+<div><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for task query.</p></div></div>
 
 ## Guided practice
 
@@ -48,4 +48,4 @@ gr10: [lightning:: ]
 
 ## Homework
 
-- [ ] #hw (physics) Write up the results of your spring experiment as a formal lab report (use [this link as a guide](https://www.aplusphysics.com/courses/regents/lab_report.html)), and explain your conclusions. [[2025-04-14\|2025-04-14]]
+- [x] #hw (physics) Write up the results of your spring experiment as a formal lab report (use [this link as a guide](https://www.aplusphysics.com/courses/regents/lab_report.html)), and explain your conclusions. [[2025-04-14\|2025-04-14]]

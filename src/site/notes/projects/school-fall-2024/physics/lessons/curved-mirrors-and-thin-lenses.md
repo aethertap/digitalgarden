@@ -111,4 +111,4 @@ Mirrors can also make real or virtual images. In a concave mirror, a real image 
 3. What happens to the image you see if you move the lens *past* the focal point? [[2025-04-09\|2025-04-09]]
 
 
-- [ ] #hw (physics) Three problems, [see the lesson page under "Homework"](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/curved-mirrors-and-thin-lenses) [[2025-04-09\|2025-04-09]]
+- [x] #hw (physics) Three problems, [see the lesson page under "Homework"](https://school.ginosterous.com/projects/school-fall-2024/physics/lessons/curved-mirrors-and-thin-lenses) [[2025-04-09\|2025-04-09]]

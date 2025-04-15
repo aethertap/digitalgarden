@@ -12,7 +12,7 @@
 - [[projects/school-fall-2024/language/literature-2024\|literature-2024]]
 
 
-- [ ] #hw Read https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/ [[2025-04-14\|2025-04-14]]
+- [x] #hw Read https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/ [[2025-04-14\|2025-04-14]]
 
 ## Lesson Chunks
 
