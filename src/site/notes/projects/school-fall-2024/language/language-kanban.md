@@ -22,7 +22,7 @@
     - 7 Exercises p. 204-217
 - [ ] The Writing Process (p. 218) [[2025-04-07\|2025-04-07]]
     - 8 Exercises p. 224-235
-- [ ] Research for Writing (p. 236) [[2025-04-14\|2025-04-14]]
+- [x] Research for Writing (p. 236) [[2025-04-14\|2025-04-14]]
     - 7 Exercises p. 242-251
 - [ ] Media Literacy (p. 252) [[2025-04-21\|2025-04-21]]
     - 8 Exercises p. 255-269
