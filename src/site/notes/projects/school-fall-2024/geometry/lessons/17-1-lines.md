@@ -58,4 +58,4 @@ Starting with two points $a = (x_{a},y_{a})$ and $b=(x_{b},y_{b})$ on the line, 
 
 ## Homework
 
-- [ ] #hw (geom-gr10) 17.1 Lines  (p. 437) (gr10) [[2025-04-16\|2025-04-16]] 
+- [x] #hw (geom-gr10) 17.1 Lines  (p. 437) (gr10) [[2025-04-16\|2025-04-16]]

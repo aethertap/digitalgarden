@@ -17,8 +17,8 @@
 
 ### Lesson-specific resource links
  
-- [ ] #hw (science) Read https://www.snexplores.org/article/some-stress-may-help-young-people-build-resilience. [[2025-04-21\|2025-04-21]]
-- [ ] #hw (phys) Read [The greatest flood in Earth's history](https://www.sciencealert.com/largest-single-flood-may-have-filled-mediterranean-5-million-years-ago) [[2025-04-23\|2025-04-23]]
+- [x] #hw (science) Read https://www.snexplores.org/article/some-stress-may-help-young-people-build-resilience. [[2025-04-21\|2025-04-21]]
+- [x] #hw (phys) Read [The greatest flood in Earth's history](https://www.sciencealert.com/largest-single-flood-may-have-filled-mediterranean-5-million-years-ago) [[2025-04-23\|2025-04-23]]
 
 ### Lightning Round Questions
 
@@ -57,5 +57,5 @@ gr10: [lightning:: 1]
 
 
 
-- [ ] #hw (physics) ACE Response: "Being challenged is important for kids' development." Consider the statement and argue for or against it, using any article you want for evidence. [[2025-04-21\|2025-04-21]]
-- [ ] #hw (physics) Think about how to extend the flat-object center of mass procedure we used into one that works for a three-dimensional object. Write your procedure with clear steps. What is the smallest number of measurements you would need in order to mark the center of mass of a three-dimensional object? [[2025-04-16\|2025-04-16]]
+- [x] #hw (physics) ACE Response: "Being challenged is important for kids' development." Consider the statement and argue for or against it, using any article you want for evidence. [[2025-04-21\|2025-04-21]]
+- [x] #hw (physics) Think about how to extend the flat-object center of mass procedure we used into one that works for a three-dimensional object. Write your procedure with clear steps. What is the smallest number of measurements you would need in order to mark the center of mass of a three-dimensional object? [[2025-04-16\|2025-04-16]]

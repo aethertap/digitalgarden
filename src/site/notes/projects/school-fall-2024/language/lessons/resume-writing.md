@@ -35,4 +35,4 @@
 
 ## Homework
 
-- [ ] #hw (lang) Write a resume as if you had to apply for another year of school, and you want to make sure you get the best classes. [[2025-04-16\|2025-04-16]]
+- [x] #hw (lang) Write a resume as if you had to apply for another year of school, and you want to make sure you get the best classes. [[2025-04-16\|2025-04-16]]

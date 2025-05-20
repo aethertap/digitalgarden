@@ -34,4 +34,4 @@ The proportional part is a tuning parameter you can use to decide how much you t
 
 ## Homework
 
-- [ ] #hw (programming) Implement a chase mode for your tanks, so that your tank will try to chase down an enemy. [[2025-04-16\|2025-04-16]]
+- [x] #hw (programming) Implement a chase mode for your tanks, so that your tank will try to chase down an enemy. [[2025-04-16\|2025-04-16]]

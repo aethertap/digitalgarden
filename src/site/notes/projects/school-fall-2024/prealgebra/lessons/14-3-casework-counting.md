@@ -40,4 +40,4 @@ Whenever you come across a counting problem that has choices that end up with di
 ## Homework
 
 
-- [ ] #hw (math) (gr7) 14.3 Casework (p. 525) [[2025-04-16\|2025-04-16]] 
+- [x] #hw (math) (gr7) 14.3 Casework (p. 525) [[2025-04-16\|2025-04-16]]

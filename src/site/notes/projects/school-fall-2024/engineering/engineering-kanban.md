@@ -35,7 +35,7 @@
 ## In-progress
 
 - [x] #hw Drive the bots around on a simple oval track, two straight sections, two semicircles. Debug and optimize the line-following code [[2025-04-01\|2025-04-01]]
-- [ ] #hw (robotics, gr10) Analyze what the biggest speed bottleneck is for your robot. What could you change about its behavior to make it follow the track faster? Write a technical report of 200-500 words that describes the problems you identified and proposes a step you can take to improve performance. It must be specific, measurable, and achievable in a reasonable amount of time. [[2025-04-24\|2025-04-24]]
+- [x] #hw (robotics, gr10) Analyze what the biggest speed bottleneck is for your robot. What could you change about its behavior to make it follow the track faster? Write a technical report of 200-500 words that describes the problems you identified and proposes a step you can take to improve performance. It must be specific, measurable, and achievable in a reasonable amount of time. [[2025-04-24\|2025-04-24]]
 
 
 ## Complete

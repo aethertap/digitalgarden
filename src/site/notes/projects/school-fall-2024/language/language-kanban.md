@@ -18,17 +18,17 @@
     - 6 Exercises p. 170-177
 - [x] Textual Analysis (p. 178) [[2025-03-24\|2025-03-24]]
     - 7 Exercises p. 184-196
-- [x] Writing Narratives (p. 197) [[2025-03-31\|2025-03-31]]
+- [ ] Writing Narratives (p. 197) 
     - 7 Exercises p. 204-217
-- [ ] The Writing Process (p. 218) [[2025-04-07\|2025-04-07]]
+- [ ] The Writing Process (p. 218) 
     - 8 Exercises p. 224-235
-- [x] Research for Writing (p. 236) [[2025-04-14\|2025-04-14]]
+- [ ] Research for Writing (p. 236) 
     - 7 Exercises p. 242-251
-- [ ] Media Literacy (p. 252) [[2025-04-21\|2025-04-21]]
+- [ ] Media Literacy (p. 252) 
     - 8 Exercises p. 255-269
-- [ ] Expository Writing (p. 270) [[2025-04-28\|2025-04-28]]
+- [ ] Expository Writing (p. 270) 
     - 7 Exercises p. 276-289
-- [ ] Writing Arguments (p. 290) [[2025-05-05\|2025-05-05]]
+- [ ] Writing Arguments (p. 290) 
     - 10 Exercises p. 296-312
 
 
@@ -70,10 +70,10 @@
 - [x] #hw (lang) Exercises 1.7-1.8 (EVEN Numbers only) [[2025-01-13\|2025-01-13]]
 - [x] #hw (lang) Exercise 1.1-1.2 [[2025-01-08\|2025-01-08]]
 - [x] 1.9 and 1.10 are in [[projects/school-fall-2024/language/lessons/editing-sentences\|editing-sentences]] assignment
-- [ ] Wee free men Rough draft
+- [x] Wee free men Rough draft
 - [x] Extreme Ownership Rough Draft [[2025-01-06\|2025-01-06]]
-- [ ] Wee Free Men Final draft
-- [ ] Comma usage practice (IXL)
+- [x] Wee Free Men Final draft
+- [x] Comma usage practice (IXL)
 
 
 

@@ -77,10 +77,48 @@ You have somebody doing work for you, and you want to keep track of how much the
 P mow_field $50
 
 2025-04-11 gr10 mowed west field
-    assets:work_received:gr10  1 mow_field
-    liabilities:wages:gr10  
+    expenses:labor:gr10  1 mow_field
+    liabilities:owed:gr10  
 
 2025-04-11 Paid gr10
-    liabilities:wages:gr10     $50
+    liabilities:owed:gr10     $50
     assets:cash
 ```
+
+### Paying by forgiving debt
+
+Scenario:
+1. gr10 mows the pasture, earning $50.00, which goes in as a liability that I owe to her
+2. She asks me to buy a month of crunchyroll for her for $8.00, by canceling some of her owed wages
+
+Mental model:
+She works to mow the grass, and I owe her $50.00. I am buying crunchyroll with my own credit card for $8.00. She offers to pay me back, which means she incurs a debt to me that balances the crunchyroll expense. I then forgive her debt by having her forgive *my* debt.
+```hledger
+P mowing $50
+
+2025-04-11 gr10 mowed west field
+    expenses:labor:gr10  1 mowing
+    liabilities:owed:gr10  
+
+2025-04-11 buy crunchyroll month for gr10
+    expenses:fun       $8.00
+    liabilities:amazonchase
+
+2025-04-11 gr10 reimburses by owing me
+    assets:debts:gr10       $8.00
+    expenses:fun
+
+2025-04-11 I credit gr10's debt by canceling some of my debt to her
+    assets:debts:gr10        -$8.00
+    liabilities:owed:gr10
+```
+
+The net result of all of that would be equivalent to me just using my credit card to pay part of her wages, which would look like this:
+
+```hledger
+2025-04-11 I pay for crunchyroll for gr10
+    liabilities:amazonchase        -$8.00
+    liabilities:owed:gr10        $8.00
+```
+
+By adding a *positive* value to the `liabilties:owed:gr10` account, I'm *reducing* the amount I owe to her.

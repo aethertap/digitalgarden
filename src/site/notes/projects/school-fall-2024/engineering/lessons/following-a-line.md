@@ -39,5 +39,5 @@ This works, but it's very inefficient in terms of motion speed. How could we do 
 ## Homework
 
 
-- [ ] #hw (engr) Time your bot as it goes around the track a few times and record the data.  [[2025-04-22\|2025-04-22]]
-- [ ] #hw (engr) Make some adjustments in your code to see if you can make it either more reliable (if it has a hard time staying on the line) or faster. Repeat the time trials to see if it helped.  [[2025-04-22\|2025-04-22]]
+- [x] #hw (engr) Time your bot as it goes around the track a few times and record the data.  [[2025-04-22\|2025-04-22]]
+- [x] #hw (engr) Make some adjustments in your code to see if you can make it either more reliable (if it has a hard time staying on the line) or faster. Repeat the time trials to see if it helped.  [[2025-04-22\|2025-04-22]]
