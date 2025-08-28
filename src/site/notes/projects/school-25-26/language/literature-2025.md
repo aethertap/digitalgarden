@@ -17,11 +17,11 @@ We have a list of books to read. Each week, we'll try to get through about 75-10
 
 3700pp, 100 pages per week. We will get through as much as we can manage, this class is adaptable.
 
-1. [ ] _Fahrenheit 451_, Ray Bradbury, 179 pp `js= customJS.School.dynamic_class("lit","projects/school-25-26/literature/lessons","Fahrenheit 451")`
+1. [ ] _Fahrenheit 451_, Ray Bradbury, 179 pp [[projects/school-25-26/literature/lessons/lit-02-fahrenheit-451\|Fahrenheit 451 (session 2)]]
 2. [ ] _The Magic of Reality_, Richard Dawkins, 257 pp
 3. [ ] _The Odyssey_, Homer, 485pp
 4. [ ] _The War of Art_, Steven Pressfield, 164 pp
-5. [ ] _Life's Ratchet_, Peter M Hoffman, 246 pp `js= customJS.School.dynamic_class("lit","projects/school-25-26/literature/lessons","Life's Ratchet")`
+5. [ ] _Life's Ratchet_, Peter M Hoffman, 246 pp [[projects/school-25-26/literature/lessons/lit-02-lifes-ratchet\|Life's Ratchet (session 2)]]
 6. [ ] _Building a Second Brain_, Tiago Forte, 248 pp
 7. [ ] _Life's Engines_, Paul G Falkowski, 186 pp
 8. [ ] _On The Beach_, Nevil Shute, 278pp

@@ -21,13 +21,13 @@ G-code is a set of very simple, specific instruction codes that tell the control
 - [ ] [OnStepX Telescope control software](https://github.com/hjd1964/OnStepX) - making a motorized telescope mount could be really cool #remind/monthly
 
 ## Lessons - 37 full weeks
-Create `js= ((cjs)=> cjs.School.dynamic_class("micro","projects/school-25-26/engineering/projects","Microscope Camera Build"))(customJS)` 
+Create [[projects/school-25-26/engineering/projects/micro-03-microscope-camera-build\|Microscope Camera Build (session 3)]] 
 1.  [[projects/school-25-26/engineering/projects/micro-01-microscope-camera-build\|micro-01-microscope-camera-build]]- project page [[projects/school-25-26/engineering/projects/microscope-camera\|microscope-camera]]
 2.  [[projects/school-25-26/engineering/projects/micro-02-microscope-camera-build\|micro-02-microscope-camera-build]]- project page [[projects/school-25-26/engineering/projects/microscope-camera\|microscope-camera]]
 3. [Design for 3D printing](https://blog.rahix.de/design-for-3d-printing/) [[projects/school-25-26/engineering/lessons/engr-02-design-for-3d-printing\|engr-02-design-for-3d-printing]]
 4. [[engr-02-parts-library\|engr-02-parts-library]] - taking inventory and planning what we'll need for our CAD model
 5. [[engr-03-analyze-designs\|engr-03-analyze-designs]] - Look at the laser engraver and the root-4 and PrintNC designs
-6. `js= customJS.School.dynamic_class("router","projects/school-25-26/engineering/projects","CNC Router Build")` Building our CNC router
+6. [[projects/school-25-26/engineering/projects/router-01-cnc-router-build\|CNC Router Build (session 1)]] Building our CNC router
  
 ### Homework
 
