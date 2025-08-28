@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-25-26/full-class-schedule/","contentClasses":"full-width","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/school-25-26/full-class-schedule/"}
 ---
 
 # Index of all scheduled classes

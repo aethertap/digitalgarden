@@ -5,47 +5,14 @@
 
 # 2025 School Master Index
 
-Classes:
-- [[projects/school-25-26/algebra-2/algebra-2\|Algebra 2]]
-- [[projects/school-25-26/algebra-1/introduction-to-algebra\|Algebra 1]]
-- [[projects/school-25-26/biology/biology\|Biology]]
-- [[projects/school-25-26/engineering/engineering-2025\|Engineering]]
-- [[projects/school-25-26/history/history-2025\|American History and Civics]]
-- [[projects/school-25-26/college-prep/act-study\|ACT Preparation]]
-- [[projects/school-25-26/language/literature-2025\|Literature Discussion]]
-- Curriculum-integrated writing ([[projects/school-25-26/language/writing-revolution\|writing-revolution]])
 
-## Monday
+| Monday                          | Tuesday                                | Wednesday                       | Thursday                               | Friday                          |
+| ------------------------------- | -------------------------------------- | ------------------------------- | -------------------------------------- | ------------------------------- |
+| [[algebra-1\|Algebra 1]]        | [[projects/school-25-26/biology/biology\|Biology]]                   | [[algebra-1\|Algebra 1]]        | [[projects/school-25-26/biology/lab-biology\|Biology Lab]]           | [[algebra-1\|Algebra 1]]        |
+| [[projects/school-25-26/algebra-2/algebra-2\|Algebra 2]]        | [[projects/school-25-26/engineering/engineering-2025\|Engineering]]      | [[projects/school-25-26/algebra-2/algebra-2\|Algebra 2]]        |                                        | [[projects/school-25-26/algebra-2/algebra-2\|Algebra 2]]        |
+| [[history\|History]]            | [[projects/school-25-26/college-prep/act-study\|ACT Prep]]                | [[projects/school-25-26/history/american-gov-101\|Civics]]    | Business Dev                           | Project Time                    |
+| [[projects/school-25-26/language/writing-revolution\|Writing]] | [[projects/school-25-26/programming/projects/your-personal-website\|Website dev]] | [[projects/school-25-26/language/writing-revolution\|Writing]] | [[projects/school-25-26/programming/projects/your-personal-website\|Website dev]] | [[projects/school-25-26/language/literature-2025\|Literature]] |
 
-- Algebra 1
-- Algebra 2
-- History and Civics
-- Writing and website
+# Assignments
 
-## Tuesday
-
-- Biology
-- Engineering project time
-- ACT/College Prep
-- Literature discussions
-
-## Wednesday
-
-- Algebra 1
-- Algebra 2
-- History and Civics
-- Writing and website
-
-## Thursday
-
-- Biology discussion
-- Biology lab
-- Engineering project
-- ACT/College prep
-
-## Friday
-
-- Quizzes
-- Algebra 1
-- Algebra 2
-- Literature
+<div><span><em>Grading</em></span></div><div><span><em>Due Today</em></span></div><div><span><em>Due Tomorrow</em></span></div><div><span><em>One Week</em></span></div><div><span><em>Farther Out</em></span></div><div><span>-</span></div><div><span>-</span></div><div><span>-</span></div><div><ul class="contains-task-list"><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a href="#hw" class="tag" target="_blank" rel="noopener nofollow">#hw</a> (bio) Read chapter 1: Evolution, the Themes of Biology, and Scientific Inquiry <a data-href="2025-09-02" href="2025-09-02" class="internal-link" target="_blank" rel="noopener nofollow">2025-09-02</a></span></li></ul></div><div><ul class="contains-task-list"><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a href="#hw" class="tag" target="_blank" rel="noopener nofollow">#hw</a> (alg1) Section 1.2 all problems <a data-href="2025-09-05" href="2025-09-05" class="internal-link" target="_blank" rel="noopener nofollow">2025-09-05</a></span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a href="#hw" class="tag" target="_blank" rel="noopener nofollow">#hw</a> (math) (gr11) 1.1.1 through 1.1.4 <a data-href="2025-09-05" href="2025-09-05" class="internal-link" target="_blank" rel="noopener nofollow">2025-09-05</a></span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a href="#hw" class="tag" target="_blank" rel="noopener nofollow">#hw</a> (math) (gr11) Section 1.2, non-starred <a data-href="2025-09-08" href="2025-09-08" class="internal-link" target="_blank" rel="noopener nofollow">2025-09-08</a></span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a href="#hw" class="tag" target="_blank" rel="noopener nofollow">#hw</a> Getting stated with <a data-tooltip-position="top" aria-label="https://astro.build" rel="noopener nofollow" class="external-link" href="https://astro.build" target="_blank">Astro</a> - follow the tutorial to build a simple blog using the SoildJS integration. <a data-href="2025-09-08" href="2025-09-08" class="internal-link" target="_blank" rel="noopener nofollow">2025-09-08</a></span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a href="#hw" class="tag" target="_blank" rel="noopener nofollow">#hw</a> (bio) (gr11) Questions 1.9, 1.12, 1.13  <a data-href="2025-09-09" href="2025-09-09" class="internal-link" target="_blank" rel="noopener nofollow">2025-09-09</a></span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a href="#hw" class="tag" target="_blank" rel="noopener nofollow">#hw</a> (bio) Questions 1.1-1.8  <a data-href="2025-09-09" href="2025-09-09" class="internal-link" target="_blank" rel="noopener nofollow">2025-09-09</a></span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a href="#hw" class="tag" target="_blank" rel="noopener nofollow">#hw</a> (bio) Read Chapter 2: The Chemical Context of Life p.28 <a data-href="2025-09-09" href="2025-09-09" class="internal-link" target="_blank" rel="noopener nofollow">2025-09-09</a></span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a href="#hw" class="tag" target="_blank" rel="noopener nofollow">#hw</a> (engr) Test Arducam with rpicamgui  <a data-href="2025-09-09" href="2025-09-09" class="internal-link" target="_blank" rel="noopener nofollow">2025-09-09</a></span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a href="#hw" class="tag" target="_blank" rel="noopener nofollow">#hw</a> (lit) Read Fahrenheit 451, p. 1-68 <a data-href="2025-09-10" href="2025-09-10" class="internal-link" target="_blank" rel="noopener nofollow">2025-09-10</a></span></li><li data-task=" " class="dataview task-list-item"><input type="checkbox" class="dataview task-list-item-checkbox"><span><a href="#hw" class="tag" target="_blank" rel="noopener nofollow">#hw</a> (math) (gr8) Section 1.4 all problems <a data-href="2025-09-10" href="2025-09-10" class="internal-link" target="_blank" rel="noopener nofollow">2025-09-10</a></span></li></ul></div>

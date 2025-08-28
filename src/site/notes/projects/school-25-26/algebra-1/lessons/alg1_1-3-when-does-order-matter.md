@@ -6,7 +6,7 @@
 #  1.3: When does order matter?
 
 
-- [ ] #hw (math) (gr8) Section 1.3 all problems [[2025-08-04\|2025-08-04]]  
+- [x] #hw (math) (gr8) Section 1.3 all problems [[2025-08-04\|2025-08-04]]
 
  
 > [!multi-column]
