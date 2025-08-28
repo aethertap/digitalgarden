@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-25-26/schedule-table/"}
+{"dg-publish":true,"permalink":"/projects/school-25-26/schedule-table/","contentClasses":"full-width"}
 ---
 
 

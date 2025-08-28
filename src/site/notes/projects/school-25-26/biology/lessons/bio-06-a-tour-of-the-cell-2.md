@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/school-25-26/biology/lessons/bio-06-a-tour-of-the-cell-2/","title":"Ch 6: A Tour of the Cell Part 2"}
+{"dg-publish":true,"permalink":"/projects/school-25-26/biology/lessons/bio-06-a-tour-of-the-cell-2/","title":"Ch 6: A Tour of the Cell Part 2","contentClasses":"full-width"}
 ---
 
 
