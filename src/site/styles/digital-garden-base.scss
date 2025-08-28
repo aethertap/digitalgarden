@@ -18,7 +18,7 @@ img {
 }
 
 .content {
-    /*max-width: 700px;*/
+    max-width: 700px;
     margin: auto;
     font-size: 18px;
     line-height: 1.5;
@@ -129,7 +129,6 @@ ul.task-list {
     flex-direction: column;
     justify-content: flex-start;
     height: 87%;
-    display:none;
 }
 
 .toc {
@@ -151,7 +150,6 @@ ul.task-list {
 }
 
 .toc-container {
-    display:none;
     font-size: 1rem;
     max-height: 220px;
     overflow-y: auto;
