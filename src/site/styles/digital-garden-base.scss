@@ -18,7 +18,7 @@ img {
 }
 
 .content {
-    max-width: 700px;
+    /*max-width: 700px;*/
     margin: auto;
     font-size: 18px;
     line-height: 1.5;
@@ -113,6 +113,7 @@ ul.task-list {
             display: none;
         }
     }
+  display:none;
 }
 
 .expand-line {
@@ -129,6 +130,7 @@ ul.task-list {
     flex-direction: column;
     justify-content: flex-start;
     height: 87%;
+  display:none;
 }
 
 .toc {
@@ -179,6 +181,7 @@ ul.task-list {
             }
         }
     }
+  display:none;
 }
 
 .toc-title-container {
@@ -191,6 +194,7 @@ ul.task-list {
         padding: 3px 7px 3px 0;
         border-radius: 10px 10px 0 0;
     }
+  display:none;
 }
 
 .backlinks {
